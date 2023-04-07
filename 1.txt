@@ -1,0 +1,2036 @@
+Name: Wumbo Pass | https://opensea.io/collection/wumbopass/analytics | https://blur.io/collection/wumbopass
+Floor: 2.15 | Offer: 1.48336 | 7D Sales: 23 | Fee: 0.5% | Total Volume: 667.68 | Blur Floor: 2.13 | Blur Bid: 2.04
+Profit: 0.65589 | 44.22% | Blur Bid Profit: 0.54644
+=======================
+Name: AlfaDAO Access Cards | https://opensea.io/collection/alfadao-access/analytics | https://blur.io/collection/alfadao-access
+Floor: 3.0 | Offer: 1.8778 | 7D Sales: 11 | Fee: 0.5% | Total Volume: 410.47 | Blur Floor: 2.5 | Blur Bid: 2.2
+Profit: 1.1072 | 58.96% | Blur Bid Profit: 0.3112
+=======================
+Name: Rollbots | https://opensea.io/collection/rollbots/analytics | https://blur.io/collection/rollbots
+Floor: 0.72 | Offer: 0.27863 | 7D Sales: 13 | Fee: 0.5% | Total Volume: 1016.51 | Blur Floor: 0.57 | Blur Bid: 0.52
+Profit: 0.43777 | 157.12% | Blur Bid Profit: 0.23877
+=======================
+Name: Library Onchain | https://opensea.io/collection/library-onchain/analytics | https://blur.io/collection/library-onchain
+Floor: 1.989 | Offer: 1.39177 | 7D Sales: 7 | Fee: 0.5% | Total Volume: 290.78 | Blur Floor: 1.944 | Blur Bid: 1.5
+Profit: 0.58729 | 42.2% | Blur Bid Profit: 0.10073
+=======================
+Name: Letters by Vinnie Hager | https://opensea.io/collection/letters-by-vinnie-hager/analytics | https://blur.io/collection/letters-by-vinnie-hager
+Floor: 0.6464 | Offer: 0.307211 | 7D Sales: 5 | Fee: 0.5% | Total Volume: 3265.85 | Blur Floor: 0.646 | Blur Bid: 0.4
+Profit: 0.33596 | 109.36% | Blur Bid Profit: 0.09079
+=======================
+Name: Anonymice | https://opensea.io/collection/anonymice/analytics | https://blur.io/collection/anonymice
+Floor: 0.299 | Offer: 0.1411 | 7D Sales: 15 | Fee: 0.5% | Total Volume: 15728.83 | Blur Floor: 0.255 | Blur Bid: 0.21
+Profit: 0.1564 | 110.85% | Blur Bid Profit: 0.06785
+=======================
+Name: Fast Food Punks | https://opensea.io/collection/fastfoodpunks/analytics | https://blur.io/collection/fastfoodpunks
+Floor: 0.225 | Offer: 0.06813 | 7D Sales: 12 | Fee: 0.5% | Total Volume: 69.37 | Blur Floor: 0.22 | Blur Bid: 0.13
+Profit: 0.15575 | 228.6% | Blur Bid Profit: 0.06122
+=======================
+Name: Oh Ottie! | https://opensea.io/collection/oh-ottie/analytics | https://blur.io/collection/oh-ottie
+Floor: 0.529 | Offer: 0.42173 | 7D Sales: 57 | Fee: 5.0% | Total Volume: 425.93 | Blur Floor: 0.529 | Blur Bid: 0.5
+Profit: 0.08082 | 19.16% | Blur Bid Profit: 0.05327
+=======================
+Name: Real Agents: Second Light | https://opensea.io/collection/real-agency/analytics | https://blur.io/collection/real-agency
+Floor: 0.113 | Offer: 0.05801 | 7D Sales: 12 | Fee: 10.0% | Total Volume: 20.24 | Blur Floor: 0.113 | Blur Bid: 0.12
+Profit: 0.04369 | 75.31% | Blur Bid Profit: 0.04999
+=======================
+Name: Realms (for Adventurers) | https://opensea.io/collection/lootrealms/analytics | https://blur.io/collection/lootrealms
+You already own 1
+Floor: 0.4009 | Offer: 0.29895 | 7D Sales: 21 | Fee: 0.5% | Total Volume: 6534.72 | Blur Floor: 0.399 | Blur Bid: 0.35
+Profit: 0.09995 | 33.43% | Blur Bid Profit: 0.0493
+=======================
+Name: Onlybots | https://opensea.io/collection/onlybots/analytics | https://blur.io/collection/onlybots
+Floor: 0.12 | Offer: 0.05011 | 7D Sales: 10 | Fee: 10.0% | Total Volume: 207.32 | Blur Floor: 0.12 | Blur Bid: 0.11
+Profit: 0.05789 | 115.53% | Blur Bid Profit: 0.04889
+=======================
+Name: Wassieverse | https://opensea.io/collection/wassieverse/analytics | https://blur.io/collection/wassieverse
+Floor: 0.3099 | Offer: 0.15029 | 7D Sales: 5 | Fee: 0.5% | Total Volume: 123.99 | Blur Floor: 0.3099 | Blur Bid: 0.2
+Profit: 0.15806 | 105.17% | Blur Bid Profit: 0.04871
+=======================
+Name: Sougen Builder Pioneer Pass | https://opensea.io/collection/sougen-builder-pioneer-pass/analytics | https://blur.io/collection/sougen-builder-pioneer-pass
+Floor: 0.1 | Offer: 0.0035 | 7D Sales: 14 | Fee: 0.5% | Total Volume: 186.58 | Blur Floor: 0.1 | Blur Bid: 0.05
+Profit: 0.096 | 2742.86% | Blur Bid Profit: 0.04625
+=======================
+Name: Invisible Friends | https://opensea.io/collection/invisiblefriends/analytics | https://blur.io/collection/invisiblefriends
+Floor: 1.685 | Offer: 1.5558403 | 7D Sales: 89 | Fee: 0.5% | Total Volume: 51472.56 | Blur Floor: 1.6788 | Blur Bid: 1.61
+Profit: 0.12073 | 7.76% | Blur Bid Profit: 0.04611
+=======================
+Name: Purrnelopes Country Club | https://opensea.io/collection/purrnelopes-country-club/analytics | https://blur.io/collection/purrnelopes-country-club
+Floor: 0.11 | Offer: 0.0636 | 7D Sales: 128 | Fee: 0.5% | Total Volume: 3295.31 | Blur Floor: 0.11 | Blur Bid: 0.11
+Profit: 0.04585 | 72.09% | Blur Bid Profit: 0.04585
+=======================
+Name: RiverEstate | https://opensea.io/collection/riverestate/analytics | https://blur.io/collection/riverestate
+Floor: 0.2 | Offer: 0.08 | 7D Sales: 5 | Fee: 0.5% | Total Volume: 43.44 | Blur Floor: 0.2 | Blur Bid: 0.12
+Profit: 0.119 | 148.75% | Blur Bid Profit: 0.0394
+=======================
+Name: Right Click Share by XCOPY and Deca | https://opensea.io/collection/right-click-share/analytics | https://blur.io/collection/right-click-share
+Floor: 0.5 | Offer: 0.41001 | 7D Sales: 25 | Fee: 0.5% | Total Volume: 731.79 | Blur Floor: 0.5 | Blur Bid: 0.45
+Profit: 0.08749 | 21.34% | Blur Bid Profit: 0.03774
+=======================
+Name: Momentum Official | https://opensea.io/collection/momentum-official/analytics | https://blur.io/collection/momentum-official
+Floor: 0.682 | Offer: 0.55001 | 7D Sales: 7 | Fee: 0.5% | Total Volume: 350.55 | Blur Floor: 0.66 | Blur Bid: 0.59
+Profit: 0.12858 | 23.38% | Blur Bid Profit: 0.03704
+=======================
+Name: Treeverse Plots | https://opensea.io/collection/treeverse-plots/analytics | https://blur.io/collection/treeverse-plots
+Floor: 0.386 | Offer: 0.33333 | 7D Sales: 74 | Fee: 0.5% | Total Volume: 16455.84 | Blur Floor: 0.386 | Blur Bid: 0.37
+Profit: 0.05074 | 15.22% | Blur Bid Profit: 0.03482
+=======================
+Name: Metaverse HQ | https://opensea.io/collection/metaverse-hq/analytics | https://blur.io/collection/metaverse-hq
+Floor: 0.53 | Offer: 0.45355 | 7D Sales: 10 | Fee: 0.5% | Total Volume: 5362.67 | Blur Floor: 0.53 | Blur Bid: 0.49
+Profit: 0.0738 | 16.27% | Blur Bid Profit: 0.034
+=======================
+Name: Pixelmon - Generation 1 | https://opensea.io/collection/pixelmongen1/analytics | https://blur.io/collection/pixelmongen1
+Floor: 0.359 | Offer: 0.3144 | 7D Sales: 171 | Fee: 0.5% | Total Volume: 17741.77 | Blur Floor: 0.359 | Blur Bid: 0.35
+Profit: 0.0428 | 13.61% | Blur Bid Profit: 0.03385
+=======================
+Name: God Hates NFTees | https://opensea.io/collection/godhatesnftees/analytics | https://blur.io/collection/godhatesnftees
+Floor: 0.210279 | Offer: 0.1553 | 7D Sales: 93 | Fee: 0.5% | Total Volume: 7143.12 | Blur Floor: 0.209 | Blur Bid: 0.19
+Profit: 0.05393 | 34.72% | Blur Bid Profit: 0.03375
+=======================
+Name: CryptoNinja Partners | https://opensea.io/collection/cryptoninjapartners/analytics | https://blur.io/collection/cryptoninjapartners
+Floor: 1.3689 | Offer: 1.2600006 | 7D Sales: 262 | Fee: 0.5% | Total Volume: 10546.59 | Blur Floor: 1.368 | Blur Bid: 1.3
+Profit: 0.10205 | 8.1% | Blur Bid Profit: 0.0335
+=======================
+Name: Terraforms by Mathcastles | https://opensea.io/collection/terraforms/analytics | https://blur.io/collection/terraforms
+Floor: 1.858 | Offer: 1.708550059764299 | 7D Sales: 171 | Fee: 0.5% | Total Volume: 20103.75 | Blur Floor: 1.858 | Blur Bid: 1.75
+Profit: 0.14016 | 8.2% | Blur Bid Profit: 0.0327
+=======================
+Name: Entropy by Nahiko | https://opensea.io/collection/entropy-by-nahiko/analytics | https://blur.io/collection/entropy-by-nahiko
+Floor: 0.2499 | Offer: 0.16656 | 7D Sales: 11 | Fee: 0.5% | Total Volume: 290.41 | Blur Floor: 0.2499 | Blur Bid: 0.2
+Profit: 0.08209 | 49.29% | Blur Bid Profit: 0.03244
+=======================
+Name: Wilder World | https://opensea.io/collection/wilderworld/analytics | https://blur.io/collection/wilderworld
+Floor: 0.3294 | Offer: 0.24733 | 7D Sales: 30 | Fee: 0.5% | Total Volume: 5587.01 | Blur Floor: 0.3 | Blur Bid: 0.28
+Profit: 0.08042 | 32.52% | Blur Bid Profit: 0.03127
+=======================
+Name: Project Atama Genesis | https://opensea.io/collection/projectatamaofficial/analytics | https://blur.io/collection/projectatamaofficial
+Floor: 0.1956 | Offer: 0.13791 | 7D Sales: 19 | Fee: 0.5% | Total Volume: 798.81 | Blur Floor: 0.19 | Blur Bid: 0.17
+Profit: 0.05671 | 41.12% | Blur Bid Profit: 0.03124
+=======================
+Name: Milady Maker | https://opensea.io/collection/milady/analytics | https://blur.io/collection/milady
+Floor: 1.19 | Offer: 1.0534 | 7D Sales: 499 | Fee: 0.5% | Total Volume: 18364.03 | Blur Floor: 1.124 | Blur Bid: 1.09
+Profit: 0.13065 | 12.4% | Blur Bid Profit: 0.03115
+=======================
+Name: SIGHTSEERS BY NORMAN HARMAN | https://opensea.io/collection/sightseers-by-norman-harman/analytics | https://blur.io/collection/sightseers-by-norman-harman
+Floor: 0.8999 | Offer: 0.5766 | 7D Sales: 10 | Fee: 0.5% | Total Volume: 158.08 | Blur Floor: 0.8999 | Blur Bid: 0.61
+Profit: 0.3188 | 55.29% | Blur Bid Profit: 0.03035
+=======================
+Name: Checks - VV Edition | https://opensea.io/collection/vv-checks/analytics | https://blur.io/collection/vv-checks
+Floor: 0.94 | Offer: 0.845845 | 7D Sales: 1247 | Fee: 0.5% | Total Volume: 51460.67 | Blur Floor: 0.935 | Blur Bid: 0.88
+Profit: 0.08945 | 10.58% | Blur Bid Profit: 0.02976
+=======================
+Name: AlphaSharks NFT | https://opensea.io/collection/alphasharksofficial/analytics | https://blur.io/collection/alphasharksofficial
+Floor: 0.23 | Offer: 0.2101 | 7D Sales: 63 | Fee: 0.5% | Total Volume: 5481.97 | Blur Floor: 0.229977 | Blur Bid: 0.24
+Profit: 0.01875 | 8.92% | Blur Bid Profit: 0.0287
+=======================
+Name: Wolf Game - Generation 2 | https://opensea.io/collection/wolf-game-generation-2/analytics | https://blur.io/collection/wolf-game-generation-2
+Floor: 0.1199 | Offer: 0.07425 | 7D Sales: 19 | Fee: 6.9% | Total Volume: 41.17 | Blur Floor: 0.1199 | Blur Bid: 0.11
+Profit: 0.03738 | 50.34% | Blur Bid Profit: 0.02816
+=======================
+Name: Checks - VV Originals | https://opensea.io/collection/vv-checks-originals/analytics | https://blur.io/collection/vv-checks-originals
+Floor: 0.42 | Offer: 0.4102 | 7D Sales: 662 | Fee: 0.5% | Total Volume: 19164.4 | Blur Floor: 0.4672 | Blur Bid: 0.44
+Profit: 0.0077 | 1.88% | Blur Bid Profit: 0.0276
+=======================
+Name: Sewer Pass | https://opensea.io/collection/sewerpass/analytics | https://blur.io/collection/sewerpass
+Floor: 0.269 | Offer: 0.134 | 7D Sales: 103 | Fee: 5.0% | Total Volume: 46521.7 | Blur Floor: 0.13 | Blur Bid: 0.17
+Profit: 0.12155 | 90.71% | Blur Bid Profit: 0.0275
+=======================
+Name: Neo Tokyo Outer Citizen | https://opensea.io/collection/neotokyo-outer-citizens/analytics | https://blur.io/collection/neotokyo-outer-citizens
+Floor: 0.619 | Offer: 0.53001 | 7D Sales: 150 | Fee: 0.5% | Total Volume: 2059.12 | Blur Floor: 0.58999 | Blur Bid: 0.56
+Profit: 0.0859 | 16.21% | Blur Bid Profit: 0.02719
+=======================
+Name: DCC NineChronicles | https://opensea.io/collection/dcc-ninechronicles/analytics | https://blur.io/collection/dcc-ninechronicles
+Floor: 0.1693 | Offer: 0.00385 | 7D Sales: 8 | Fee: 0.5% | Total Volume: 43.35 | Blur Floor: 0.1693 | Blur Bid: 0.03
+Profit: 0.1646 | 4275.42% | Blur Bid Profit: 0.026
+=======================
+Name: Forgotten Runes Wizards Cult | https://opensea.io/collection/forgottenruneswizardscult/analytics | https://blur.io/collection/forgottenruneswizardscult
+Floor: 0.9195 | Offer: 0.85001 | 7D Sales: 73 | Fee: 0.5% | Total Volume: 16234.39 | Blur Floor: 0.9195 | Blur Bid: 0.88
+Profit: 0.06489 | 7.63% | Blur Bid Profit: 0.02559
+=======================
+Name: HelpMeDebugThis | https://opensea.io/collection/helpmedebugthis/analytics | https://blur.io/collection/helpmedebugthis
+Floor: 0.31 | Offer: 0.19371 | 7D Sales: 49 | Fee: 0.5% | Total Volume: 1341.4 | Blur Floor: 0.2399 | Blur Bid: 0.22
+Profit: 0.11474 | 59.23% | Blur Bid Profit: 0.02519
+=======================
+Name: Quirkies Originals | https://opensea.io/collection/quirkiesoriginals/analytics | https://blur.io/collection/quirkiesoriginals
+Floor: 0.8299 | Offer: 0.731016661202828 | 7D Sales: 94 | Fee: 0.5% | Total Volume: 18294.52 | Blur Floor: 0.829 | Blur Bid: 0.76
+Profit: 0.09473 | 12.96% | Blur Bid Profit: 0.02518
+=======================
+Name: Private Jet Pyjama Party | https://opensea.io/collection/pjpp/analytics | https://blur.io/collection/pjpp
+Floor: 0.20676999999999998 | Offer: 0.1546 | 7D Sales: 18 | Fee: 0.5% | Total Volume: 2285.07 | Blur Floor: 0.206769999999999968 | Blur Bid: 0.18
+Profit: 0.05114 | 33.08% | Blur Bid Profit: 0.0245
+=======================
+Name: Evinco | https://opensea.io/collection/evinco/analytics | https://blur.io/collection/evinco
+Floor: 0.15 | Offer: 0.0259 | 7D Sales: 8 | Fee: 0.5% | Total Volume: 87.27 | Blur Floor: 0.1005 | Blur Bid: 0.05
+Profit: 0.12335 | 476.25% | Blur Bid Profit: 0.02385
+=======================
+Name: FLUF World | https://opensea.io/collection/fluf/analytics | https://blur.io/collection/fluf
+Floor: 1.417 | Offer: 1.31002 | 7D Sales: 123 | Fee: 0.5% | Total Volume: 43837.3 | Blur Floor: 1.4 | Blur Bid: 1.34
+Profit: 0.0999 | 7.63% | Blur Bid Profit: 0.02328
+=======================
+Name: Magma Pass | https://opensea.io/collection/magma-pass/analytics | https://blur.io/collection/magma-pass
+Floor: 0.18 | Offer: 0.07701 | 7D Sales: 7 | Fee: 0.5% | Total Volume: 347.87 | Blur Floor: 0.18 | Blur Bid: 0.1
+Profit: 0.10209 | 132.57% | Blur Bid Profit: 0.02249
+=======================
+Name: Turtle Case Gang | https://opensea.io/collection/turtle-case-gang/analytics | https://blur.io/collection/turtle-case-gang
+Floor: 0.10496 | Offer: 0.0776 | 7D Sales: 5 | Fee: 0.5% | Total Volume: 223.11 | Blur Floor: 0.125 | Blur Bid: 0.1
+Profit: 0.02684 | 34.58% | Blur Bid Profit: 0.0219
+=======================
+Name: Kanpai Pandas | https://opensea.io/collection/kanpai-pandas/analytics | https://blur.io/collection/kanpai-pandas
+Floor: 1.6884 | Offer: 1.58039 | 7D Sales: 292 | Fee: 0.5% | Total Volume: 11381.6 | Blur Floor: 1.65 | Blur Bid: 1.61
+Profit: 0.09957 | 6.3% | Blur Bid Profit: 0.02156
+=======================
+Name: A Fundamental Dispute | https://opensea.io/collection/a-fundamental-dispute/analytics | https://blur.io/collection/a-fundamental-dispute
+Floor: 0.2399 | Offer: 0.139 | 7D Sales: 7 | Fee: 0.5% | Total Volume: 1175.94 | Blur Floor: 0.2399 | Blur Bid: 0.16
+Profit: 0.0997 | 71.73% | Blur Bid Profit: 0.0202
+=======================
+Name: BLOOM.xyz | https://opensea.io/collection/bloomdotxyz/analytics | https://blur.io/collection/bloomdotxyz
+Floor: 0.125 | Offer: 0.0398974 | 7D Sales: 23 | Fee: 0.5% | Total Volume: 419.15 | Blur Floor: 0.125 | Blur Bid: 0.06
+Profit: 0.08448 | 211.74% | Blur Bid Profit: 0.0198
+=======================
+Name: Impostors Genesis Aliens | https://opensea.io/collection/impostors-genesis-aliens/analytics | https://blur.io/collection/impostors-genesis-aliens
+Floor: 0.4149 | Offer: 0.378324 | 7D Sales: 119 | Fee: 0.5% | Total Volume: 22522.2 | Blur Floor: 0.415 | Blur Bid: 0.4
+Profit: 0.0345 | 9.12% | Blur Bid Profit: 0.01968
+=======================
+Name: HALO OFFICIAL | https://opensea.io/collection/halo-official/analytics | https://blur.io/collection/halo-official
+Floor: 0.15 | Offer: 0.07001 | 7D Sales: 5 | Fee: 0.5% | Total Volume: 2236.65 | Blur Floor: 0.15 | Blur Bid: 0.09
+Profit: 0.07924 | 113.18% | Blur Bid Profit: 0.01954
+=======================
+Name: Nishikigoi NFT | https://opensea.io/collection/nishikigoi-nft/analytics | https://blur.io/collection/nishikigoi-nft
+Floor: 0.1278 | Offer: 0.0703 | 7D Sales: 7 | Fee: 0.5% | Total Volume: 92.82 | Blur Floor: 0.115 | Blur Bid: 0.09
+Profit: 0.05686 | 80.88% | Blur Bid Profit: 0.01925
+=======================
+Name: Nina's Super Cool World | https://opensea.io/collection/super-cool-world/analytics | https://blur.io/collection/super-cool-world
+Floor: 0.112 | Offer: 0.0902 | 7D Sales: 16 | Fee: 0.5% | Total Volume: 6116.06 | Blur Floor: 0.1121 | Blur Bid: 0.11
+Profit: 0.02124 | 23.55% | Blur Bid Profit: 0.01925
+=======================
+Name: Worlds Beyond Official - Genesis Land Collection | https://opensea.io/collection/worlds-beyond-official-genesis-land-collection/analytics | https://blur.io/collection/worlds-beyond-official-genesis-land-collection
+Floor: 0.18 | Offer: 0.1201 | 7D Sales: 27 | Fee: 0.5% | Total Volume: 433.79 | Blur Floor: 0.18 | Blur Bid: 0.14
+Profit: 0.059 | 49.13% | Blur Bid Profit: 0.0192
+=======================
+Name: Voltz Genesis NFT | https://opensea.io/collection/voltz-genesis-nft/analytics | https://blur.io/collection/voltz-genesis-nft
+Floor: 0.31 | Offer: 0.27001 | 7D Sales: 120 | Fee: 0.5% | Total Volume: 267.74 | Blur Floor: 0.31 | Blur Bid: 0.29
+Profit: 0.03844 | 14.24% | Blur Bid Profit: 0.01854
+=======================
+Name: Grand Leisure | https://opensea.io/collection/grand-leisure/analytics | https://blur.io/collection/grand-leisure
+Floor: 0.1105 | Offer: 0.0115 | 7D Sales: 5 | Fee: 0.5% | Total Volume: 33.02 | Blur Floor: 0.0553 | Blur Bid: 0.03
+Profit: 0.09845 | 856.07% | Blur Bid Profit: 0.01835
+=======================
+Name: CyberBrokers | https://opensea.io/collection/cyberbrokers/analytics | https://blur.io/collection/cyberbrokers
+Floor: 0.40945 | Offer: 0.38974 | 7D Sales: 76 | Fee: 0.5% | Total Volume: 36659.88 | Blur Floor: 0.40955 | Blur Bid: 0.41
+Profit: 0.01766 | 4.53% | Blur Bid Profit: 0.01821
+=======================
+Name: TwitterScan | https://opensea.io/collection/twitterscan/analytics | https://blur.io/collection/twitterscan
+Floor: 0.101 | Offer: 0.0614 | 7D Sales: 46 | Fee: 0.5% | Total Volume: 426.28 | Blur Floor: 0.101 | Blur Bid: 0.08
+Profit: 0.03909 | 63.67% | Blur Bid Profit: 0.0182
+=======================
+Name: CryptoDickbutts | https://opensea.io/collection/cryptodickbutts-s3/analytics | https://blur.io/collection/cryptodickbutts-s3
+Floor: 1.61 | Offer: 1.3753386501483325 | 7D Sales: 58 | Fee: 0.5% | Total Volume: 13862.1 | Blur Floor: 1.447 | Blur Bid: 1.4
+Profit: 0.22661 | 16.48% | Blur Bid Profit: 0.01766
+=======================
+Name: Mavia Land | https://opensea.io/collection/mavia-land/analytics | https://blur.io/collection/mavia-land
+Floor: 0.2986 | Offer: 0.26101 | 7D Sales: 53 | Fee: 0.5% | Total Volume: 5407.95 | Blur Floor: 0.2986 | Blur Bid: 0.28
+Profit: 0.0361 | 13.83% | Blur Bid Profit: 0.01759
+=======================
+Name: LinksDAO | https://opensea.io/collection/linksdao/analytics | https://blur.io/collection/linksdao
+You already own 1
+Floor: 0.2393 | Offer: 0.21142 | 7D Sales: 46 | Fee: 0.5% | Total Volume: 6466.19 | Blur Floor: 0.22888 | Blur Bid: 0.23
+Profit: 0.02668 | 12.62% | Blur Bid Profit: 0.01743
+=======================
+Name: DeFi Apes | https://opensea.io/collection/defiapes/analytics | https://blur.io/collection/defiapes
+Floor: 0.219 | Offer: 0.1617 | 7D Sales: 1191 | Fee: 0.5% | Total Volume: 5024.03 | Blur Floor: 0.18 | Blur Bid: 0.18
+Profit: 0.0562 | 34.76% | Blur Bid Profit: 0.0174
+=======================
+Name: Layers by Vhils | https://opensea.io/collection/drp-vhils/analytics | https://blur.io/collection/drp-vhils
+Floor: 0.20864999999999997 | Offer: 0.1319 | 7D Sales: 14 | Fee: 0.5% | Total Volume: 248.08 | Blur Floor: 0.2087 | Blur Bid: 0.15
+Profit: 0.07571 | 57.4% | Blur Bid Profit: 0.01735
+=======================
+Name: Acorne | https://opensea.io/collection/acorne/analytics | https://blur.io/collection/acorne
+Floor: 0.1388 | Offer: 0.0722582 | 7D Sales: 5 | Fee: 0.5% | Total Volume: 87.95 | Blur Floor: 0.135 | Blur Bid: 0.09
+Profit: 0.06585 | 91.13% | Blur Bid Profit: 0.01729
+=======================
+Name: OCM Karma | https://opensea.io/collection/karma-monkey/analytics | https://blur.io/collection/karma-monkey
+Floor: 0.31289 | Offer: 0.2723 | 7D Sales: 95 | Fee: 0.5% | Total Volume: 2573.9 | Blur Floor: 0.309 | Blur Bid: 0.29
+Profit: 0.03903 | 14.33% | Blur Bid Profit: 0.01625
+=======================
+Name: DeepBlack | https://opensea.io/collection/bitairt/analytics | https://blur.io/collection/bitairt
+Floor: 0.89 | Offer: 0.7899 | 7D Sales: 15 | Fee: 0.5% | Total Volume: 2406.91 | Blur Floor: 0.88 | Blur Bid: 0.81
+Profit: 0.09565 | 12.11% | Blur Bid Profit: 0.01605
+=======================
+Name: Compass Lifetime Pass | https://opensea.io/collection/compass-lifetime-pass-1/analytics | https://blur.io/collection/compass-lifetime-pass-1
+Floor: 0.09 | Offer: 0.073998 | 7D Sales: 12 | Fee: 0.5% | Total Volume: 1203.62 | Blur Floor: 0.09 | Blur Bid: 0.09
+Profit: 0.01555 | 21.02% | Blur Bid Profit: 0.01555
+=======================
+Name: My Pet Hooligan | https://opensea.io/collection/mypethooligan/analytics | https://blur.io/collection/mypethooligan
+Floor: 0.8 | Offer: 0.75099 | 7D Sales: 90 | Fee: 0.5% | Total Volume: 19005.16 | Blur Floor: 0.8 | Blur Bid: 0.77
+Profit: 0.04501 | 5.99% | Blur Bid Profit: 0.01516
+=======================
+Name: Finiliar | https://opensea.io/collection/finiliar/analytics | https://blur.io/collection/finiliar
+Floor: 0.15649 | Offer: 0.13444 | 7D Sales: 138 | Fee: 0.5% | Total Volume: 3734.59 | Blur Floor: 0.1565 | Blur Bid: 0.15
+Profit: 0.02127 | 15.82% | Blur Bid Profit: 0.01481
+=======================
+Name: 0N1 Force | https://opensea.io/collection/0n1-force/analytics | https://blur.io/collection/0n1-force
+Floor: 0.845 | Offer: 0.7912311577295763 | 7D Sales: 245 | Fee: 0.5% | Total Volume: 74186.58 | Blur Floor: 0.84 | Blur Bid: 0.81
+Profit: 0.04954 | 6.26% | Blur Bid Profit: 0.01472
+=======================
+Name: Dolce&Gabbana: DGFamily | https://opensea.io/collection/dolce-gabbana-dgfamily/analytics | https://blur.io/collection/dolce-gabbana-dgfamily
+Floor: 0.1448 | Offer: 0.0855 | 7D Sales: 27 | Fee: 0.5% | Total Volume: 778.81 | Blur Floor: 0.11454 | Blur Bid: 0.1
+Profit: 0.05858 | 68.51% | Blur Bid Profit: 0.014
+=======================
+Name: Deadfellaz | https://opensea.io/collection/deadfellaz/analytics | https://blur.io/collection/deadfellaz
+Floor: 0.3975 | Offer: 0.36438 | 7D Sales: 139 | Fee: 0.5% | Total Volume: 32849.52 | Blur Floor: 0.3967 | Blur Bid: 0.38
+Profit: 0.03113 | 8.54% | Blur Bid Profit: 0.01372
+=======================
+Name: Ape Reunion | https://opensea.io/collection/apereunion/analytics | https://blur.io/collection/apereunion
+Floor: 0.1145 | Offer: 0.106 | 7D Sales: 105 | Fee: 0.5% | Total Volume: 2723.04 | Blur Floor: 0.114 | Blur Bid: 0.12
+Profit: 0.00793 | 7.48% | Blur Bid Profit: 0.0134
+=======================
+Name: Zooverse Genesis | https://opensea.io/collection/zooversegenesis/analytics | https://blur.io/collection/zooversegenesis
+Floor: 0.469 | Offer: 0.395 | 7D Sales: 8 | Fee: 0.5% | Total Volume: 905.38 | Blur Floor: 0.459 | Blur Bid: 0.41
+Profit: 0.07165 | 18.14% | Blur Bid Profit: 0.01295
+=======================
+Name: AN IMPORTANT MEMORY FOR HUMANITY BY REFIK ANADOL | https://opensea.io/collection/inspirati4n/analytics | https://blur.io/collection/inspirati4n
+Floor: 0.214 | Offer: 0.14675 | 7D Sales: 30 | Fee: 0.5% | Total Volume: 694.92 | Blur Floor: 0.195 | Blur Bid: 0.16
+Profit: 0.06618 | 45.1% | Blur Bid Profit: 0.01245
+=======================
+Name: DigiDaigaku Dark Spirits | https://opensea.io/collection/digidaigakudarkspirits/analytics | https://blur.io/collection/digidaigakudarkspirits
+Floor: 0.0875 | Offer: 0.0473 | 7D Sales: 11 | Fee: 0.5% | Total Volume: 992.26 | Blur Floor: 0.087 | Blur Bid: 0.06
+Profit: 0.03976 | 84.06% | Blur Bid Profit: 0.0124
+=======================
+Name: DeBox Guardians Rabbit Official | https://opensea.io/collection/debox-guardians-rabbit-official/analytics | https://blur.io/collection/debox-guardians-rabbit-official
+Floor: 0.6 | Offer: 0.515 | 7D Sales: 24 | Fee: 0.5% | Total Volume: 196.22 | Blur Floor: 0.596 | Blur Bid: 0.53
+Profit: 0.082 | 15.92% | Blur Bid Profit: 0.01235
+=======================
+Name: Wolf Game - Farmer | https://opensea.io/collection/wolf-game-farmer/analytics | https://blur.io/collection/wolf-game-farmer
+Floor: 0.1729 | Offer: 0.14721 | 7D Sales: 127 | Fee: 0.5% | Total Volume: 9664.53 | Blur Floor: 0.1608 | Blur Bid: 0.16
+Profit: 0.02483 | 16.86% | Blur Bid Profit: 0.01199
+=======================
+Name: Lil Nouns | https://opensea.io/collection/lil-nouns/analytics | https://blur.io/collection/lil-nouns
+Floor: 0.1444 | Offer: 0.12731 | 7D Sales: 85 | Fee: 0.5% | Total Volume: 1270.24 | Blur Floor: 0.141 | Blur Bid: 0.14
+Profit: 0.01637 | 12.86% | Blur Bid Profit: 0.01199
+=======================
+Name: FLYSALPHA Access Pass | https://opensea.io/collection/flysalpha-access-pass/analytics | https://blur.io/collection/flysalpha-access-pass
+Floor: 0.179 | Offer: 0.1081 | 7D Sales: 14 | Fee: 0.5% | Total Volume: 395.37 | Blur Floor: 0.16 | Blur Bid: 0.12
+Profit: 0.07 | 64.76% | Blur Bid Profit: 0.0113
+=======================
+Name: Gh0stly Gh0sts | https://opensea.io/collection/gh0stlygh0sts/analytics | https://blur.io/collection/gh0stlygh0sts
+Floor: 0.189 | Offer: 0.15861 | 7D Sales: 414 | Fee: 0.5% | Total Volume: 6204.32 | Blur Floor: 0.179 | Blur Bid: 0.17
+Profit: 0.02944 | 18.56% | Blur Bid Profit: 0.01054
+=======================
+Name: goblintown.wtf | https://opensea.io/collection/goblintownwtf/analytics | https://blur.io/collection/goblintownwtf
+Floor: 0.43 | Offer: 0.39742 | 7D Sales: 365 | Fee: 0.5% | Total Volume: 57934.64 | Blur Floor: 0.4109 | Blur Bid: 0.41
+Profit: 0.03043 | 7.66% | Blur Bid Profit: 0.01053
+=======================
+Name: mfers | https://opensea.io/collection/mfers/analytics | https://blur.io/collection/mfers
+Floor: 0.945 | Offer: 0.9052 | 7D Sales: 1332 | Fee: 0.5% | Total Volume: 60721.3 | Blur Floor: 0.9199 | Blur Bid: 0.92
+Profit: 0.03507 | 3.87% | Blur Bid Profit: 0.0102
+=======================
+Name: Tableland Rigs | https://opensea.io/collection/tableland-rigs/analytics | https://blur.io/collection/tableland-rigs
+Floor: 0.1428 | Offer: 0.1093 | 7D Sales: 51 | Fee: 0.5% | Total Volume: 1910.32 | Blur Floor: 0.141 | Blur Bid: 0.12
+Profit: 0.03279 | 30.0% | Blur Bid Profit: 0.0101
+=======================
+Name: MNTGE Pass | https://opensea.io/collection/mntge-pass/analytics | https://blur.io/collection/mntge-pass
+Floor: 0.1348 | Offer: 0.0795 | 7D Sales: 21 | Fee: 0.5% | Total Volume: 826.67 | Blur Floor: 0.1348 | Blur Bid: 0.09
+Profit: 0.05463 | 68.71% | Blur Bid Profit: 0.01005
+=======================
+Name: Acrocalypse | https://opensea.io/collection/acrocalypse/analytics | https://blur.io/collection/acrocalypse
+Floor: 0.19 | Offer: 0.17901 | 7D Sales: 188 | Fee: 0.5% | Total Volume: 9674.2 | Blur Floor: 0.19 | Blur Bid: 0.19
+Profit: 0.01004 | 5.61% | Blur Bid Profit: 0.01004
+=======================
+Name: Chainspace.app | https://opensea.io/collection/chainspace-app/analytics | https://blur.io/collection/chainspace-app
+Floor: 0.122 | Offer: 0.0401 | 7D Sales: 8 | Fee: 0.5% | Total Volume: 626.03 | Blur Floor: 0.11 | Blur Bid: 0.05
+Profit: 0.08129 | 202.72% | Blur Bid Profit: 0.00965
+=======================
+Name: RTFKT x Nike Dunk Genesis CRYPTOKICKS | https://opensea.io/collection/rtfkt-nike-cryptokicks/analytics | https://blur.io/collection/rtfkt-nike-cryptokicks
+Floor: 0.1249 | Offer: 0.11001 | 7D Sales: 106 | Fee: 0.5% | Total Volume: 8499.87 | Blur Floor: 0.1222 | Blur Bid: 0.12
+Profit: 0.01427 | 12.97% | Blur Bid Profit: 0.00939
+=======================
+Name: WonderPals | https://opensea.io/collection/wonderpals/analytics | https://blur.io/collection/wonderpals
+Floor: 0.2 | Offer: 0.17982 | 7D Sales: 347 | Fee: 0.5% | Total Volume: 12079.53 | Blur Floor: 0.19999 | Blur Bid: 0.19
+Profit: 0.01918 | 10.67% | Blur Bid Profit: 0.00923
+=======================
+Name: PREMINT Collector Pass - OFFICIAL | https://opensea.io/collection/premint-collector/analytics | https://blur.io/collection/premint-collector
+Floor: 0.1598 | Offer: 0.15 | 7D Sales: 139 | Fee: 0.5% | Total Volume: 15006.56 | Blur Floor: 0.151 | Blur Bid: 0.16
+Profit: 0.009 | 6.0% | Blur Bid Profit: 0.0092
+=======================
+Name: Theirsverse Official | https://opensea.io/collection/theirsverse-official/analytics | https://blur.io/collection/theirsverse-official
+Floor: 0.1678 | Offer: 0.11041 | 7D Sales: 6 | Fee: 0.5% | Total Volume: 1722.56 | Blur Floor: 0.1678 | Blur Bid: 0.12
+Profit: 0.05655 | 51.22% | Blur Bid Profit: 0.00899
+=======================
+Name: 10KTF Combat Gear | https://opensea.io/collection/10ktf-combat-gear/analytics | https://blur.io/collection/10ktf-combat-gear
+Floor: 0.265 | Offer: 0.24001 | 7D Sales: 96 | Fee: 0.5% | Total Volume: 1027.85 | Blur Floor: 0.265 | Blur Bid: 0.25
+Profit: 0.02366 | 9.86% | Blur Bid Profit: 0.00874
+=======================
+Name: Worldwide Webb Land | https://opensea.io/collection/worldwidewebbland/analytics | https://blur.io/collection/worldwidewebbland
+Floor: 0.2144 | Offer: 0.1903 | 7D Sales: 80 | Fee: 0.5% | Total Volume: 27155.69 | Blur Floor: 0.2144 | Blur Bid: 0.2
+Profit: 0.02303 | 12.1% | Blur Bid Profit: 0.0087
+=======================
+Name: Azra Games - The Hopeful | https://opensea.io/collection/azragames-thehopeful/analytics | https://blur.io/collection/azragames-thehopeful
+Floor: 0.316 | Offer: 0.27001 | 7D Sales: 86 | Fee: 0.5% | Total Volume: 2198.22 | Blur Floor: 0.295 | Blur Bid: 0.28
+Profit: 0.04441 | 16.45% | Blur Bid Profit: 0.00859
+=======================
+Name: SlimHoods | https://opensea.io/collection/slimhoods/analytics | https://blur.io/collection/slimhoods
+Floor: 0.0938 | Offer: 0.08102 | 7D Sales: 148 | Fee: 0.5% | Total Volume: 9855.78 | Blur Floor: 0.093 | Blur Bid: 0.09
+Profit: 0.01231 | 15.2% | Blur Bid Profit: 0.00853
+=======================
+Name: CryptoPhunks | https://opensea.io/collection/crypto-phunks/analytics | https://blur.io/collection/crypto-phunks
+Floor: 0.1831 | Offer: 0.14081 | 7D Sales: 43 | Fee: 0.5% | Total Volume: 1945.62 | Blur Floor: 0.173 | Blur Bid: 0.15
+Profit: 0.04137 | 29.38% | Blur Bid Profit: 0.00844
+=======================
+Name: Kaiju Kingz | https://opensea.io/collection/kaiju-kingz/analytics | https://blur.io/collection/kaiju-kingz
+Floor: 0.1499 | Offer: 0.14085 | 7D Sales: 230 | Fee: 0.5% | Total Volume: 32555.98 | Blur Floor: 0.1498 | Blur Bid: 0.15
+Profit: 0.0083 | 5.89% | Blur Bid Profit: 0.0084
+=======================
+Name: Moonbirds Oddities | https://opensea.io/collection/moonbirds-oddities/analytics | https://blur.io/collection/moonbirds-oddities
+Floor: 0.3325 | Offer: 0.32 | 7D Sales: 743 | Fee: 0.5% | Total Volume: 37414.69 | Blur Floor: 0.3325 | Blur Bid: 0.33
+Profit: 0.01084 | 3.39% | Blur Bid Profit: 0.00835
+=======================
+Name: FULL SEND X Alien Frens Official | https://opensea.io/collection/full-send-x-alien-frens/analytics | https://blur.io/collection/full-send-x-alien-frens
+Floor: 0.44995 | Offer: 0.34 | 7D Sales: 9 | Fee: 0.5% | Total Volume: 1054.4 | Blur Floor: 0.4494 | Blur Bid: 0.35
+Profit: 0.1077 | 31.68% | Blur Bid Profit: 0.00825
+=======================
+Name: Dawn of Insrt | https://opensea.io/collection/insrt-finance/analytics | https://blur.io/collection/insrt-finance
+Floor: 0.35 | Offer: 0.22074 | 7D Sales: 19 | Fee: 0.5% | Total Volume: 297.27 | Blur Floor: 0.3489 | Blur Bid: 0.23
+Profit: 0.12751 | 57.76% | Blur Bid Profit: 0.00811
+=======================
+Name: MetaSamurai - OFFICIAL | https://opensea.io/collection/metasamurai-official/analytics | https://blur.io/collection/metasamurai-official
+Floor: 0.76 | Offer: 0.5491 | 7D Sales: 13 | Fee: 0.5% | Total Volume: 1685.63 | Blur Floor: 0.7593 | Blur Bid: 0.56
+Profit: 0.2071 | 37.72% | Blur Bid Profit: 0.0081
+=======================
+Name: Dooplicator | https://opensea.io/collection/the-dooplicator/analytics | https://blur.io/collection/the-dooplicator
+Floor: 0.119898 | Offer: 0.10139 | 7D Sales: 234 | Fee: 0.5% | Total Volume: 18617.57 | Blur Floor: 0.1189 | Blur Bid: 0.11
+Profit: 0.01791 | 17.66% | Blur Bid Profit: 0.00806
+=======================
+Name: HELIX Founder Pass Official | https://opensea.io/collection/helix-founder-pass-official/analytics | https://blur.io/collection/helix-founder-pass-official
+Floor: 0.449 | Offer: 0.40001 | 7D Sales: 288 | Fee: 0.5% | Total Volume: 4014.92 | Blur Floor: 0.443 | Blur Bid: 0.41
+Profit: 0.04675 | 11.69% | Blur Bid Profit: 0.00794
+=======================
+Name: MURI by Haus | https://opensea.io/collection/murixhaus/analytics | https://blur.io/collection/murixhaus
+Floor: 0.1093 | Offer: 0.0916 | 7D Sales: 491 | Fee: 0.5% | Total Volume: 21108.37 | Blur Floor: 0.1093 | Blur Bid: 0.1
+Profit: 0.01715 | 18.73% | Blur Bid Profit: 0.0079
+=======================
+Name: Alpha Gardeners Pass | https://opensea.io/collection/alpha-gardeners-pass/analytics | https://blur.io/collection/alpha-gardeners-pass
+Floor: 0.17798 | Offer: 0.12711 | 7D Sales: 27 | Fee: 10.0% | Total Volume: 94.13 | Blur Floor: 0.17 | Blur Bid: 0.15
+Profit: 0.03307 | 26.02% | Blur Bid Profit: 0.00789
+=======================
+Name: [the reliquary] | https://opensea.io/collection/thereliquary/analytics | https://blur.io/collection/thereliquary
+Floor: 0.0812 | Offer: 0.042 | 7D Sales: 7 | Fee: 0.5% | Total Volume: 348.08 | Blur Floor: 0.0813 | Blur Bid: 0.05
+Profit: 0.03879 | 92.37% | Blur Bid Profit: 0.00775
+=======================
+Name: Feral File #009 - Unsupervised by Refik Anadol | https://opensea.io/collection/feral-file-009-unsupervised-refik-anadol/analytics | https://blur.io/collection/feral-file-009-unsupervised-refik-anadol
+Floor: 0.333 | Offer: 0.261 | 7D Sales: 62 | Fee: 0.5% | Total Volume: 2163.45 | Blur Floor: 0.333 | Blur Bid: 0.27
+Profit: 0.07033 | 26.95% | Blur Bid Profit: 0.00765
+=======================
+Name: Lil Pudgys | https://opensea.io/collection/lilpudgys/analytics | https://blur.io/collection/lilpudgys
+Floor: 0.399 | Offer: 0.3804 | 7D Sales: 755 | Fee: 0.5% | Total Volume: 16584.6 | Blur Floor: 0.395 | Blur Bid: 0.39
+Profit: 0.0166 | 4.37% | Blur Bid Profit: 0.00765
+=======================
+Name: RENGA | https://opensea.io/collection/renga/analytics | https://blur.io/collection/renga
+Floor: 0.969 | Offer: 0.9277492774 | 7D Sales: 2848 | Fee: 0.5% | Total Volume: 45838.7 | Blur Floor: 0.9394 | Blur Bid: 0.94
+Profit: 0.03641 | 3.92% | Blur Bid Profit: 0.00755
+=======================
+Name: GNSS Art by MGXS | https://opensea.io/collection/gnssart/analytics | https://blur.io/collection/gnssart
+Floor: 0.09899 | Offer: 0.09201 | 7D Sales: 199 | Fee: 0.5% | Total Volume: 4145.15 | Blur Floor: 0.09899 | Blur Bid: 0.1
+Profit: 0.00649 | 7.05% | Blur Bid Profit: 0.00749
+=======================
+Name: Lost Miners of the Ether | https://opensea.io/collection/lostminers/analytics | https://blur.io/collection/lostminers
+Floor: 0.3199 | Offer: 0.29105 | 7D Sales: 64 | Fee: 0.5% | Total Volume: 1099.46 | Blur Floor: 0.3199 | Blur Bid: 0.3
+Profit: 0.02725 | 9.36% | Blur Bid Profit: 0.00745
+=======================
+Name: Bulls and Apes Project - Apes | https://opensea.io/collection/bullsandapes-apes/analytics | https://blur.io/collection/bullsandapes-apes
+Floor: 0.1299 | Offer: 0.10201 | 7D Sales: 75 | Fee: 0.5% | Total Volume: 154.94 | Blur Floor: 0.1299 | Blur Bid: 0.11
+Profit: 0.02724 | 26.7% | Blur Bid Profit: 0.00744
+=======================
+Name: Rebel Bots | https://opensea.io/collection/rebelbots/analytics | https://blur.io/collection/rebelbots
+Floor: 0.1289 | Offer: 0.09223 | 7D Sales: 48 | Fee: 0.5% | Total Volume: 3768.8 | Blur Floor: 0.1289 | Blur Bid: 0.1
+Profit: 0.03603 | 39.06% | Blur Bid Profit: 0.00727
+=======================
+Name: Jenkins the Valet: The Writer's Room | https://opensea.io/collection/jenkins-the-valet/analytics | https://blur.io/collection/jenkins-the-valet
+Floor: 0.1037 | Offer: 0.08236 | 7D Sales: 17 | Fee: 0.5% | Total Volume: 7716.49 | Blur Floor: 0.0905 | Blur Bid: 0.09
+Profit: 0.02082 | 25.28% | Blur Bid Profit: 0.00719
+=======================
+Name: OxyaOriginProject | https://opensea.io/collection/oxyaoriginproject/analytics | https://blur.io/collection/oxyaoriginproject
+Floor: 0.1109 | Offer: 0.0725286 | 7D Sales: 6 | Fee: 0.5% | Total Volume: 12993.34 | Blur Floor: 0.1109 | Blur Bid: 0.08
+Profit: 0.03782 | 52.14% | Blur Bid Profit: 0.00707
+=======================
+Name: 3FACE | art that adapts to you | https://opensea.io/collection/3face-by-ian-cheng/analytics | https://blur.io/collection/3face-by-ian-cheng
+Floor: 0.1599 | Offer: 0.1223 | 7D Sales: 25 | Fee: 0.5% | Total Volume: 800.6 | Blur Floor: 0.16 | Blur Bid: 0.13
+Profit: 0.0368 | 30.09% | Blur Bid Profit: 0.00705
+=======================
+Name: Hashmasks | https://opensea.io/collection/hashmasks/analytics | https://blur.io/collection/hashmasks
+Floor: 0.18 | Offer: 0.14223 | 7D Sales: 39 | Fee: 0.5% | Total Volume: 43240.5 | Blur Floor: 0.1599 | Blur Bid: 0.15
+Profit: 0.03687 | 25.92% | Blur Bid Profit: 0.00702
+=======================
+Name: Consortium Key | https://opensea.io/collection/consortium-key/analytics | https://blur.io/collection/consortium-key
+Floor: 1.78 | Offer: 1.61497 | 7D Sales: 6 | Fee: 0.5% | Total Volume: 1854.2 | Blur Floor: 1.7499999 | Blur Bid: 1.63
+Profit: 0.15613 | 9.67% | Blur Bid Profit: 0.00688
+=======================
+Name: HELIX - PARALLEL CITY LAND | https://opensea.io/collection/helix-land/analytics | https://blur.io/collection/helix-land
+Floor: 0.145 | Offer: 0.12616 | 7D Sales: 764 | Fee: 5.0% | Total Volume: 1276.4 | Blur Floor: 0.145 | Blur Bid: 0.14
+Profit: 0.01159 | 9.19% | Blur Bid Profit: 0.00684
+=======================
+Name: The Weirdo Ghost Gang | https://opensea.io/collection/the-weirdo-ghost-gang/analytics | https://blur.io/collection/the-weirdo-ghost-gang
+Floor: 0.29 | Offer: 0.26201 | 7D Sales: 236 | Fee: 0.5% | Total Volume: 20710.45 | Blur Floor: 0.29 | Blur Bid: 0.27
+Profit: 0.02654 | 10.13% | Blur Bid Profit: 0.00664
+=======================
+Name: Banners NFT | https://opensea.io/collection/banners-nft/analytics | https://blur.io/collection/banners-nft
+Floor: 0.0889 | Offer: 0.05330260190799689 | 7D Sales: 9 | Fee: 0.5% | Total Volume: 149.41 | Blur Floor: 0.074 | Blur Bid: 0.06
+Profit: 0.03515 | 65.95% | Blur Bid Profit: 0.0064
+=======================
+Name: YuGiYn | https://opensea.io/collection/yugiyn-official/analytics | https://blur.io/collection/yugiyn-official
+Floor: 0.136 | Offer: 0.123 | 7D Sales: 123 | Fee: 0.5% | Total Volume: 4365.11 | Blur Floor: 0.1328 | Blur Bid: 0.13
+Profit: 0.01232 | 10.02% | Blur Bid Profit: 0.00635
+=======================
+Name: Champions Ascension - Prime Eternal | https://opensea.io/collection/champions-ascension-prime-eternal/analytics | https://blur.io/collection/champions-ascension-prime-eternal
+Floor: 0.38 | Offer: 0.342005 | 7D Sales: 24 | Fee: 0.5% | Total Volume: 2980.86 | Blur Floor: 0.38 | Blur Bid: 0.35
+Profit: 0.03609 | 10.55% | Blur Bid Profit: 0.00625
+=======================
+Name: Adam Bomb Squad | https://opensea.io/collection/adam-bomb-squad/analytics | https://blur.io/collection/adam-bomb-squad
+Floor: 0.1148 | Offer: 0.10321 | 7D Sales: 70 | Fee: 0.5% | Total Volume: 22681.4 | Blur Floor: 0.108 | Blur Bid: 0.11
+Profit: 0.01102 | 10.67% | Blur Bid Profit: 0.00624
+=======================
+Name: Cryptoon Goonz | https://opensea.io/collection/cryptoongoonz/analytics | https://blur.io/collection/cryptoongoonz
+Floor: 0.2196 | Offer: 0.18301 | 7D Sales: 42 | Fee: 0.5% | Total Volume: 6852.9 | Blur Floor: 0.2196 | Blur Bid: 0.19
+Profit: 0.03549 | 19.39% | Blur Bid Profit: 0.00604
+=======================
+Name: DoomDegens | https://opensea.io/collection/doomdegens/analytics | https://blur.io/collection/doomdegens
+Floor: 0.275 | Offer: 0.127 | 7D Sales: 8 | Fee: 5.0% | Total Volume: 35.93 | Blur Floor: 0.28 | Blur Bid: 0.14
+Profit: 0.13425 | 105.71% | Blur Bid Profit: 0.006
+=======================
+Name: 3D Invisible Friends | https://opensea.io/collection/3d-invisible-friends/analytics | https://blur.io/collection/3d-invisible-friends
+Floor: 0.1449 | Offer: 0.1271 | 7D Sales: 72 | Fee: 5.0% | Total Volume: 2424.77 | Blur Floor: 0.1449 | Blur Bid: 0.14
+Profit: 0.01056 | 8.3% | Blur Bid Profit: 0.0059
+=======================
+Name: ConiunPass | https://opensea.io/collection/coniun-pass/analytics | https://blur.io/collection/coniun-pass
+Floor: 0.3 | Offer: 0.26301 | 7D Sales: 190 | Fee: 0.5% | Total Volume: 5639.06 | Blur Floor: 0.3 | Blur Bid: 0.27
+Profit: 0.03549 | 13.49% | Blur Bid Profit: 0.00564
+=======================
+Name: Wolf Game - Genesis Land | https://opensea.io/collection/wolf-game-land/analytics | https://blur.io/collection/wolf-game-land
+Floor: 0.1113 | Offer: 0.0939 | 7D Sales: 122 | Fee: 0.5% | Total Volume: 15778.6 | Blur Floor: 0.0999 | Blur Bid: 0.1
+Profit: 0.01684 | 17.94% | Blur Bid Profit: 0.0056
+=======================
+Name: ALTAVA Second Skin Metamorphosis | https://opensea.io/collection/altava-second-skin-metamorphosis/analytics | https://blur.io/collection/altava-second-skin-metamorphosis
+Floor: 0.2193 | Offer: 0.13374 | 7D Sales: 7 | Fee: 0.5% | Total Volume: 1425.54 | Blur Floor: 0.2193 | Blur Bid: 0.14
+Profit: 0.08446 | 63.16% | Blur Bid Profit: 0.00556
+=======================
+Name: Timeless Characters | https://opensea.io/collection/timelessnfts/analytics | https://blur.io/collection/timelessnfts
+Floor: 0.2199 | Offer: 0.1837 | 7D Sales: 26 | Fee: 0.5% | Total Volume: 3838.14 | Blur Floor: 0.19 | Blur Bid: 0.19
+Profit: 0.0351 | 19.11% | Blur Bid Profit: 0.00535
+=======================
+Name: Forgotten Runes Warriors Guild | https://opensea.io/collection/forgottenruneswarriorsguild/analytics | https://blur.io/collection/forgottenruneswarriorsguild
+Floor: 0.1399 | Offer: 0.11409 | 7D Sales: 151 | Fee: 0.5% | Total Volume: 1547.87 | Blur Floor: 0.14 | Blur Bid: 0.12
+Profit: 0.02511 | 22.01% | Blur Bid Profit: 0.00531
+=======================
+Name: Circle of Frens by Chikai | https://opensea.io/collection/circle-of-frens/analytics | https://blur.io/collection/circle-of-frens
+Floor: 0.0989 | Offer: 0.0327 | 7D Sales: 8 | Fee: 5.0% | Total Volume: 274.24 | Blur Floor: 0.085 | Blur Bid: 0.04
+Profit: 0.06125 | 187.32% | Blur Bid Profit: 0.0053
+=======================
+Name: PartyBear | https://opensea.io/collection/partybear/analytics | https://blur.io/collection/partybear
+Floor: 0.2634 | Offer: 0.2137 | 7D Sales: 65 | Fee: 0.5% | Total Volume: 8943.13 | Blur Floor: 0.2357 | Blur Bid: 0.22
+Profit: 0.04838 | 22.64% | Blur Bid Profit: 0.0052
+=======================
+Name: Pawn Bots | https://opensea.io/collection/pawnbots/analytics | https://blur.io/collection/pawnbots
+Floor: 0.1099 | Offer: 0.0745 | 7D Sales: 8 | Fee: 0.5% | Total Volume: 465.25 | Blur Floor: 0.1098 | Blur Bid: 0.08
+Profit: 0.03485 | 46.78% | Blur Bid Profit: 0.0051
+=======================
+Name: Netvrk Land | https://opensea.io/collection/netvrkland/analytics | https://blur.io/collection/netvrkland
+Floor: 0.102 | Offer: 0.08472 | 7D Sales: 19 | Fee: 0.5% | Total Volume: 5320.2 | Blur Floor: 0.1021 | Blur Bid: 0.09
+Profit: 0.01677 | 19.79% | Blur Bid Profit: 0.00483
+=======================
+Name: Supreme Kong | https://opensea.io/collection/supremekong/analytics | https://blur.io/collection/supremekong
+Floor: 0.2987 | Offer: 0.12453 | 7D Sales: 7 | Fee: 0.5% | Total Volume: 2245.85 | Blur Floor: 0.187 | Blur Bid: 0.13
+Profit: 0.17268 | 138.66% | Blur Bid Profit: 0.00482
+=======================
+Name: Quirklings | https://opensea.io/collection/quirklings/analytics | https://blur.io/collection/quirklings
+Floor: 0.1366 | Offer: 0.1147 | 7D Sales: 125 | Fee: 0.5% | Total Volume: 3392.22 | Blur Floor: 0.1195 | Blur Bid: 0.12
+Profit: 0.02122 | 18.5% | Blur Bid Profit: 0.0047
+=======================
+Name: Pixelmon Trainers - Generation 1 | https://opensea.io/collection/trainersgen1/analytics | https://blur.io/collection/trainersgen1
+Floor: 0.12 | Offer: 0.105 | 7D Sales: 21 | Fee: 0.5% | Total Volume: 117.42 | Blur Floor: 0.1 | Blur Bid: 0.11
+Profit: 0.0144 | 13.71% | Blur Bid Profit: 0.00445
+=======================
+Name: OnChainMonkey | https://opensea.io/collection/onchainmonkey/analytics | https://blur.io/collection/onchainmonkey
+Floor: 2.01 | Offer: 1.836394291 | 7D Sales: 177 | Fee: 0.5% | Total Volume: 17208.54 | Blur Floor: 1.92 | Blur Bid: 1.85
+Profit: 0.16356 | 8.91% | Blur Bid Profit: 0.00436
+=======================
+Name: Pirate Nation - Founder's Pirates | https://opensea.io/collection/piratenation/analytics | https://blur.io/collection/piratenation
+Floor: 0.095 | Offer: 0.07941 | 7D Sales: 118 | Fee: 6.94% | Total Volume: 1934.1 | Blur Floor: 0.0869 | Blur Bid: 0.09
+Profit: 0.009 | 11.33% | Blur Bid Profit: 0.00434
+=======================
+Name: Koripo by Rich Poole | https://opensea.io/collection/koripo-by-rich-poole/analytics | https://blur.io/collection/koripo-by-rich-poole
+Floor: 0.19 | Offer: 0.1251 | 7D Sales: 6 | Fee: 0.5% | Total Volume: 592.78 | Blur Floor: 0.1879 | Blur Bid: 0.13
+Profit: 0.06395 | 51.12% | Blur Bid Profit: 0.00425
+=======================
+Name: Barefoot Parrots | https://opensea.io/collection/barefootparrots/analytics | https://blur.io/collection/barefootparrots
+Floor: 0.1788 | Offer: 0.1251 | 7D Sales: 19 | Fee: 0.5% | Total Volume: 61.66 | Blur Floor: 0.1735 | Blur Bid: 0.13
+Profit: 0.05281 | 42.21% | Blur Bid Profit: 0.00425
+=======================
+Name: Quantum Key | https://opensea.io/collection/quantum-key/analytics | https://blur.io/collection/quantum-key
+Floor: 0.1694 | Offer: 0.1252 | 7D Sales: 5 | Fee: 0.5% | Total Volume: 3537.44 | Blur Floor: 0.1696 | Blur Bid: 0.13
+Profit: 0.04335 | 34.63% | Blur Bid Profit: 0.00415
+=======================
+Name: Cool Cats NFT | https://opensea.io/collection/cool-cats-nft/analytics | https://blur.io/collection/cool-cats-nft
+Floor: 1.185 | Offer: 1.16 | 7D Sales: 479 | Fee: 0.5% | Total Volume: 138944.92 | Blur Floor: 1.1789 | Blur Bid: 1.17
+Profit: 0.01908 | 1.64% | Blur Bid Profit: 0.00415
+=======================
+Name: rektguy | https://opensea.io/collection/rektguy/analytics | https://blur.io/collection/rektguy
+Floor: 0.918 | Offer: 0.86176 | 7D Sales: 143 | Fee: 0.5% | Total Volume: 31434.36 | Blur Floor: 0.875 | Blur Bid: 0.87
+Profit: 0.05165 | 5.99% | Blur Bid Profit: 0.00389
+=======================
+Name: Exosama | https://opensea.io/collection/exosama-expect-chaos/analytics | https://blur.io/collection/exosama-expect-chaos
+Floor: 0.515 | Offer: 0.4041 | 7D Sales: 87 | Fee: 0.5% | Total Volume: 3015.53 | Blur Floor: 0.499 | Blur Bid: 0.41
+Profit: 0.10833 | 26.81% | Blur Bid Profit: 0.00385
+=======================
+Name: Weird Whales | https://opensea.io/collection/weirdwhales/analytics | https://blur.io/collection/weirdwhales
+Floor: 0.0966 | Offer: 0.05586 | 7D Sales: 36 | Fee: 0.5% | Total Volume: 1903.39 | Blur Floor: 0.0905 | Blur Bid: 0.06
+Profit: 0.04026 | 72.07% | Blur Bid Profit: 0.00384
+=======================
+Name: MidnightBreeze | https://opensea.io/collection/midnightbreeze/analytics | https://blur.io/collection/midnightbreeze
+Floor: 0.1479 | Offer: 0.1355 | 7D Sales: 66 | Fee: 0.5% | Total Volume: 4061.28 | Blur Floor: 0.1479 | Blur Bid: 0.14
+Profit: 0.01166 | 8.61% | Blur Bid Profit: 0.0038
+=======================
+Name: Rare Apepe YC | https://opensea.io/collection/rareapepeyachtclub/analytics | https://blur.io/collection/rareapepeyachtclub
+Floor: 0.0813 | Offer: 0.07601 | 7D Sales: 134 | Fee: 0.5% | Total Volume: 11370.13 | Blur Floor: 0.0808 | Blur Bid: 0.08
+Profit: 0.00488 | 6.42% | Blur Bid Profit: 0.00359
+=======================
+Name: Alfa Pass | https://opensea.io/collection/alfa-pass/analytics | https://blur.io/collection/alfa-pass
+Floor: 0.545 | Offer: 0.42431 | 7D Sales: 99 | Fee: 0.5% | Total Volume: 1786.32 | Blur Floor: 0.5 | Blur Bid: 0.43
+Profit: 0.11797 | 27.8% | Blur Bid Profit: 0.00354
+=======================
+Name: Mint Pass Tokyo | Bright Moments | MPTK | https://opensea.io/collection/mint-pass-tokyo-bright-moments-mptk/analytics | https://blur.io/collection/mint-pass-tokyo-bright-moments-mptk
+Floor: 0.2399 | Offer: 0.2 | 7D Sales: 33 | Fee: 7.5% | Total Volume: 702.6 | Blur Floor: 0.2399 | Blur Bid: 0.22
+Profit: 0.02191 | 10.95% | Blur Bid Profit: 0.0035
+=======================
+Name: BEANZ Official | https://opensea.io/collection/beanzofficial/analytics | https://blur.io/collection/beanzofficial
+Floor: 1.399 | Offer: 1.35 | 7D Sales: 1438 | Fee: 0.5% | Total Volume: 127300.31 | Blur Floor: 1.3692 | Blur Bid: 1.36
+Profit: 0.042 | 3.11% | Blur Bid Profit: 0.0032
+=======================
+Name: ZombieClub Token | https://opensea.io/collection/zombieclub-token/analytics | https://blur.io/collection/zombieclub-token
+Floor: 0.2 | Offer: 0.176 | 7D Sales: 5 | Fee: 0.5% | Total Volume: 13367.2 | Blur Floor: 0.1999 | Blur Bid: 0.18
+Profit: 0.023 | 13.07% | Blur Bid Profit: 0.0031
+=======================
+Name: Earpitz | https://opensea.io/collection/earpitz/analytics | https://blur.io/collection/earpitz
+Floor: 0.104 | Offer: 0.09 | 7D Sales: 178 | Fee: 6.9% | Total Volume: 659.09 | Blur Floor: 0.1 | Blur Bid: 0.1
+Profit: 0.00682 | 7.58% | Blur Bid Profit: 0.0031
+=======================
+Name: NFT Worlds | https://opensea.io/collection/nft-worlds/analytics | https://blur.io/collection/nft-worlds
+Floor: 1.74995 | Offer: 1.52944 | 7D Sales: 163 | Fee: 0.5% | Total Volume: 54688.49 | Blur Floor: 1.74995 | Blur Bid: 1.54
+Profit: 0.21176 | 13.85% | Blur Bid Profit: 0.00286
+=======================
+Name: FLUF World: Thingies | https://opensea.io/collection/fluf-world-thingies/analytics | https://blur.io/collection/fluf-world-thingies
+Floor: 0.16967 | Offer: 0.1365 | 7D Sales: 59 | Fee: 0.5% | Total Volume: 5501.88 | Blur Floor: 0.1599 | Blur Bid: 0.14
+Profit: 0.03232 | 23.68% | Blur Bid Profit: 0.0028
+=======================
+Name: Deerpack | https://opensea.io/collection/deerpack/analytics | https://blur.io/collection/deerpack
+Floor: 0.1587 | Offer: 0.0769 | 7D Sales: 7 | Fee: 0.5% | Total Volume: 134.18 | Blur Floor: 0.1587 | Blur Bid: 0.08
+Profit: 0.08101 | 105.34% | Blur Bid Profit: 0.0027
+=======================
+Name: Capsule House | https://opensea.io/collection/capsulehouse/analytics | https://blur.io/collection/capsulehouse
+Floor: 0.09589 | Offer: 0.0769 | 7D Sales: 81 | Fee: 0.5% | Total Volume: 25559.17 | Blur Floor: 0.09589 | Blur Bid: 0.08
+Profit: 0.01851 | 24.07% | Blur Bid Profit: 0.0027
+=======================
+Name: inBetweeners by GianPiero | https://opensea.io/collection/inbetweeners/analytics | https://blur.io/collection/inbetweeners
+Floor: 0.0909 | Offer: 0.07701 | 7D Sales: 42 | Fee: 0.5% | Total Volume: 12569.28 | Blur Floor: 0.0909 | Blur Bid: 0.08
+Profit: 0.01344 | 17.45% | Blur Bid Profit: 0.00259
+=======================
+Name: Adventurers - Official Collection | https://opensea.io/collection/adventurers-official-collection/analytics | https://blur.io/collection/adventurers-official-collection
+Floor: 0.102 | Offer: 0.0925 | 7D Sales: 26 | Fee: 5.0% | Total Volume: 139.49 | Blur Floor: 0.102 | Blur Bid: 0.1
+Profit: 0.0044 | 4.76% | Blur Bid Profit: 0.0025
+=======================
+Name: mcgoblin.wtf | https://opensea.io/collection/mcgoblinwtf/analytics | https://blur.io/collection/mcgoblinwtf
+Floor: 0.1138 | Offer: 0.09703 | 7D Sales: 51 | Fee: 0.5% | Total Volume: 8341.41 | Blur Floor: 0.1138 | Blur Bid: 0.1
+Profit: 0.0162 | 16.7% | Blur Bid Profit: 0.00247
+=======================
+Name: Ninja Squad Official | https://opensea.io/collection/ninja-squad-official/analytics | https://blur.io/collection/ninja-squad-official
+Floor: 0.168299 | Offer: 0.15701 | 7D Sales: 43 | Fee: 0.5% | Total Volume: 2859.06 | Blur Floor: 0.168 | Blur Bid: 0.16
+Profit: 0.01045 | 6.65% | Blur Bid Profit: 0.00219
+=======================
+Name: SupDucks | https://opensea.io/collection/supducks/analytics | https://blur.io/collection/supducks
+Floor: 0.099 | Offer: 0.0874 | 7D Sales: 36 | Fee: 0.5% | Total Volume: 24413.13 | Blur Floor: 0.0978 | Blur Bid: 0.09
+Profit: 0.01111 | 12.71% | Blur Bid Profit: 0.00215
+=======================
+Name: Cool Pets NFT | https://opensea.io/collection/coolpetsnft/analytics | https://blur.io/collection/coolpetsnft
+Floor: 0.087 | Offer: 0.07751 | 7D Sales: 187 | Fee: 0.5% | Total Volume: 31105.41 | Blur Floor: 0.085899 | Blur Bid: 0.08
+Profit: 0.00905 | 11.68% | Blur Bid Profit: 0.00209
+=======================
+Name: PG GEN 2 | https://opensea.io/collection/project-godjira-gen-2/analytics | https://blur.io/collection/project-godjira-gen-2
+Floor: 0.398 | Offer: 0.34631 | 7D Sales: 33 | Fee: 0.5% | Total Volume: 7066.35 | Blur Floor: 0.388 | Blur Bid: 0.35
+Profit: 0.0497 | 14.35% | Blur Bid Profit: 0.00194
+=======================
+Name: Webaverse Genesis Pass | https://opensea.io/collection/webaverse-genesis-pass/analytics | https://blur.io/collection/webaverse-genesis-pass
+Floor: 0.1301 | Offer: 0.1076 | 7D Sales: 57 | Fee: 0.5% | Total Volume: 5333.43 | Blur Floor: 0.119 | Blur Bid: 0.11
+Profit: 0.02185 | 20.31% | Blur Bid Profit: 0.00185
+=======================
+Name: Pudgy Rods | https://opensea.io/collection/pudgyrods/analytics | https://blur.io/collection/pudgyrods
+Floor: 0.369 | Offer: 0.32661 | 7D Sales: 2029 | Fee: 0.5% | Total Volume: 10071.93 | Blur Floor: 0.35 | Blur Bid: 0.33
+Profit: 0.04054 | 12.41% | Blur Bid Profit: 0.00174
+=======================
+Name: The Saudis | https://opensea.io/collection/thesaudis/analytics | https://blur.io/collection/thesaudis
+Floor: 0.2283 | Offer: 0.1973 | 7D Sales: 170 | Fee: 0.5% | Total Volume: 10725.51 | Blur Floor: 0.20679 | Blur Bid: 0.2
+Profit: 0.02986 | 15.13% | Blur Bid Profit: 0.0017
+=======================
+Name: Murakami.Flowers Official | https://opensea.io/collection/murakami-flowers-2022-official/analytics | https://blur.io/collection/murakami-flowers-2022-official
+Floor: 0.7799 | Offer: 0.7446 | 7D Sales: 174 | Fee: 0.5% | Total Volume: 24066.77 | Blur Floor: 0.7799 | Blur Bid: 0.75
+Profit: 0.0314 | 4.22% | Blur Bid Profit: 0.00165
+=======================
+Name: Creature World | https://opensea.io/collection/creatureworld/analytics | https://blur.io/collection/creatureworld
+Floor: 0.11849 | Offer: 0.1079 | 7D Sales: 43 | Fee: 0.5% | Total Volume: 36270.14 | Blur Floor: 0.11849 | Blur Bid: 0.11
+Profit: 0.01 | 9.27% | Blur Bid Profit: 0.00155
+=======================
+Name: Gutter Pigeons | https://opensea.io/collection/gutterpigeons/analytics | https://blur.io/collection/gutterpigeons
+Floor: 0.1777 | Offer: 0.14784 | 7D Sales: 33 | Fee: 0.5% | Total Volume: 4966.15 | Blur Floor: 0.1775 | Blur Bid: 0.15
+Profit: 0.02897 | 19.6% | Blur Bid Profit: 0.00141
+=======================
+Name: Redacted Remilio Babies | https://opensea.io/collection/remilio-babies/analytics | https://blur.io/collection/remilio-babies
+Floor: 0.1429 | Offer: 0.128 | 7D Sales: 210 | Fee: 0.5% | Total Volume: 1843.89 | Blur Floor: 0.1395 | Blur Bid: 0.13
+Profit: 0.01419 | 11.08% | Blur Bid Profit: 0.00135
+=======================
+Name: World of Women | https://opensea.io/collection/world-of-women-nft/analytics | https://blur.io/collection/world-of-women-nft
+Floor: 1.259 | Offer: 1.18285 | 7D Sales: 241 | Fee: 0.5% | Total Volume: 79007.17 | Blur Floor: 1.222 | Blur Bid: 1.19
+Profit: 0.06986 | 5.91% | Blur Bid Profit: 0.0012
+=======================
+Name: PhantaBear | https://opensea.io/collection/phantabear/analytics | https://blur.io/collection/phantabear
+Floor: 0.1748 | Offer: 0.158 | 7D Sales: 102 | Fee: 0.5% | Total Volume: 35739.06 | Blur Floor: 0.172 | Blur Bid: 0.16
+Profit: 0.01593 | 10.08% | Blur Bid Profit: 0.0012
+=======================
+Name: Otherdeed for Otherside | https://opensea.io/collection/otherdeed/analytics | https://blur.io/collection/otherdeed
+Floor: 1.82 | Offer: 1.7501 | 7D Sales: 10767 | Fee: 0.5% | Total Volume: 565548.66 | Blur Floor: 1.76 | Blur Bid: 1.76
+Profit: 0.0608 | 3.47% | Blur Bid Profit: 0.0011
+=======================
+Name: Wolf Game | https://opensea.io/collection/wolf-game/analytics | https://blur.io/collection/wolf-game
+Floor: 0.23 | Offer: 0.1852 | 7D Sales: 160 | Fee: 6.9% | Total Volume: 31327.16 | Blur Floor: 0.214 | Blur Bid: 0.2
+Profit: 0.02893 | 15.62% | Blur Bid Profit: 0.001
+=======================
+Name: ZenChests | https://opensea.io/collection/zen-chests/analytics | https://blur.io/collection/zen-chests
+Floor: 0.3669 | Offer: 0.29501 | 7D Sales: 60 | Fee: 7.5% | Total Volume: 739.05 | Blur Floor: 0.3199 | Blur Bid: 0.32
+Profit: 0.04437 | 15.04% | Blur Bid Profit: 0.00099
+=======================
+Name: Habbo Avatars | https://opensea.io/collection/habbo-avatars/analytics | https://blur.io/collection/habbo-avatars
+Floor: 0.132 | Offer: 0.11841 | 7D Sales: 49 | Fee: 0.5% | Total Volume: 8234.71 | Blur Floor: 0.1319 | Blur Bid: 0.12
+Profit: 0.01293 | 10.92% | Blur Bid Profit: 0.00099
+=======================
+Name: 10KTF | https://opensea.io/collection/10ktf/analytics | https://blur.io/collection/10ktf
+Floor: 0.27 | Offer: 0.22791 | 7D Sales: 321 | Fee: 0.5% | Total Volume: 16467.03 | Blur Floor: 0.235 | Blur Bid: 0.23
+Profit: 0.04074 | 17.88% | Blur Bid Profit: 0.00094
+=======================
+Name: ALPACADABRAZ | https://opensea.io/collection/alpacadabraz/analytics | https://blur.io/collection/alpacadabraz
+Floor: 0.082699 | Offer: 0.06871 | 7D Sales: 40 | Fee: 0.5% | Total Volume: 10306.79 | Blur Floor: 0.08 | Blur Bid: 0.07
+Profit: 0.01358 | 19.76% | Blur Bid Profit: 0.00094
+=======================
+Name: Abstraction by anon | https://opensea.io/collection/abstraction-by-anon/analytics | https://blur.io/collection/abstraction-by-anon
+Floor: 0.145 | Offer: 0.05611 | 7D Sales: 8 | Fee: 5.0% | Total Volume: 961.64 | Blur Floor: 0.145 | Blur Bid: 0.06
+Profit: 0.08164 | 145.5% | Blur Bid Profit: 0.00089
+=======================
+Name: Nitro Collection by PUMA | https://opensea.io/collection/nitrocollectionpuma/analytics | https://blur.io/collection/nitrocollectionpuma
+Floor: 0.2378 | Offer: 0.21801 | 7D Sales: 142 | Fee: 0.5% | Total Volume: 1727.38 | Blur Floor: 0.23 | Blur Bid: 0.22
+Profit: 0.0186 | 8.53% | Blur Bid Profit: 0.00089
+=======================
+Name: FLUF World: Burrows | https://opensea.io/collection/fluf-world-burrows/analytics | https://blur.io/collection/fluf-world-burrows
+Floor: 0.1412 | Offer: 0.11861 | 7D Sales: 96 | Fee: 0.5% | Total Volume: 8511.47 | Blur Floor: 0.1295 | Blur Bid: 0.12
+Profit: 0.02188 | 18.45% | Blur Bid Profit: 0.00079
+=======================
+Name: MightyNet Genesis Pass | https://opensea.io/collection/mightynet-genesis-pass/analytics | https://blur.io/collection/mightynet-genesis-pass
+Floor: 0.0916 | Offer: 0.0391 | 7D Sales: 13 | Fee: 0.5% | Total Volume: 255.53 | Blur Floor: 0.06 | Blur Bid: 0.04
+Profit: 0.05204 | 133.1% | Blur Bid Profit: 0.0007
+=======================
+Name: Zinu's Zombie Mob Secret Society | https://opensea.io/collection/zombiemobsecretsociety/analytics | https://blur.io/collection/zombiemobsecretsociety
+Floor: 0.1146 | Offer: 0.09901 | 7D Sales: 62 | Fee: 0.5% | Total Volume: 1221.55 | Blur Floor: 0.1146 | Blur Bid: 0.1
+Profit: 0.01502 | 15.17% | Blur Bid Profit: 0.00049
+=======================
+Name: The Art of Seasons | https://opensea.io/collection/the-art-of-seasons/analytics | https://blur.io/collection/the-art-of-seasons
+Floor: 0.0998 | Offer: 0.08923 | 7D Sales: 152 | Fee: 0.5% | Total Volume: 12536.8 | Blur Floor: 0.099 | Blur Bid: 0.09
+Profit: 0.01007 | 11.29% | Blur Bid Profit: 0.00032
+=======================
+Name: TipsyVerse: Genesis Penguins | https://opensea.io/collection/tipsyverse-genesis-penguins/analytics | https://blur.io/collection/tipsyverse-genesis-penguins
+Floor: 0.16685 | Offer: 0.1193 | 7D Sales: 5 | Fee: 0.5% | Total Volume: 344.68 | Blur Floor: 0.16685 | Blur Bid: 0.12
+Profit: 0.04672 | 39.16% | Blur Bid Profit: 0.0001
+=======================
+Name: Pixels - Farm Land | https://opensea.io/collection/pixels-farm/analytics | https://blur.io/collection/pixels-farm
+Floor: 0.16824375 | Offer: 0.1492 | 7D Sales: 54 | Fee: 0.5% | Total Volume: 6663.03 | Blur Floor: 0.1687 | Blur Bid: 0.15
+Profit: 0.0182 | 12.2% | Blur Bid Profit: 5e-05
+=======================
+Name: Cheers UP Official | https://opensea.io/collection/cheers-up/analytics | https://blur.io/collection/cheers-up
+Floor: 0.3 | Offer: 0.24881 | 7D Sales: 16 | Fee: 0.5% | Total Volume: 1451.56 | Blur Floor: 0.28 | Blur Bid: 0.25
+Profit: 0.04969 | 19.97% | Blur Bid Profit: -6e-05
+=======================
+Name: Singularity by AIIV | https://opensea.io/collection/thesingularity/analytics | https://blur.io/collection/thesingularity
+Floor: 0.0898 | Offer: 0.02 | 7D Sales: 12 | Fee: 0.5% | Total Volume: 1785.51 | Blur Floor: 0.0898 | Blur Bid: 0.02
+Profit: 0.06935 | 346.75% | Blur Bid Profit: -0.0001
+=======================
+Name: Fall of The Crypto Angels | https://opensea.io/collection/cryptos-fallen-angels/analytics | https://blur.io/collection/cryptos-fallen-angels
+Floor: 0.09 | Offer: 0.07973 | 7D Sales: 93 | Fee: 0.5% | Total Volume: 675.43 | Blur Floor: 0.088 | Blur Bid: 0.08
+Profit: 0.00982 | 12.32% | Blur Bid Profit: -0.00013
+=======================
+Name: The Banksters | https://opensea.io/collection/the-banksters/analytics | https://blur.io/collection/the-banksters
+Floor: 0.089991 | Offer: 0.05 | 7D Sales: 23 | Fee: 0.5% | Total Volume: 321.71 | Blur Floor: 0.09 | Blur Bid: 0.05
+Profit: 0.03954 | 79.08% | Blur Bid Profit: -0.00025
+=======================
+Name: 3Landers | https://opensea.io/collection/3landers/analytics | https://blur.io/collection/3landers
+Floor: 0.08 | Offer: 0.06991 | 7D Sales: 165 | Fee: 0.5% | Total Volume: 36004.26 | Blur Floor: 0.076 | Blur Bid: 0.07
+Profit: 0.00969 | 13.86% | Blur Bid Profit: -0.00026
+=======================
+Name: Trident Pseudo Krakens | https://opensea.io/collection/pseudo-krakens/analytics | https://blur.io/collection/pseudo-krakens
+Floor: 0.0839 | Offer: 0.06 | 7D Sales: 40 | Fee: 0.5% | Total Volume: 860.12 | Blur Floor: 0.08 | Blur Bid: 0.06
+Profit: 0.02348 | 39.13% | Blur Bid Profit: -0.0003
+=======================
+Name: Queens+Kings LAB by Hackatao | https://opensea.io/collection/queenskingslab/analytics | https://blur.io/collection/queenskingslab
+Floor: 0.09 | Offer: 0.0701 | 7D Sales: 16 | Fee: 0.5% | Total Volume: 1368.05 | Blur Floor: 0.09 | Blur Bid: 0.07
+Profit: 0.01945 | 27.75% | Blur Bid Profit: -0.00045
+=======================
+Name: Dr. Grordborts: Rayguns | https://opensea.io/collection/dr-grordborts-rayguns/analytics | https://blur.io/collection/dr-grordborts-rayguns
+Floor: 0.0898 | Offer: 0.0701 | 7D Sales: 17 | Fee: 0.5% | Total Volume: 418.93 | Blur Floor: 0.0898 | Blur Bid: 0.07
+Profit: 0.01925 | 27.46% | Blur Bid Profit: -0.00045
+=======================
+Name: MutantCats | https://opensea.io/collection/mutantcats/analytics | https://blur.io/collection/mutantcats
+Floor: 0.1013 | Offer: 0.09000000000000001 | 7D Sales: 22 | Fee: 0.5% | Total Volume: 16839.04 | Blur Floor: 0.1013 | Blur Bid: 0.09
+Profit: 0.01079 | 11.99% | Blur Bid Profit: -0.00045
+=======================
+Name: Froggy Friends Official | https://opensea.io/collection/froggyfriendsnft/analytics | https://blur.io/collection/froggyfriendsnft
+Floor: 0.115 | Offer: 0.1 | 7D Sales: 90 | Fee: 0.5% | Total Volume: 1297.56 | Blur Floor: 0.115 | Blur Bid: 0.1
+Profit: 0.01442 | 14.42% | Blur Bid Profit: -0.0005
+=======================
+Name: Everai Heroes: Duo | https://opensea.io/collection/everai-heroes-duo/analytics | https://blur.io/collection/everai-heroes-duo
+Floor: 0.1147 | Offer: 0.10001 | 7D Sales: 53 | Fee: 0.5% | Total Volume: 9145.11 | Blur Floor: 0.11 | Blur Bid: 0.1
+Profit: 0.01412 | 14.12% | Blur Bid Profit: -0.00051
+=======================
+Name: Chimpers | https://opensea.io/collection/chimpersnft/analytics | https://blur.io/collection/chimpersnft
+Floor: 0.883 | Offer: 0.82639 | 7D Sales: 80 | Fee: 0.5% | Total Volume: 19654.46 | Blur Floor: 0.8542 | Blur Bid: 0.83
+Profit: 0.0522 | 6.32% | Blur Bid Profit: -0.00054
+=======================
+Name: Distortion by Nullish | https://opensea.io/collection/distortion-genesis/analytics | https://blur.io/collection/distortion-genesis
+Floor: 0.1365 | Offer: 0.0901 | 7D Sales: 42 | Fee: 0.5% | Total Volume: 891.56 | Blur Floor: 0.12899 | Blur Bid: 0.09
+Profit: 0.04572 | 50.74% | Blur Bid Profit: -0.00055
+=======================
+Name: CULT&RAIN - The Genesis Collection | https://opensea.io/collection/cultandrain-genesis/analytics | https://blur.io/collection/cultandrain-genesis
+Floor: 0.095 | Offer: 0.01071 | 7D Sales: 20 | Fee: 0.5% | Total Volume: 342.85 | Blur Floor: 0.0589 | Blur Bid: 0.01
+Profit: 0.08382 | 782.59% | Blur Bid Profit: -0.00076
+=======================
+Name: Desperate ApeWives | https://opensea.io/collection/desperate-ape-wives/analytics | https://blur.io/collection/desperate-ape-wives
+Floor: 0.1709 | Offer: 0.15001 | 7D Sales: 38 | Fee: 0.5% | Total Volume: 11994.74 | Blur Floor: 0.17 | Blur Bid: 0.15
+Profit: 0.02004 | 13.36% | Blur Bid Profit: -0.00076
+=======================
+Name: Generative Dungeon | https://opensea.io/collection/generativedungeon/analytics | https://blur.io/collection/generativedungeon
+Floor: 0.109 | Offer: 0.09031 | 7D Sales: 15 | Fee: 0.5% | Total Volume: 3595.84 | Blur Floor: 0.109 | Blur Bid: 0.09
+Profit: 0.01814 | 20.09% | Blur Bid Profit: -0.00076
+=======================
+Name: [ Ledger ] Market – Ledger Stax | https://opensea.io/collection/ledger-market-ledger-stax/analytics | https://blur.io/collection/ledger-market-ledger-stax
+Floor: 0.178 | Offer: 0.16 | 7D Sales: 20 | Fee: 0.5% | Total Volume: 185.03 | Blur Floor: 0.1744 | Blur Bid: 0.16
+Profit: 0.01711 | 10.69% | Blur Bid Profit: -0.0008
+=======================
+Name: CRYPTO TATS by NOMOZ | https://opensea.io/collection/nomoz-crypto-tats/analytics | https://blur.io/collection/nomoz-crypto-tats
+Floor: 0.1899 | Offer: 0.0805 | 7D Sales: 13 | Fee: 0.5% | Total Volume: 219.54 | Blur Floor: 0.1899 | Blur Bid: 0.08
+Profit: 0.10845 | 134.72% | Blur Bid Profit: -0.0009
+=======================
+Name: CrypToadz by GREMPLIN | https://opensea.io/collection/cryptoadz-by-gremplin/analytics | https://blur.io/collection/cryptoadz-by-gremplin
+Floor: 0.9 | Offer: 0.84665 | 7D Sales: 49 | Fee: 0.5% | Total Volume: 74523.65 | Blur Floor: 0.89 | Blur Bid: 0.85
+Profit: 0.04885 | 5.77% | Blur Bid Profit: -0.0009
+=======================
+Name: Idols NFT | https://opensea.io/collection/idolsnft/analytics | https://blur.io/collection/idolsnft
+Floor: 0.17 | Offer: 0.1402 | 7D Sales: 41 | Fee: 0.5% | Total Volume: 915.55 | Blur Floor: 0.1597 | Blur Bid: 0.14
+Profit: 0.02895 | 20.65% | Blur Bid Profit: -0.0009
+=======================
+Name: Akutars | https://opensea.io/collection/akutars/analytics | https://blur.io/collection/akutars
+Floor: 0.1468 | Offer: 0.13035 | 7D Sales: 41 | Fee: 0.5% | Total Volume: 14981.28 | Blur Floor: 0.12 | Blur Bid: 0.13
+Profit: 0.01572 | 12.06% | Blur Bid Profit: -0.001
+=======================
+Name: Bears Deluxe | https://opensea.io/collection/bears-deluxe/analytics | https://blur.io/collection/bears-deluxe
+Floor: 0.1025 | Offer: 0.1006 | 7D Sales: 32 | Fee: 0.5% | Total Volume: 18697.81 | Blur Floor: 0.1025 | Blur Bid: 0.1
+Profit: 0.00139 | 1.38% | Blur Bid Profit: -0.0011
+=======================
+Name: Damien Hirst - Great Expectations | https://opensea.io/collection/great-expectations/analytics | https://blur.io/collection/great-expectations
+Floor: 0.2549 | Offer: 0.20011 | 7D Sales: 5 | Fee: 0.5% | Total Volume: 899.88 | Blur Floor: 0.2549 | Blur Bid: 0.2
+Profit: 0.05352 | 26.74% | Blur Bid Profit: -0.00111
+=======================
+Name: The Orbs by BT | https://opensea.io/collection/theorbsbybt/analytics | https://blur.io/collection/theorbsbybt
+Not WETH offer: 0x15D4c048F83bd7e37d49eA4C83a07267Ec4203dA
+Floor: 0.2746 | Offer: 0.20018145432837578 | 7D Sales: 8 | Fee: 0.5% | Total Volume: 2726.2 | Blur Floor: 0.2746 | Blur Bid: 0.2
+Profit: 0.07305 | 36.49% | Blur Bid Profit: -0.00118
+=======================
+Name: Angry Ape Army | https://opensea.io/collection/angry-ape-army/analytics | https://blur.io/collection/angry-ape-army
+Floor: 0.3099 | Offer: 0.26001 | 7D Sales: 54 | Fee: 0.5% | Total Volume: 5611.59 | Blur Floor: 0.3099 | Blur Bid: 0.26
+Profit: 0.04834 | 18.59% | Blur Bid Profit: -0.00131
+=======================
+Name: Rumble Kong League | https://opensea.io/collection/rumble-kong-league/analytics | https://blur.io/collection/rumble-kong-league
+Floor: 0.2398 | Offer: 0.21031 | 7D Sales: 53 | Fee: 0.5% | Total Volume: 18916.64 | Blur Floor: 0.2394 | Blur Bid: 0.21
+Profit: 0.02829 | 13.45% | Blur Bid Profit: -0.00136
+=======================
+Name: Bored & Dangerous | https://opensea.io/collection/bored-and-dangerous/analytics | https://blur.io/collection/bored-and-dangerous
+Floor: 0.085 | Offer: 0.081 | 7D Sales: 183 | Fee: 0.5% | Total Volume: 4269.32 | Blur Floor: 0.08 | Blur Bid: 0.08
+Profit: 0.00358 | 4.41% | Blur Bid Profit: -0.0014
+=======================
+Name: Shrapnel Operators Collection | https://opensea.io/collection/shrapnel-operators-collection/analytics | https://blur.io/collection/shrapnel-operators-collection
+Floor: 0.0903 | Offer: 0.08101 | 7D Sales: 102 | Fee: 0.5% | Total Volume: 695.36 | Blur Floor: 0.0895 | Blur Bid: 0.08
+Profit: 0.00884 | 10.91% | Blur Bid Profit: -0.00141
+=======================
+Name: Silks Genesis Avatars | https://opensea.io/collection/silks-genesis-avatars/analytics | https://blur.io/collection/silks-genesis-avatars
+Floor: 0.1171 | Offer: 0.091 | 7D Sales: 42 | Fee: 0.5% | Total Volume: 1183.51 | Blur Floor: 0.0977 | Blur Bid: 0.09
+Profit: 0.02551 | 28.04% | Blur Bid Profit: -0.00145
+=======================
+Name: The Art Pass by Iconic Moments | https://opensea.io/collection/iconic-moments-the-art-pass/analytics | https://blur.io/collection/iconic-moments-the-art-pass
+Floor: 0.325 | Offer: 0.29001 | 7D Sales: 177 | Fee: 0.5% | Total Volume: 905.54 | Blur Floor: 0.325 | Blur Bid: 0.29
+Profit: 0.03337 | 11.5% | Blur Bid Profit: -0.00146
+=======================
+Name: Createra Genesis Land | https://opensea.io/collection/createra-genesis-land/analytics | https://blur.io/collection/createra-genesis-land
+Floor: 0.3185 | Offer: 0.3 | 7D Sales: 33 | Fee: 0.5% | Total Volume: 8503.47 | Blur Floor: 0.3185 | Blur Bid: 0.3
+Profit: 0.01691 | 5.64% | Blur Bid Profit: -0.0015
+=======================
+Name: MekaVerse | https://opensea.io/collection/mekaverse/analytics | https://blur.io/collection/mekaverse
+Floor: 0.2028 | Offer: 0.19055 | 7D Sales: 31 | Fee: 0.5% | Total Volume: 49731.89 | Blur Floor: 0.2028 | Blur Bid: 0.19
+Profit: 0.01124 | 5.9% | Blur Bid Profit: -0.0015
+=======================
+Name: NFTinit Lifetime | https://opensea.io/collection/nftinit-lifetime/analytics | https://blur.io/collection/nftinit-lifetime
+Floor: 0.1088 | Offer: 0.101 | 7D Sales: 21 | Fee: 0.5% | Total Volume: 670.54 | Blur Floor: 0.1045 | Blur Bid: 0.1
+Profit: 0.00726 | 7.18% | Blur Bid Profit: -0.0015
+=======================
+Name: FULL SEND METACARD NFT | https://opensea.io/collection/metacard-by-fullsend/analytics | https://blur.io/collection/metacard-by-fullsend
+Floor: 0.3886 | Offer: 0.33001 | 7D Sales: 60 | Fee: 0.5% | Total Volume: 16608.13 | Blur Floor: 0.3886 | Blur Bid: 0.33
+Profit: 0.05665 | 17.17% | Blur Bid Profit: -0.00166
+=======================
+Name: WADE Friends & Family Official | https://opensea.io/collection/wade-official/analytics | https://blur.io/collection/wade-official
+Floor: 0.42 | Offer: 0.37 | 7D Sales: 19 | Fee: 0.5% | Total Volume: 47.71 | Blur Floor: 0.415 | Blur Bid: 0.37
+Profit: 0.0479 | 12.95% | Blur Bid Profit: -0.00185
+=======================
+Name: KINGSHIP | https://opensea.io/collection/therealkingship/analytics | https://blur.io/collection/therealkingship
+Floor: 0.084899 | Offer: 0.0715 | 7D Sales: 62 | Fee: 0.5% | Total Volume: 1938.43 | Blur Floor: 0.0789 | Blur Bid: 0.07
+Profit: 0.01297 | 18.15% | Blur Bid Profit: -0.00185
+=======================
+Name: Rug Radio - Genesis NFT | https://opensea.io/collection/ruggenesis-nft/analytics | https://blur.io/collection/ruggenesis-nft
+Floor: 0.185 | Offer: 0.17101 | 7D Sales: 129 | Fee: 0.5% | Total Volume: 14240.09 | Blur Floor: 0.167 | Blur Bid: 0.17
+Profit: 0.01306 | 7.64% | Blur Bid Profit: -0.00186
+=======================
+Name: Boss Beauties | https://opensea.io/collection/bossbeauties/analytics | https://blur.io/collection/bossbeauties
+Floor: 0.139386 | Offer: 0.1213 | 7D Sales: 61 | Fee: 0.5% | Total Volume: 16118.03 | Blur Floor: 0.136 | Blur Bid: 0.12
+Profit: 0.01739 | 14.34% | Blur Bid Profit: -0.0019
+=======================
+Name: Proof of Narnian NFT | https://opensea.io/collection/proof-of-narnian-nft-og/analytics | https://blur.io/collection/proof-of-narnian-nft-og
+Floor: 0.44 | Offer: 0.3801 | 7D Sales: 22 | Fee: 0.5% | Total Volume: 881.74 | Blur Floor: 0.415 | Blur Bid: 0.38
+Profit: 0.0577 | 15.18% | Blur Bid Profit: -0.002
+=======================
+Name: CryptoSkulls | https://opensea.io/collection/cryptoskulls/analytics | https://blur.io/collection/cryptoskulls
+Floor: 0.2894 | Offer: 0.24081 | 7D Sales: 119 | Fee: 0.5% | Total Volume: 22240.62 | Blur Floor: 0.253899999 | Blur Bid: 0.24
+Profit: 0.04714 | 19.58% | Blur Bid Profit: -0.00201
+=======================
+Name: Inpeak Genesis | https://opensea.io/collection/inpeak-genesis/analytics | https://blur.io/collection/inpeak-genesis
+Floor: 0.6693 | Offer: 0.34032 | 7D Sales: 10 | Fee: 0.5% | Total Volume: 169.64 | Blur Floor: 0.54 | Blur Bid: 0.34
+Profit: 0.32563 | 95.68% | Blur Bid Profit: -0.00202
+=======================
+Name: Hedgies | https://opensea.io/collection/hedgies/analytics | https://blur.io/collection/hedgies
+Floor: 0.3697 | Offer: 0.301 | 7D Sales: 30 | Fee: 0.5% | Total Volume: 2594.63 | Blur Floor: 0.3399 | Blur Bid: 0.3
+Profit: 0.06685 | 22.21% | Blur Bid Profit: -0.0025
+=======================
+Name: GEMMA BY TRISTAN EATON | https://opensea.io/collection/the-generative-electronic-museum-of-metaverse-art/analytics | https://blur.io/collection/the-generative-electronic-museum-of-metaverse-art
+Floor: 0.1061 | Offer: 0.09205 | 7D Sales: 16 | Fee: 0.5% | Total Volume: 1126.27 | Blur Floor: 0.1061 | Blur Bid: 0.09
+Profit: 0.01352 | 14.69% | Blur Bid Profit: -0.0025
+=======================
+Name: [ Ledger ] Market Pass - Genesis Edition | https://opensea.io/collection/ledger-market-pass-genesis-edition/analytics | https://blur.io/collection/ledger-market-pass-genesis-edition
+Floor: 0.0996 | Offer: 0.09211 | 7D Sales: 204 | Fee: 0.5% | Total Volume: 5348.62 | Blur Floor: 0.0996 | Blur Bid: 0.09
+Profit: 0.00699 | 7.59% | Blur Bid Profit: -0.00256
+=======================
+Name: IlluminatiNFT by Truth Labs | https://opensea.io/collection/illuminaticollective/analytics | https://blur.io/collection/illuminaticollective
+Floor: 0.2591 | Offer: 0.2414 | 7D Sales: 45 | Fee: 0.5% | Total Volume: 9249.56 | Blur Floor: 0.2591 | Blur Bid: 0.24
+Profit: 0.0164 | 6.8% | Blur Bid Profit: -0.0026
+=======================
+Name: Genuine Undead | https://opensea.io/collection/genuine-undead/analytics | https://blur.io/collection/genuine-undead
+Floor: 0.1829 | Offer: 0.17176 | 7D Sales: 522 | Fee: 0.5% | Total Volume: 12591.92 | Blur Floor: 0.179 | Blur Bid: 0.17
+Profit: 0.01023 | 5.95% | Blur Bid Profit: -0.00261
+=======================
+Name: Meta Mansions by KEYS | https://opensea.io/collection/metamansionsbykeys/analytics | https://blur.io/collection/metamansionsbykeys
+Floor: 0.1099 | Offer: 0.0724 | 7D Sales: 26 | Fee: 0.5% | Total Volume: 2021.19 | Blur Floor: 0.1099 | Blur Bid: 0.07
+Profit: 0.03695 | 51.04% | Blur Bid Profit: -0.00275
+=======================
+Name: The Parallax Genesis | https://opensea.io/collection/theparallaxgenesis/analytics | https://blur.io/collection/theparallaxgenesis
+Floor: 0.095 | Offer: 0.0625 | 7D Sales: 23 | Fee: 0.5% | Total Volume: 295.9 | Blur Floor: 0.095 | Blur Bid: 0.06
+Profit: 0.03202 | 51.24% | Blur Bid Profit: -0.0028
+=======================
+Name: Prime Ape Planet PAP | https://opensea.io/collection/primeapeplanetpap/analytics | https://blur.io/collection/primeapeplanetpap
+Floor: 0.112 | Offer: 0.0824 | 7D Sales: 45 | Fee: 0.5% | Total Volume: 30338.58 | Blur Floor: 0.0888 | Blur Bid: 0.08
+Profit: 0.02904 | 35.24% | Blur Bid Profit: -0.0028
+=======================
+Name: PXN: Ghost Division | https://opensea.io/collection/pxnghostdivision/analytics | https://blur.io/collection/pxnghostdivision
+Floor: 0.1149 | Offer: 0.10231 | 7D Sales: 66 | Fee: 0.5% | Total Volume: 46203.17 | Blur Floor: 0.1149 | Blur Bid: 0.1
+Profit: 0.01202 | 11.74% | Blur Bid Profit: -0.00281
+=======================
+Name: TREY RATCLIFF: 1K1K PROJECT - 1,000 Stories from 1,000 Places Around the World | https://opensea.io/collection/trey-ratcliff-1k1k-project/analytics | https://blur.io/collection/trey-ratcliff-1k1k-project
+Floor: 0.1 | Offer: 0.0401 | 7D Sales: 8 | Fee: 7.5% | Total Volume: 180.76 | Blur Floor: 0.096 | Blur Bid: 0.04
+Profit: 0.0524 | 130.67% | Blur Bid Profit: -0.0031
+=======================
+Name: BYOPill | https://opensea.io/collection/byopill/analytics | https://blur.io/collection/byopill
+Floor: 0.1598 | Offer: 0.13254 | 7D Sales: 110 | Fee: 0.5% | Total Volume: 6923.36 | Blur Floor: 0.1511 | Blur Bid: 0.13
+Profit: 0.02646 | 19.96% | Blur Bid Profit: -0.00319
+=======================
+Name: Bibos | https://opensea.io/collection/bibos/analytics | https://blur.io/collection/bibos
+Floor: 0.1 | Offer: 0.0331 | 7D Sales: 9 | Fee: 0.5% | Total Volume: 560.85 | Blur Floor: 0.1 | Blur Bid: 0.03
+Profit: 0.0664 | 200.6% | Blur Bid Profit: -0.00325
+=======================
+Name: Rubber Duckz | https://opensea.io/collection/rubberduckz/analytics | https://blur.io/collection/rubberduckz
+Floor: 0.0895 | Offer: 0.04311 | 7D Sales: 12 | Fee: 0.5% | Total Volume: 1320.69 | Blur Floor: 0.08 | Blur Bid: 0.04
+Profit: 0.04594 | 106.57% | Blur Bid Profit: -0.00331
+=======================
+Name: NFT Sensei Lifetime Access | https://opensea.io/collection/nftsensei/analytics | https://blur.io/collection/nftsensei
+Floor: 0.2797 | Offer: 0.262055 | 7D Sales: 25 | Fee: 0.5% | Total Volume: 1554.48 | Blur Floor: 0.27189999999999 | Blur Bid: 0.26
+Profit: 0.01625 | 6.2% | Blur Bid Profit: -0.00335
+=======================
+Name: EightBit Me | https://opensea.io/collection/eightbitme/analytics | https://blur.io/collection/eightbitme
+Floor: 0.0847 | Offer: 0.073 | 7D Sales: 28 | Fee: 0.5% | Total Volume: 9200.81 | Blur Floor: 0.0847 | Blur Bid: 0.07
+Profit: 0.01128 | 15.45% | Blur Bid Profit: -0.00335
+=======================
+Name: Genesis Box | https://opensea.io/collection/genesis-box/analytics | https://blur.io/collection/genesis-box
+Floor: 0.1198 | Offer: 0.113 | 7D Sales: 1015 | Fee: 0.5% | Total Volume: 6230.33 | Blur Floor: 0.118 | Blur Bid: 0.11
+Profit: 0.0062 | 5.49% | Blur Bid Profit: -0.00355
+=======================
+Name: Applied Primate Keycard | https://opensea.io/collection/applied-primate-keycard/analytics | https://blur.io/collection/applied-primate-keycard
+Floor: 0.1849 | Offer: 0.15281 | 7D Sales: 53 | Fee: 0.5% | Total Volume: 3321.12 | Blur Floor: 0.1825 | Blur Bid: 0.15
+Profit: 0.03117 | 20.39% | Blur Bid Profit: -0.00356
+=======================
+Name: FoxFam | https://opensea.io/collection/foxfam/analytics | https://blur.io/collection/foxfam
+Floor: 0.087191 | Offer: 0.07331 | 7D Sales: 88 | Fee: 0.5% | Total Volume: 7460.87 | Blur Floor: 0.087191 | Blur Bid: 0.07
+Profit: 0.01345 | 18.34% | Blur Bid Profit: -0.00366
+=======================
+Name: FiatWorks 3000 | https://opensea.io/collection/fiatworks-3000/analytics | https://blur.io/collection/fiatworks-3000
+Floor: 0.5399 | Offer: 0.4614 | 7D Sales: 12 | Fee: 0.5% | Total Volume: 510.07 | Blur Floor: 0.5399 | Blur Bid: 0.46
+Profit: 0.0758 | 16.43% | Blur Bid Profit: -0.0037
+=======================
+Name: tubby cats | https://opensea.io/collection/tubby-cats/analytics | https://blur.io/collection/tubby-cats
+Floor: 0.08968 | Offer: 0.0734 | 7D Sales: 89 | Fee: 0.5% | Total Volume: 18283.24 | Blur Floor: 0.08 | Blur Bid: 0.07
+Profit: 0.01583 | 21.57% | Blur Bid Profit: -0.00375
+=======================
+Name: Sappy Seals | https://opensea.io/collection/sappy-seals/analytics | https://blur.io/collection/sappy-seals
+Floor: 0.855 | Offer: 0.84 | 7D Sales: 1707 | Fee: 0.5% | Total Volume: 27983.32 | Blur Floor: 0.8449898 | Blur Bid: 0.84
+Profit: 0.01072 | 1.28% | Blur Bid Profit: -0.0042
+=======================
+Name: HUGO x Imaginary Ones: Embrace Your Emotions | https://opensea.io/collection/hugo-x-imaginaryones-embrace-your-emotions/analytics | https://blur.io/collection/hugo-x-imaginaryones-embrace-your-emotions
+Floor: 0.5499 | Offer: 0.39414 | 7D Sales: 9 | Fee: 5.0% | Total Volume: 586.01 | Blur Floor: 0.5199 | Blur Bid: 0.41
+Profit: 0.12827 | 32.54% | Blur Bid Profit: -0.00464
+=======================
+Name: Fragments By James Jean | https://opensea.io/collection/fragments-by-james-jean/analytics | https://blur.io/collection/fragments-by-james-jean
+Floor: 0.155 | Offer: 0.13437 | 7D Sales: 49 | Fee: 0.5% | Total Volume: 8980.37 | Blur Floor: 0.1445 | Blur Bid: 0.13
+Profit: 0.01986 | 14.78% | Blur Bid Profit: -0.00502
+=======================
+Name: oraand | https://opensea.io/collection/oraand/analytics | https://blur.io/collection/oraand
+Floor: 0.1049 | Offer: 0.065 | 7D Sales: 5 | Fee: 0.5% | Total Volume: 735.24 | Blur Floor: 0.0999 | Blur Bid: 0.06
+Profit: 0.03938 | 60.58% | Blur Bid Profit: -0.0053
+=======================
+Name: lobsterdao | https://opensea.io/collection/lobsterdao/analytics | https://blur.io/collection/lobsterdao
+Floor: 0.9 | Offer: 0.78148 | 7D Sales: 17 | Fee: 0.5% | Total Volume: 3081.38 | Blur Floor: 0.9 | Blur Bid: 0.78
+Profit: 0.11402 | 14.59% | Blur Bid Profit: -0.00538
+=======================
+Name: Revenge of the Nation State | https://opensea.io/collection/revenge-of-the-nation-state/analytics | https://blur.io/collection/revenge-of-the-nation-state
+Floor: 0.199 | Offer: 0.085 | 7D Sales: 5 | Fee: 0.5% | Total Volume: 13.32 | Blur Floor: 0.199 | Blur Bid: 0.08
+Profit: 0.11301 | 132.95% | Blur Bid Profit: -0.0054
+=======================
+Name: Wassies by Wassies | https://opensea.io/collection/wassiesbywassies/analytics | https://blur.io/collection/wassiesbywassies
+Floor: 0.4499 | Offer: 0.37361 | 7D Sales: 32 | Fee: 0.5% | Total Volume: 10811.64 | Blur Floor: 0.3988 | Blur Bid: 0.37
+Profit: 0.07404 | 19.82% | Blur Bid Profit: -0.00546
+=======================
+Name: The MV3 Universe | https://opensea.io/collection/MV3/analytics | https://blur.io/collection/MV3
+Floor: 0.1005 | Offer: 0.07511 | 7D Sales: 20 | Fee: 0.5% | Total Volume: 3314.67 | Blur Floor: 0 | Blur Bid: 0.07
+Profit: 0.02489 | 33.13% | Blur Bid Profit: -0.00546
+=======================
+Name: SMOWL | https://opensea.io/collection/smowl/analytics | https://blur.io/collection/smowl
+Floor: 0.22 | Offer: 0.19455 | 7D Sales: 87 | Fee: 0.5% | Total Volume: 1570.68 | Blur Floor: 0.2 | Blur Bid: 0.19
+Profit: 0.02435 | 12.52% | Blur Bid Profit: -0.0055
+=======================
+Name: CNP Jobs | https://opensea.io/collection/cnp-jobs/analytics | https://blur.io/collection/cnp-jobs
+Floor: 0.11582 | Offer: 0.10501 | 7D Sales: 35 | Fee: 0.5% | Total Volume: 1749.97 | Blur Floor: 0.115 | Blur Bid: 0.1
+Profit: 0.01023 | 9.74% | Blur Bid Profit: -0.00551
+=======================
+Name: Lazy Lions | https://opensea.io/collection/lazy-lions/analytics | https://blur.io/collection/lazy-lions
+Floor: 0.3087 | Offer: 0.27418 | 7D Sales: 389 | Fee: 0.5% | Total Volume: 31972.75 | Blur Floor: 0.288 | Blur Bid: 0.27
+Profit: 0.03298 | 12.03% | Blur Bid Profit: -0.00553
+=======================
+Name: grumpls | https://opensea.io/collection/grumpls/analytics | https://blur.io/collection/grumpls
+Floor: 0.1708 | Offer: 0.14499 | 7D Sales: 82 | Fee: 0.5% | Total Volume: 1965.89 | Blur Floor: 0.1708 | Blur Bid: 0.14
+Profit: 0.02496 | 17.21% | Blur Bid Profit: -0.00569
+=======================
+Name: Poolsuite - Executive Member | https://opensea.io/collection/poolsuite-executive-member/analytics | https://blur.io/collection/poolsuite-executive-member
+Floor: 0.4144999999999999 | Offer: 0.29435 | 7D Sales: 5 | Fee: 0.5% | Total Volume: 3229.87 | Blur Floor: 0.3999 | Blur Bid: 0.29
+Profit: 0.11808 | 40.11% | Blur Bid Profit: -0.0058
+=======================
+Name: alien frens | https://opensea.io/collection/alienfrensnft/analytics | https://blur.io/collection/alienfrensnft
+Floor: 0.2 | Offer: 0.18495 | 7D Sales: 151 | Fee: 0.5% | Total Volume: 30473.78 | Blur Floor: 0.199 | Blur Bid: 0.18
+Profit: 0.01405 | 7.6% | Blur Bid Profit: -0.00585
+=======================
+Name: This Thing Of Ours - The NFT Gaming Collective | https://opensea.io/collection/this-thing-of-ours-nft/analytics | https://blur.io/collection/this-thing-of-ours-nft
+Floor: 0.2141 | Offer: 0.185 | 7D Sales: 49 | Fee: 0.5% | Total Volume: 693.55 | Blur Floor: 0.2141 | Blur Bid: 0.18
+Profit: 0.02803 | 15.15% | Blur Bid Profit: -0.0059
+=======================
+Name: Gutter Dogs | https://opensea.io/collection/gutterdogs/analytics | https://blur.io/collection/gutterdogs
+Floor: 0.2295 | Offer: 0.19509 | 7D Sales: 34 | Fee: 0.5% | Total Volume: 7040.14 | Blur Floor: 0.201 | Blur Bid: 0.19
+Profit: 0.03326 | 17.05% | Blur Bid Profit: -0.00604
+=======================
+Name: MoonCats | https://opensea.io/collection/acclimatedmooncats/analytics | https://blur.io/collection/acclimatedmooncats
+Floor: 0.2469 | Offer: 0.215 | 7D Sales: 179 | Fee: 0.5% | Total Volume: 20281.01 | Blur Floor: 0.239 | Blur Bid: 0.21
+Profit: 0.03067 | 14.26% | Blur Bid Profit: -0.00605
+=======================
+Name: Karafuru | https://opensea.io/collection/karafuru/analytics | https://blur.io/collection/karafuru
+Floor: 0.13 | Offer: 0.11551 | 7D Sales: 161 | Fee: 0.5% | Total Volume: 45127.48 | Blur Floor: 0.1276 | Blur Bid: 0.11
+Profit: 0.01384 | 11.98% | Blur Bid Profit: -0.00606
+=======================
+Name: Real Vision Pro Crypto Genesis Collection | https://opensea.io/collection/real-vision-pro-crypto-genesis-collection/analytics | https://blur.io/collection/real-vision-pro-crypto-genesis-collection
+Floor: 1.53 | Offer: 1.1504 | 7D Sales: 12 | Fee: 0.5% | Total Volume: 932.75 | Blur Floor: 1.449 | Blur Bid: 1.15
+Profit: 0.37195 | 32.33% | Blur Bid Profit: -0.00615
+=======================
+Name: Bored Ape Golf Club | https://opensea.io/collection/boredapegolfclub-altava/analytics | https://blur.io/collection/boredapegolfclub-altava
+Floor: 0.1697 | Offer: 0.13551 | 7D Sales: 20 | Fee: 0.5% | Total Volume: 101.33 | Blur Floor: 0.145 | Blur Bid: 0.13
+Profit: 0.03334 | 24.6% | Blur Bid Profit: -0.00616
+=======================
+Name: Highrise LAND | https://opensea.io/collection/highrise-land/analytics | https://blur.io/collection/highrise-land
+Floor: 0.189 | Offer: 0.15541 | 7D Sales: 18 | Fee: 0.5% | Total Volume: 205.58 | Blur Floor: 0.18 | Blur Bid: 0.15
+Profit: 0.03265 | 21.01% | Blur Bid Profit: -0.00616
+=======================
+Name: Enigma Economy NFT | https://opensea.io/collection/theenigma/analytics | https://blur.io/collection/theenigma
+Floor: 0.23 | Offer: 0.14551 | 7D Sales: 14 | Fee: 0.5% | Total Volume: 1789.52 | Blur Floor: 0.23 | Blur Bid: 0.14
+Profit: 0.08334 | 57.27% | Blur Bid Profit: -0.00621
+=======================
+Name: The Doge Pound | https://opensea.io/collection/the-doge-pound/analytics | https://blur.io/collection/the-doge-pound
+Floor: 0.1499 | Offer: 0.1157 | 7D Sales: 78 | Fee: 0.5% | Total Volume: 30040.39 | Blur Floor: 0.1299 | Blur Bid: 0.11
+Profit: 0.03345 | 28.91% | Blur Bid Profit: -0.00625
+=======================
+Name: Impact Theory Founder's Key | https://opensea.io/collection/impact-theory-founders-key/analytics | https://blur.io/collection/impact-theory-founders-key
+Floor: 0.126 | Offer: 0.10581 | 7D Sales: 57 | Fee: 0.5% | Total Volume: 3069.79 | Blur Floor: 0.1235 | Blur Bid: 0.1
+Profit: 0.01956 | 18.49% | Blur Bid Profit: -0.00631
+=======================
+Name: Pop Art Cats by Matt Chessco | https://opensea.io/collection/popartcats/analytics | https://blur.io/collection/popartcats
+Floor: 0.0942 | Offer: 0.08601 | 7D Sales: 103 | Fee: 0.5% | Total Volume: 4815.98 | Blur Floor: 0.0942 | Blur Bid: 0.08
+Profit: 0.00772 | 8.97% | Blur Bid Profit: -0.00641
+=======================
+Name: Bulls and Apes Project - Genesis | https://opensea.io/collection/bullsandapes-genesis/analytics | https://blur.io/collection/bullsandapes-genesis
+Floor: 0.2449 | Offer: 0.21551 | 7D Sales: 60 | Fee: 0.5% | Total Volume: 3907.41 | Blur Floor: 0.2195 | Blur Bid: 0.21
+Profit: 0.02817 | 13.07% | Blur Bid Profit: -0.00656
+=======================
+Name: Half BAYCD | https://opensea.io/collection/halfbaycd/analytics | https://blur.io/collection/halfbaycd
+Floor: 0.08 | Offer: 0.06641 | 7D Sales: 37 | Fee: 0.5% | Total Volume: 371.55 | Blur Floor: 0.08 | Blur Bid: 0.06
+Profit: 0.01319 | 19.86% | Blur Bid Profit: -0.00671
+=======================
+Name: Tennis Champs Genesis | https://opensea.io/collection/tennis-champs-genesis/analytics | https://blur.io/collection/tennis-champs-genesis
+Floor: 0.08 | Offer: 0.0668 | 7D Sales: 25 | Fee: 0.5% | Total Volume: 1045.55 | Blur Floor: 0.079 | Blur Bid: 0.06
+Profit: 0.0128 | 19.16% | Blur Bid Profit: -0.0071
+=======================
+Name: White Sands Parcel Pass | https://opensea.io/collection/white-sands-parcel-pass/analytics | https://blur.io/collection/white-sands-parcel-pass
+Floor: 0.08 | Offer: 0.06696 | 7D Sales: 19 | Fee: 0.5% | Total Volume: 2086.85 | Blur Floor: 0.075 | Blur Bid: 0.06
+Profit: 0.01264 | 18.88% | Blur Bid Profit: -0.00726
+=======================
+Name: BYOLand | https://opensea.io/collection/byoland/analytics | https://blur.io/collection/byoland
+Floor: 0.0995 | Offer: 0.08686 | 7D Sales: 23 | Fee: 0.5% | Total Volume: 6163.09 | Blur Floor: 0.098 | Blur Bid: 0.08
+Profit: 0.01214 | 13.98% | Blur Bid Profit: -0.00726
+=======================
+Name: BMC Ultra Miners | https://opensea.io/collection/ultra-miners/analytics | https://blur.io/collection/ultra-miners
+Floor: 0.1198 | Offer: 0.08701 | 7D Sales: 19 | Fee: 0.5% | Total Volume: 1307.58 | Blur Floor: 0.1198 | Blur Bid: 0.08
+Profit: 0.03219 | 37.0% | Blur Bid Profit: -0.00741
+=======================
+Name: NFArcade Pass | https://opensea.io/collection/nfarcade-pass/analytics | https://blur.io/collection/nfarcade-pass
+Floor: 0.115 | Offer: 0.09701 | 7D Sales: 18 | Fee: 0.5% | Total Volume: 688.3 | Blur Floor: 0.107 | Blur Bid: 0.09
+Profit: 0.01741 | 17.95% | Blur Bid Profit: -0.00746
+=======================
+Name: Undead Blocks Genesis Weapons | https://opensea.io/collection/undead-blocks-weapons/analytics | https://blur.io/collection/undead-blocks-weapons
+Floor: 0.0849 | Offer: 0.0672 | 7D Sales: 46 | Fee: 0.5% | Total Volume: 1235.41 | Blur Floor: 0.0849 | Blur Bid: 0.06
+Profit: 0.01728 | 25.71% | Blur Bid Profit: -0.0075
+=======================
+Name: WAFUKU GEN | https://opensea.io/collection/wafukugen/analytics | https://blur.io/collection/wafukugen
+Floor: 0.1355 | Offer: 0.11701 | 7D Sales: 62 | Fee: 0.5% | Total Volume: 700.04 | Blur Floor: 0.1354999 | Blur Bid: 0.11
+Profit: 0.01781 | 15.22% | Blur Bid Profit: -0.00756
+=======================
+Name: ShikibuWorld | https://opensea.io/collection/shikibu-world/analytics | https://blur.io/collection/shikibu-world
+Floor: 0.219 | Offer: 0.17001 | 7D Sales: 29 | Fee: 10.0% | Total Volume: 782.88 | Blur Floor: 0.219 | Blur Bid: 0.18
+Profit: 0.02709 | 15.93% | Blur Bid Profit: -0.00801
+=======================
+Name: Voyager Bowls | https://opensea.io/collection/voyager-bowls/analytics | https://blur.io/collection/voyager-bowls
+Floor: 0.12 | Offer: 0.09761 | 7D Sales: 22 | Fee: 0.5% | Total Volume: 147.03 | Blur Floor: 0.114 | Blur Bid: 0.09
+Profit: 0.02179 | 22.32% | Blur Bid Profit: -0.00806
+=======================
+Name: Bitmates | https://opensea.io/collection/bitmates/analytics | https://blur.io/collection/bitmates
+Floor: 0.0924 | Offer: 0.07809 | 7D Sales: 113 | Fee: 0.5% | Total Volume: 980.08 | Blur Floor: 0.0702 | Blur Bid: 0.07
+Profit: 0.01385 | 17.73% | Blur Bid Profit: -0.00844
+=======================
+Name: KPR | https://opensea.io/collection/kprverse/analytics | https://blur.io/collection/kprverse
+Floor: 0.148 | Offer: 0.132 | 7D Sales: 208 | Fee: 5.0% | Total Volume: 15943.55 | Blur Floor: 0.14 | Blur Bid: 0.13
+Profit: 0.0086 | 6.52% | Blur Bid Profit: -0.0085
+=======================
+Name: OnChain Buccaneers (OCB) | https://opensea.io/collection/onchain-buccaneers-ocb/analytics | https://blur.io/collection/onchain-buccaneers-ocb
+Floor: 0.61 | Offer: 0.4465 | 7D Sales: 28 | Fee: 0.5% | Total Volume: 741.94 | Blur Floor: 0.4838 | Blur Bid: 0.44
+Profit: 0.16045 | 35.94% | Blur Bid Profit: -0.0087
+=======================
+Name: XBorg NFT | https://opensea.io/collection/xborg-nft/analytics | https://blur.io/collection/xborg-nft
+Floor: 0.09 | Offer: 0.0684 | 7D Sales: 13 | Fee: 0.5% | Total Volume: 90.11 | Blur Floor: 0.09 | Blur Bid: 0.06
+Profit: 0.02115 | 30.92% | Blur Bid Profit: -0.0087
+=======================
+Name: Mutant Hound Collars | https://opensea.io/collection/mutant-hound-collars/analytics | https://blur.io/collection/mutant-hound-collars
+Floor: 0.375 | Offer: 0.3319 | 7D Sales: 177 | Fee: 5.0% | Total Volume: 12164.13 | Blur Floor: 0.375 | Blur Bid: 0.34
+Profit: 0.02435 | 7.34% | Blur Bid Profit: -0.0089
+=======================
+Name: Krapopolis Krap Chickens | https://opensea.io/collection/krapopolis-krap-chickens/analytics | https://blur.io/collection/krapopolis-krap-chickens
+Floor: 0.097114 | Offer: 0.0885 | 7D Sales: 30 | Fee: 0.5% | Total Volume: 442.22 | Blur Floor: 0.097038 | Blur Bid: 0.08
+Profit: 0.00813 | 9.18% | Blur Bid Profit: -0.0089
+=======================
+Name: Tiny Astro Genesis | https://opensea.io/collection/tiny-astro-genesis/analytics | https://blur.io/collection/tiny-astro-genesis
+Floor: 0.168983 | Offer: 0.14871 | 7D Sales: 64 | Fee: 0.5% | Total Volume: 637.56 | Blur Floor: 0.16 | Blur Bid: 0.14
+Profit: 0.01943 | 13.06% | Blur Bid Profit: -0.00941
+=======================
+Name: 3gm Bot Pass | https://opensea.io/collection/3gm-bot-pass/analytics | https://blur.io/collection/3gm-bot-pass
+Floor: 0.1255 | Offer: 0.1093 | 7D Sales: 35 | Fee: 0.5% | Total Volume: 157.54 | Blur Floor: 0.115 | Blur Bid: 0.1
+Profit: 0.01557 | 14.25% | Blur Bid Profit: -0.0098
+=======================
+Name: ClosePaPremiumPass | https://opensea.io/collection/closepa/analytics | https://blur.io/collection/closepa
+Floor: 0.125 | Offer: 0.1 | 7D Sales: 22 | Fee: 10.0% | Total Volume: 118.96 | Blur Floor: 0.125 | Blur Bid: 0.1
+Profit: 0.0125 | 12.5% | Blur Bid Profit: -0.01
+=======================
+Name: HARAMBE: LEGENDS | https://opensea.io/collection/harambe-legends/analytics | https://blur.io/collection/harambe-legends
+Floor: 0.0859 | Offer: 0.05015 | 7D Sales: 8 | Fee: 0.5% | Total Volume: 106.92 | Blur Floor: 0.0859 | Blur Bid: 0.04
+Profit: 0.03532 | 70.43% | Blur Bid Profit: -0.01035
+=======================
+Name: Runi | https://opensea.io/collection/runi/analytics | https://blur.io/collection/runi
+Floor: 0.4399 | Offer: 0.39999999999999997 | 7D Sales: 37 | Fee: 5.0% | Total Volume: 557.23 | Blur Floor: 0.418 | Blur Bid: 0.41
+Profit: 0.01791 | 4.48% | Blur Bid Profit: -0.0105
+=======================
+Name: Psychedelics Anonymous Genesis | https://opensea.io/collection/psychedelics-anonymous-genesis/analytics | https://blur.io/collection/psychedelics-anonymous-genesis
+Floor: 0.2158 | Offer: 0.1797 | 7D Sales: 140 | Fee: 0.5% | Total Volume: 27624.21 | Blur Floor: 0.195 | Blur Bid: 0.17
+Profit: 0.03502 | 19.49% | Blur Bid Profit: -0.01055
+=======================
+Name: SPACE CROCOS | https://opensea.io/collection/spacecrocos/analytics | https://blur.io/collection/spacecrocos
+Floor: 0.17 | Offer: 0.0902 | 7D Sales: 9 | Fee: 0.5% | Total Volume: 198.25 | Blur Floor: 0.17 | Blur Bid: 0.08
+Profit: 0.07895 | 87.53% | Blur Bid Profit: -0.0106
+=======================
+Name: Nifty League DEGENs | https://opensea.io/collection/niftydegen/analytics | https://blur.io/collection/niftydegen
+Floor: 0.09413 | Offer: 0.0803 | 7D Sales: 37 | Fee: 0.5% | Total Volume: 7953.45 | Blur Floor: 0.094159000000000016 | Blur Bid: 0.07
+Profit: 0.01336 | 16.64% | Blur Bid Profit: -0.01065
+=======================
+Name: Wilder Moto Genesis | https://opensea.io/collection/wilder-moto/analytics | https://blur.io/collection/wilder-moto
+Floor: 0.1724 | Offer: 0.15 | 7D Sales: 24 | Fee: 0.5% | Total Volume: 525.53 | Blur Floor: 0.1483 | Blur Bid: 0.14
+Profit: 0.02154 | 14.36% | Blur Bid Profit: -0.0107
+=======================
+Name: EXECUTE Social Pass | https://opensea.io/collection/execute-social-pass/analytics | https://blur.io/collection/execute-social-pass
+Floor: 0.25 | Offer: 0.21 | 7D Sales: 8 | Fee: 0.5% | Total Volume: 82.03 | Blur Floor: 0.25 | Blur Bid: 0.2
+Profit: 0.03875 | 18.45% | Blur Bid Profit: -0.011
+=======================
+Name: Pixel Vault Founder's DAO | https://opensea.io/collection/foundersdao/analytics | https://blur.io/collection/foundersdao
+Floor: 0.2398 | Offer: 0.22 | 7D Sales: 20 | Fee: 0.5% | Total Volume: 6269.75 | Blur Floor: 0.2398 | Blur Bid: 0.21
+Profit: 0.0186 | 8.46% | Blur Bid Profit: -0.01105
+=======================
+Name: Elev8 Member Pass | https://opensea.io/collection/elev8-member-pass/analytics | https://blur.io/collection/elev8-member-pass
+Floor: 0.1 | Offer: 0.08081 | 7D Sales: 15 | Fee: 0.5% | Total Volume: 67.39 | Blur Floor: 0.1 | Blur Bid: 0.07
+Profit: 0.01869 | 23.13% | Blur Bid Profit: -0.01116
+=======================
+Name: Volted Dragons Sailors Club - VDSC | https://opensea.io/collection/volteddragonssailorsclub/analytics | https://blur.io/collection/volteddragonssailorsclub
+Floor: 0.24775 | Offer: 0.17051 | 7D Sales: 24 | Fee: 0.5% | Total Volume: 538.61 | Blur Floor: 0.208 | Blur Bid: 0.16
+Profit: 0.076 | 44.57% | Blur Bid Profit: -0.01131
+=======================
+Name: ASM Brains | https://opensea.io/collection/asm-brains/analytics | https://blur.io/collection/asm-brains
+Floor: 0.329 | Offer: 0.28001 | 7D Sales: 68 | Fee: 0.5% | Total Volume: 9037.75 | Blur Floor: 0.329 | Blur Bid: 0.27
+Profit: 0.04735 | 16.91% | Blur Bid Profit: -0.01136
+=======================
+Name: Steedz of Degen | https://opensea.io/collection/steedz-of-degen/analytics | https://blur.io/collection/steedz-of-degen
+Floor: 0.149 | Offer: 0.0910001 | 7D Sales: 10 | Fee: 0.5% | Total Volume: 164.67 | Blur Floor: 0.1397 | Blur Bid: 0.08
+Profit: 0.05725 | 62.92% | Blur Bid Profit: -0.0114
+=======================
+Name: JRNY Club | https://opensea.io/collection/jrny-club-official/analytics | https://blur.io/collection/jrny-club-official
+Floor: 0.349 | Offer: 0.30001 | 7D Sales: 38 | Fee: 0.5% | Total Volume: 16607.16 | Blur Floor: 0.328 | Blur Bid: 0.29
+Profit: 0.04724 | 15.75% | Blur Bid Profit: -0.01146
+=======================
+Name: Grandpa Ape Country Club | https://opensea.io/collection/grandpaapecountryclub/analytics | https://blur.io/collection/grandpaapecountryclub
+Floor: 0.1087 | Offer: 0.0812 | 7D Sales: 31 | Fee: 0.5% | Total Volume: 4697.94 | Blur Floor: 0.0786 | Blur Bid: 0.07
+Profit: 0.02696 | 33.2% | Blur Bid Profit: -0.01155
+=======================
+Name: DystoPunks | https://opensea.io/collection/dystopunks/analytics | https://blur.io/collection/dystopunks
+Floor: 0.1704 | Offer: 0.131 | 7D Sales: 18 | Fee: 0.5% | Total Volume: 6238.38 | Blur Floor: 0.1707 | Blur Bid: 0.12
+Profit: 0.03855 | 29.43% | Blur Bid Profit: -0.0116
+=======================
+Name: BASTARD GAN PUNKS V2 | https://opensea.io/collection/bastard-gan-punks-v2/analytics | https://blur.io/collection/bastard-gan-punks-v2
+Floor: 0.13 | Offer: 0.1112 | 7D Sales: 53 | Fee: 0.5% | Total Volume: 8688.96 | Blur Floor: 0.11488 | Blur Bid: 0.1
+Profit: 0.01815 | 16.32% | Blur Bid Profit: -0.0117
+=======================
+Name: Samurai Saga | https://opensea.io/collection/samuraisaga/analytics | https://blur.io/collection/samuraisaga
+Floor: 0.1328 | Offer: 0.1117 | 7D Sales: 34 | Fee: 0.5% | Total Volume: 2940.69 | Blur Floor: 0.1328 | Blur Bid: 0.1
+Profit: 0.02044 | 18.3% | Blur Bid Profit: -0.0122
+=======================
+Name: Factura by Mathias Isaksen | https://opensea.io/collection/factura-by-mathias-isaksen/analytics | https://blur.io/collection/factura-by-mathias-isaksen
+Floor: 0.69 | Offer: 0.4501 | 7D Sales: 13 | Fee: 0.5% | Total Volume: 3529.86 | Blur Floor: 0.69 | Blur Bid: 0.44
+Profit: 0.23645 | 52.53% | Blur Bid Profit: -0.0123
+=======================
+Name: Mines of Dalarnia Mining Apes Collection | https://opensea.io/collection/mines-of-dalarnia-mining-apes-collection/analytics | https://blur.io/collection/mines-of-dalarnia-mining-apes-collection
+Floor: 0.0975 | Offer: 0.082 | 7D Sales: 23 | Fee: 0.5% | Total Volume: 1522.79 | Blur Floor: 0.09 | Blur Bid: 0.07
+Profit: 0.01501 | 18.31% | Blur Bid Profit: -0.01235
+=======================
+Name: Onna-Bugeisha by Samurai Saga | https://opensea.io/collection/onnabugeisha/analytics | https://blur.io/collection/onnabugeisha
+Floor: 0.09 | Offer: 0.0721 | 7D Sales: 25 | Fee: 0.5% | Total Volume: 122.87 | Blur Floor: 0.0899 | Blur Bid: 0.06
+Profit: 0.01745 | 24.2% | Blur Bid Profit: -0.0124
+=======================
+Name: Opepen Edition | https://opensea.io/collection/opepen-edition/analytics | https://blur.io/collection/opepen-edition
+Floor: 0.539 | Offer: 0.51 | 7D Sales: 4191 | Fee: 0.5% | Total Volume: 47321.99 | Blur Floor: 0.5 | Blur Bid: 0.5
+Profit: 0.02631 | 5.16% | Blur Bid Profit: -0.0125
+=======================
+Name: DeBox Guardians Eagle | https://opensea.io/collection/debox-guardians-eagle/analytics | https://blur.io/collection/debox-guardians-eagle
+Floor: 0.5993 | Offer: 0.5101 | 7D Sales: 20 | Fee: 0.5% | Total Volume: 350.94 | Blur Floor: 0.5993 | Blur Bid: 0.5
+Profit: 0.0862 | 16.9% | Blur Bid Profit: -0.0126
+=======================
+Name: DeBox Guardians Cobra | https://opensea.io/collection/debox-guardians-cobra/analytics | https://blur.io/collection/debox-guardians-cobra
+Floor: 0.6189 | Offer: 0.53 | 7D Sales: 21 | Fee: 0.5% | Total Volume: 151.27 | Blur Floor: 0.615 | Blur Bid: 0.52
+Profit: 0.08581 | 16.19% | Blur Bid Profit: -0.0126
+=======================
+Name: 10KTF Gucci Grail | https://opensea.io/collection/10ktf-gucci-grail/analytics | https://blur.io/collection/10ktf-gucci-grail
+Floor: 0.5499 | Offer: 0.54001 | 7D Sales: 194 | Fee: 0.5% | Total Volume: 5547.2 | Blur Floor: 0.5499 | Blur Bid: 0.53
+Profit: 0.00714 | 1.32% | Blur Bid Profit: -0.01266
+=======================
+Name: Apes Together Strong Official NFT | https://opensea.io/collection/atsnft/analytics | https://blur.io/collection/atsnft
+Floor: 0.088 | Offer: 0.07302 | 7D Sales: 53 | Fee: 0.5% | Total Volume: 694.23 | Blur Floor: 0.0599 | Blur Bid: 0.06
+Profit: 0.01454 | 19.91% | Blur Bid Profit: -0.01332
+=======================
+Name: The Legend of CØCKPUNCH™ | https://opensea.io/collection/cockpunch/analytics | https://blur.io/collection/cockpunch
+Floor: 0.229737 | Offer: 0.18121 | 7D Sales: 88 | Fee: 6.9% | Total Volume: 6142.66 | Blur Floor: 0.1947 | Blur Bid: 0.18
+Profit: 0.03268 | 18.03% | Blur Bid Profit: -0.01363
+=======================
+Name: TCG Dragon Cave Club | https://opensea.io/collection/tcg-world-dragons/analytics | https://blur.io/collection/tcg-world-dragons
+Floor: 0.1048 | Offer: 0.09359 | 7D Sales: 118 | Fee: 0.5% | Total Volume: 1710.92 | Blur Floor: 0.0868 | Blur Bid: 0.08
+Profit: 0.01069 | 11.42% | Blur Bid Profit: -0.01399
+=======================
+Name: Cypher Genesis Collection | https://opensea.io/collection/cypher-genesis/analytics | https://blur.io/collection/cypher-genesis
+Floor: 0.0977 | Offer: 0.0937 | 7D Sales: 13 | Fee: 0.5% | Total Volume: 1255.8 | Blur Floor: 0.0977 | Blur Bid: 0.08
+Profit: 0.00351 | 3.75% | Blur Bid Profit: -0.0141
+=======================
+Name: World of Women Galaxy | https://opensea.io/collection/world-of-women-galaxy/analytics | https://blur.io/collection/world-of-women-galaxy
+Floor: 0.138 | Offer: 0.12361 | 7D Sales: 170 | Fee: 0.5% | Total Volume: 30849.43 | Blur Floor: 0.1298 | Blur Bid: 0.11
+Profit: 0.0137 | 11.08% | Blur Bid Profit: -0.01416
+=======================
+Name: Cel Mates by Mcbess | https://opensea.io/collection/cel-mates-by-mcbess/analytics | https://blur.io/collection/cel-mates-by-mcbess
+Floor: 0.0956 | Offer: 0.08401 | 7D Sales: 51 | Fee: 0.5% | Total Volume: 896.76 | Blur Floor: 0.093 | Blur Bid: 0.07
+Profit: 0.01111 | 13.23% | Blur Bid Profit: -0.01436
+=======================
+Name: Bubbly and Friends | https://opensea.io/collection/bubblyandfriends/analytics | https://blur.io/collection/bubblyandfriends
+Floor: 0.145 | Offer: 0.0542 | 7D Sales: 6 | Fee: 0.5% | Total Volume: 201.97 | Blur Floor: 0.145 | Blur Bid: 0.04
+Profit: 0.09007 | 166.19% | Blur Bid Profit: -0.0144
+=======================
+Name: BMM x Neymar Jr. Episode 01- HUMAN | https://opensea.io/collection/bmm-neymarjr-episode1-human/analytics | https://blur.io/collection/bmm-neymarjr-episode1-human
+Floor: 0.1062 | Offer: 0.081 | 7D Sales: 15 | Fee: 5.0% | Total Volume: 312.25 | Blur Floor: 0.1062 | Blur Bid: 0.07
+Profit: 0.01989 | 24.56% | Blur Bid Profit: -0.0145
+=======================
+Name: Mintify Lifetime Membership | https://opensea.io/collection/mintify-official/analytics | https://blur.io/collection/mintify-official
+Floor: 0.1349 | Offer: 0.0842 | 7D Sales: 15 | Fee: 0.5% | Total Volume: 165.49 | Blur Floor: 0.1189 | Blur Bid: 0.07
+Profit: 0.05003 | 59.41% | Blur Bid Profit: -0.01455
+=======================
+Name: Tigerbob NFT Genesis Collection | https://opensea.io/collection/tigerbobnft-genesis/analytics | https://blur.io/collection/tigerbobnft-genesis
+Floor: 0.2449 | Offer: 0.1741 | 7D Sales: 7 | Fee: 0.5% | Total Volume: 2857.27 | Blur Floor: 0.199 | Blur Bid: 0.16
+Profit: 0.06958 | 39.96% | Blur Bid Profit: -0.0149
+=======================
+Name: Goons of Balatroon | https://opensea.io/collection/goonsofbalatroon/analytics | https://blur.io/collection/goonsofbalatroon
+Floor: 0.0949 | Offer: 0.07473 | 7D Sales: 26 | Fee: 0.5% | Total Volume: 3634.9 | Blur Floor: 0.0949 | Blur Bid: 0.06
+Profit: 0.0197 | 26.36% | Blur Bid Profit: -0.01503
+=======================
+Name: PlayerOne Parcel | https://opensea.io/collection/playeroneworld/analytics | https://blur.io/collection/playeroneworld
+Floor: 0.15103 | Offer: 0.11471 | 7D Sales: 71 | Fee: 0.5% | Total Volume: 304.74 | Blur Floor: 0.13 | Blur Bid: 0.1
+Profit: 0.03556 | 31.0% | Blur Bid Profit: -0.01521
+=======================
+Name: Wonky Stonks | https://opensea.io/collection/wonky-stonks/analytics | https://blur.io/collection/wonky-stonks
+Floor: 0.139799999 | Offer: 0.12512 | 7D Sales: 52 | Fee: 0.5% | Total Volume: 2720.58 | Blur Floor: 0.126 | Blur Bid: 0.11
+Profit: 0.01398 | 11.17% | Blur Bid Profit: -0.01567
+=======================
+Name: Non NFT | https://opensea.io/collection/non-nft/analytics | https://blur.io/collection/non-nft
+Floor: 0.5 | Offer: 0.3142 | 7D Sales: 11 | Fee: 0.5% | Total Volume: 575.9 | Blur Floor: 0.529999 | Blur Bid: 0.3
+Profit: 0.1833 | 58.34% | Blur Bid Profit: -0.0157
+=======================
+Name: Candy Collective: Genesis Collection | https://opensea.io/collection/candy-collective-genesis-collection/analytics | https://blur.io/collection/candy-collective-genesis-collection
+Floor: 0.28 | Offer: 0.202 | 7D Sales: 28 | Fee: 7.0% | Total Volume: 213.4 | Blur Floor: 0.28 | Blur Bid: 0.2
+Profit: 0.0584 | 28.91% | Blur Bid Profit: -0.016
+=======================
+Name: WarGames by FAR | https://opensea.io/collection/wargames-by-far/analytics | https://blur.io/collection/wargames-by-far
+Floor: 0.0869 | Offer: 0.0658 | 7D Sales: 21 | Fee: 0.5% | Total Volume: 385.65 | Blur Floor: 0.087 | Blur Bid: 0.05
+Profit: 0.02067 | 31.41% | Blur Bid Profit: -0.01605
+=======================
+Name: HUXLEY Humans | https://opensea.io/collection/huxley-humans/analytics | https://blur.io/collection/huxley-humans
+Floor: 0.205 | Offer: 0.1554 | 7D Sales: 31 | Fee: 0.5% | Total Volume: 189.45 | Blur Floor: 0.205 | Blur Bid: 0.14
+Profit: 0.04857 | 31.26% | Blur Bid Profit: -0.0161
+=======================
+Name: DigiDaigaku Super Villains | https://opensea.io/collection/digidaigakusupervillains/analytics | https://blur.io/collection/digidaigakusupervillains
+Floor: 0.19 | Offer: 0.1332 | 7D Sales: 30 | Fee: 10.0% | Total Volume: 307.78 | Blur Floor: 0.189 | Blur Bid: 0.13
+Profit: 0.0378 | 28.38% | Blur Bid Profit: -0.0162
+=======================
+Name: Llamaverse Genesis | https://opensea.io/collection/llamaverse-genesis/analytics | https://blur.io/collection/llamaverse-genesis
+Floor: 0.345 | Offer: 0.325 | 7D Sales: 165 | Fee: 0.5% | Total Volume: 9715.05 | Blur Floor: 0.3295 | Blur Bid: 0.31
+Profit: 0.01827 | 5.62% | Blur Bid Profit: -0.01655
+=======================
+Name: KILLABITS | https://opensea.io/collection/killabits/analytics | https://blur.io/collection/killabits
+Floor: 0.784 | Offer: 0.733 | 7D Sales: 420 | Fee: 0.5% | Total Volume: 2820.54 | Blur Floor: 0.775 | Blur Bid: 0.72
+Profit: 0.04708 | 6.42% | Blur Bid Profit: -0.0166
+=======================
+Name: Chibi Apes | https://opensea.io/collection/chibi-apes/analytics | https://blur.io/collection/chibi-apes
+Floor: 0.08 | Offer: 0.0467 | 7D Sales: 6 | Fee: 0.5% | Total Volume: 1696.5 | Blur Floor: 0.07 | Blur Bid: 0.03
+Profit: 0.0329 | 70.45% | Blur Bid Profit: -0.01685
+=======================
+Name: Wavelength by Kaleb Johnston | https://opensea.io/collection/wavelengthbykalebjohnston/analytics | https://blur.io/collection/wavelengthbykalebjohnston
+Floor: 0.1708 | Offer: 0.1166 | 7D Sales: 8 | Fee: 0.5% | Total Volume: 2483.82 | Blur Floor: 0.1708 | Blur Bid: 0.1
+Profit: 0.05335 | 45.75% | Blur Bid Profit: -0.0171
+=======================
+Name: Art Gobblers | https://opensea.io/collection/artgobblers/analytics | https://blur.io/collection/artgobblers
+Floor: 0.6598 | Offer: 0.47531 | 7D Sales: 84 | Fee: 0.5% | Total Volume: 48351.04 | Blur Floor: 0.529 | Blur Bid: 0.46
+Profit: 0.18119 | 38.12% | Blur Bid Profit: -0.01761
+=======================
+Name: Model Eros Village - Genesis | https://opensea.io/collection/mev-genesis/analytics | https://blur.io/collection/mev-genesis
+Floor: 0.1545 | Offer: 0.13701 | 7D Sales: 99 | Fee: 0.5% | Total Volume: 451.94 | Blur Floor: 0.148 | Blur Bid: 0.12
+Profit: 0.01672 | 12.2% | Blur Bid Profit: -0.01761
+=======================
+Name: HAPE PRIME | https://opensea.io/collection/hapeprime/analytics | https://blur.io/collection/hapeprime
+Floor: 0.238 | Offer: 0.19721 | 7D Sales: 59 | Fee: 0.5% | Total Volume: 56650.93 | Blur Floor: 0.19 | Blur Bid: 0.18
+Profit: 0.0396 | 20.08% | Blur Bid Profit: -0.01811
+=======================
+Name: CPG Pop | https://opensea.io/collection/cpg-pop/analytics | https://blur.io/collection/cpg-pop
+Floor: 0.24 | Offer: 0.1678 | 7D Sales: 15 | Fee: 0.5% | Total Volume: 3652.99 | Blur Floor: 0.24 | Blur Bid: 0.15
+Profit: 0.071 | 42.31% | Blur Bid Profit: -0.01855
+=======================
+Name: Toys by 0xTechno | https://opensea.io/collection/toys-by-0xtechno/analytics | https://blur.io/collection/toys-by-0xtechno
+Floor: 0.24895 | Offer: 0.13811 | 7D Sales: 8 | Fee: 0.5% | Total Volume: 1937.07 | Blur Floor: 0.239 | Blur Bid: 0.12
+Profit: 0.1096 | 79.35% | Blur Bid Profit: -0.01871
+=======================
+Name: OnChainBirds | https://opensea.io/collection/onchainbirds/analytics | https://blur.io/collection/onchainbirds
+Floor: 0.095 | Offer: 0.0887 | 7D Sales: 127 | Fee: 0.5% | Total Volume: 759.6 | Blur Floor: 0.0921 | Blur Bid: 0.07
+Profit: 0.00582 | 6.57% | Blur Bid Profit: -0.01905
+=======================
+Name: Dori Samurai | https://opensea.io/collection/dori-samurai/analytics | https://blur.io/collection/dori-samurai
+Floor: 0.1229 | Offer: 0.0865 | 7D Sales: 14 | Fee: 5.0% | Total Volume: 1370.94 | Blur Floor: 0.1229 | Blur Bid: 0.07
+Profit: 0.03026 | 34.98% | Blur Bid Profit: -0.02
+=======================
+Name: Corruption(s*) | https://opensea.io/collection/corruption-s/analytics | https://blur.io/collection/corruption-s
+Floor: 0.094 | Offer: 0.0699 | 7D Sales: 12 | Fee: 0.5% | Total Volume: 3051.18 | Blur Floor: 0.094 | Blur Bid: 0.05
+Profit: 0.02363 | 33.81% | Blur Bid Profit: -0.02015
+=======================
+Name: Memories Of A Masterpiece | https://opensea.io/collection/memoriesofamasterpiece/analytics | https://blur.io/collection/memoriesofamasterpiece
+Floor: 0.1 | Offer: 0.0401 | 7D Sales: 10 | Fee: 0.5% | Total Volume: 448.84 | Blur Floor: 0.0495 | Blur Bid: 0.02
+Profit: 0.0594 | 148.13% | Blur Bid Profit: -0.0202
+=======================
+Name: Fancy Bears Metaverse | https://opensea.io/collection/fancybearsmetaverse/analytics | https://blur.io/collection/fancybearsmetaverse
+Floor: 0.18 | Offer: 0.15951 | 7D Sales: 42 | Fee: 0.5% | Total Volume: 5253.01 | Blur Floor: 0.1557 | Blur Bid: 0.14
+Profit: 0.01959 | 12.28% | Blur Bid Profit: -0.02021
+=======================
+Name: Satoshibles | https://opensea.io/collection/satoshibles/analytics | https://blur.io/collection/satoshibles
+Floor: 0.1188 | Offer: 0.08 | 7D Sales: 19 | Fee: 0.5% | Total Volume: 2055.78 | Blur Floor: 0.11 | Blur Bid: 0.06
+Profit: 0.03821 | 47.76% | Blur Bid Profit: -0.0203
+=======================
+Name: Crypto Coven | https://opensea.io/collection/cryptocoven/analytics | https://blur.io/collection/cryptocoven
+Floor: 0.1427 | Offer: 0.12 | 7D Sales: 43 | Fee: 0.5% | Total Volume: 8928.1 | Blur Floor: 0.11 | Blur Bid: 0.1
+Profit: 0.02199 | 18.32% | Blur Bid Profit: -0.0205
+=======================
+Name: Fable Dragons by Tyrant | https://opensea.io/collection/fable-dragons-by-tyrant/analytics | https://blur.io/collection/fable-dragons-by-tyrant
+Floor: 0.194 | Offer: 0.14 | 7D Sales: 9 | Fee: 0.5% | Total Volume: 326.68 | Blur Floor: 0.194 | Blur Bid: 0.12
+Profit: 0.05303 | 37.88% | Blur Bid Profit: -0.0206
+=======================
+Name: Footium Football Clubs | https://opensea.io/collection/footium-football-clubs/analytics | https://blur.io/collection/footium-football-clubs
+Floor: 0.105 | Offer: 0.0903 | 7D Sales: 7 | Fee: 0.5% | Total Volume: 629.13 | Blur Floor: 0.1035 | Blur Bid: 0.07
+Profit: 0.01417 | 15.7% | Blur Bid Profit: -0.02065
+=======================
+Name: VOX Collectibles: The Walking Dead | https://opensea.io/collection/collectvoxthewalkingdead/analytics | https://blur.io/collection/collectvoxthewalkingdead
+Floor: 0.2099 | Offer: 0.17 | 7D Sales: 8 | Fee: 0.5% | Total Volume: 2301.19 | Blur Floor: 0.2049 | Blur Bid: 0.15
+Profit: 0.03885 | 22.85% | Blur Bid Profit: -0.02075
+=======================
+Name: FVCK_CRYSTAL// | https://opensea.io/collection/fvck-crystal/analytics | https://blur.io/collection/fvck-crystal
+Floor: 0.1969 | Offer: 0.17 | 7D Sales: 26 | Fee: 0.5% | Total Volume: 11909.24 | Blur Floor: 0.1824 | Blur Bid: 0.15
+Profit: 0.02592 | 15.24% | Blur Bid Profit: -0.02075
+=======================
+Name: (B)APETAVERSE | https://opensea.io/collection/bapetaverse-official/analytics | https://blur.io/collection/bapetaverse-official
+Floor: 0.089 | Offer: 0.08054 | 7D Sales: 46 | Fee: 0.5% | Total Volume: 8602.58 | Blur Floor: 0.089 | Blur Bid: 0.06
+Profit: 0.00801 | 9.95% | Blur Bid Profit: -0.02084
+=======================
+Name: DVDA The Cult | https://opensea.io/collection/dvda/analytics | https://blur.io/collection/dvda
+Floor: 0.15175 | Offer: 0.1006 | 7D Sales: 14 | Fee: 0.5% | Total Volume: 341.54 | Blur Floor: 0.13 | Blur Bid: 0.08
+Profit: 0.05039 | 50.09% | Blur Bid Profit: -0.021
+=======================
+Name: 2117 - Citizenship by BEDU | https://opensea.io/collection/2117-citizenship-bedu/analytics | https://blur.io/collection/2117-citizenship-bedu
+Floor: 0.195 | Offer: 0.11602 | 7D Sales: 9 | Fee: 5.0% | Total Volume: 392.05 | Blur Floor: 0.18 | Blur Bid: 0.1
+Profit: 0.06923 | 59.67% | Blur Bid Profit: -0.02102
+=======================
+Name: Knights of Degen | https://opensea.io/collection/knights-of-degen-official/analytics | https://blur.io/collection/knights-of-degen-official
+Floor: 0.3099 | Offer: 0.23999 | 7D Sales: 33 | Fee: 0.5% | Total Volume: 3348.73 | Blur Floor: 0.2799 | Blur Bid: 0.22
+Profit: 0.06836 | 28.48% | Blur Bid Profit: -0.02109
+=======================
+Name: Plasticity by p4stoboy | https://opensea.io/collection/plasticity-by-p4stoboy/analytics | https://blur.io/collection/plasticity-by-p4stoboy
+Floor: 0.35 | Offer: 0.2301 | 7D Sales: 13 | Fee: 0.5% | Total Volume: 721.48 | Blur Floor: 0.35 | Blur Bid: 0.21
+Profit: 0.11815 | 51.35% | Blur Bid Profit: -0.02115
+=======================
+Name: Prologue by Spice | https://opensea.io/collection/prologue-spice/analytics | https://blur.io/collection/prologue-spice
+Floor: 0.35991 | Offer: 0.25 | 7D Sales: 7 | Fee: 0.5% | Total Volume: 111.34 | Blur Floor: 0.35991 | Blur Bid: 0.23
+Profit: 0.10811 | 43.24% | Blur Bid Profit: -0.02115
+=======================
+Name: Apocalyptic Apes | https://opensea.io/collection/apocalyptic-apes/analytics | https://blur.io/collection/apocalyptic-apes
+Floor: 0.12 | Offer: 0.1009 | 7D Sales: 80 | Fee: 0.5% | Total Volume: 8664.37 | Blur Floor: 0.0867 | Blur Bid: 0.08
+Profit: 0.0185 | 18.33% | Blur Bid Profit: -0.0213
+=======================
+Name: Mushboomers | https://opensea.io/collection/mushboomers/analytics | https://blur.io/collection/mushboomers
+Floor: 0.145 | Offer: 0.131 | 7D Sales: 10 | Fee: 0.5% | Total Volume: 111.64 | Blur Floor: 0.135 | Blur Bid: 0.11
+Profit: 0.01327 | 10.13% | Blur Bid Profit: -0.02155
+=======================
+Name: XANA: GENESIS | https://opensea.io/collection/xana-genesis/analytics | https://blur.io/collection/xana-genesis
+Floor: 0.3789 | Offer: 0.35001 | 7D Sales: 73 | Fee: 0.5% | Total Volume: 1617.5 | Blur Floor: 0.357 | Blur Bid: 0.33
+Profit: 0.027 | 7.71% | Blur Bid Profit: -0.02166
+=======================
+Name: iNFT Personality Pod by Alethea AI | https://opensea.io/collection/inft-personality-pod-alethea-ai/analytics | https://blur.io/collection/inft-personality-pod-alethea-ai
+Floor: 0.1255 | Offer: 0.10151 | 7D Sales: 32 | Fee: 0.5% | Total Volume: 2742.9 | Blur Floor: 0.1255 | Blur Bid: 0.08
+Profit: 0.02336 | 23.01% | Blur Bid Profit: -0.02191
+=======================
+Name: Bricktopians by Law Degree | https://opensea.io/collection/bricktopians-by-law-degree/analytics | https://blur.io/collection/bricktopians-by-law-degree
+Floor: 0.114 | Offer: 0.10163 | 7D Sales: 168 | Fee: 0.5% | Total Volume: 3695.88 | Blur Floor: 0.114 | Blur Bid: 0.08
+Profit: 0.0118 | 11.61% | Blur Bid Profit: -0.02203
+=======================
+Name: PORSCHΞ 911 | https://opensea.io/collection/porsche-911/analytics | https://blur.io/collection/porsche-911
+Floor: 1.7979 | Offer: 1.6545076286703702 | 7D Sales: 189 | Fee: 0.5% | Total Volume: 9675.9 | Blur Floor: 1.78 | Blur Bid: 1.64
+Profit: 0.1344 | 8.12% | Blur Bid Profit: -0.02271
+=======================
+Name: GORJS DAO Genesis Pass: FKWME | https://opensea.io/collection/gorjs-genesis-fkwme-pass/analytics | https://blur.io/collection/gorjs-genesis-fkwme-pass
+Floor: 0.145 | Offer: 0.10611 | 7D Sales: 27 | Fee: 7.5% | Total Volume: 168.87 | Blur Floor: 0.145 | Blur Bid: 0.09
+Profit: 0.02801 | 26.4% | Blur Bid Profit: -0.02286
+=======================
+Name: VOX Collectibles: Town Star | https://opensea.io/collection/collectvoxtownstar/analytics | https://blur.io/collection/collectvoxtownstar
+Floor: 0.27 | Offer: 0.252 | 7D Sales: 8 | Fee: 0.5% | Total Volume: 25782.03 | Blur Floor: 0.2394 | Blur Bid: 0.23
+Profit: 0.01665 | 6.61% | Blur Bid Profit: -0.02315
+=======================
+Name: Space Riders NFT | https://opensea.io/collection/spaceridersnft/analytics | https://blur.io/collection/spaceridersnft
+Floor: 0.1 | Offer: 0.09301 | 7D Sales: 116 | Fee: 0.5% | Total Volume: 3061.83 | Blur Floor: 0.081178088999999968 | Blur Bid: 0.07
+Profit: 0.00649 | 6.98% | Blur Bid Profit: -0.02336
+=======================
+Name: Elemental by Fang Lijun | https://opensea.io/collection/elemental-fang-lijun/analytics | https://blur.io/collection/elemental-fang-lijun
+Floor: 0.8445 | Offer: 0.7101 | 7D Sales: 7 | Fee: 0.5% | Total Volume: 9083.8 | Blur Floor: 0.8445 | Blur Bid: 0.69
+Profit: 0.13018 | 18.33% | Blur Bid Profit: -0.02355
+=======================
+Name: BOSO TOKYO GENESIS | https://opensea.io/collection/bosotokyo-official/analytics | https://blur.io/collection/bosotokyo-official
+Floor: 0.195 | Offer: 0.1529 | 7D Sales: 12 | Fee: 0.5% | Total Volume: 481.93 | Blur Floor: 0.195 | Blur Bid: 0.13
+Profit: 0.04112 | 26.9% | Blur Bid Profit: -0.02355
+=======================
+Name: Neo Tokyo Outer Identities | https://opensea.io/collection/neotokyo-outer-identities/analytics | https://blur.io/collection/neotokyo-outer-identities
+Floor: 0.389 | Offer: 0.2637 | 7D Sales: 20 | Fee: 0.5% | Total Volume: 20530.42 | Blur Floor: 0.389 | Blur Bid: 0.24
+Profit: 0.12336 | 46.78% | Blur Bid Profit: -0.0249
+=======================
+Name: IreneDAO | https://opensea.io/collection/irenedao/analytics | https://blur.io/collection/irenedao
+Floor: 0.149 | Offer: 0.06471 | 7D Sales: 15 | Fee: 0.5% | Total Volume: 2633.41 | Blur Floor: 0.149 | Blur Bid: 0.04
+Profit: 0.08354 | 129.11% | Blur Bid Profit: -0.02491
+=======================
+Name: BBRC - IVY BOYS | https://opensea.io/collection/bbrcofficial-ivyboys/analytics | https://blur.io/collection/bbrcofficial-ivyboys
+Floor: 0.173 | Offer: 0.165 | 7D Sales: 71 | Fee: 0.5% | Total Volume: 4175.72 | Blur Floor: 0.1407 | Blur Bid: 0.14
+Profit: 0.00713 | 4.32% | Blur Bid Profit: -0.0257
+=======================
+Name: Baby Doge Army | https://opensea.io/collection/babydogearmy/analytics | https://blur.io/collection/babydogearmy
+Floor: 0.096 | Offer: 0.086 | 7D Sales: 28 | Fee: 0.5% | Total Volume: 1355.52 | Blur Floor: 0.0799 | Blur Bid: 0.06
+Profit: 0.00952 | 11.07% | Blur Bid Profit: -0.0263
+=======================
+Name: RektWolf | https://opensea.io/collection/rekt-wolf-nft/analytics | https://blur.io/collection/rekt-wolf-nft
+Floor: 0.0944 | Offer: 0.0677 | 7D Sales: 10 | Fee: 0.5% | Total Volume: 73.19 | Blur Floor: 0.0944 | Blur Bid: 0.04
+Profit: 0.02623 | 38.74% | Blur Bid Profit: -0.0279
+=======================
+Name: Shilly: The Band Pass | https://opensea.io/collection/shillybandpass/analytics | https://blur.io/collection/shillybandpass
+Floor: 0.14 | Offer: 0.0854 | 7D Sales: 6 | Fee: 5.0% | Total Volume: 205.92 | Blur Floor: 0.14 | Blur Bid: 0.06
+Profit: 0.0476 | 55.74% | Blur Bid Profit: -0.0284
+=======================
+Name: Icy Founders Club | https://opensea.io/collection/icy-founders-club/analytics | https://blur.io/collection/icy-founders-club
+Floor: 0.1137 | Offer: 0.0784 | 7D Sales: 8 | Fee: 0.5% | Total Volume: 444.57 | Blur Floor: 0.1137 | Blur Bid: 0.05
+Profit: 0.03473 | 44.3% | Blur Bid Profit: -0.02865
+=======================
+Name: Meta Labs Secret Agents | https://opensea.io/collection/mlasecretagents/analytics | https://blur.io/collection/mlasecretagents
+Floor: 0.2 | Offer: 0.12905 | 7D Sales: 14 | Fee: 0.5% | Total Volume: 389.49 | Blur Floor: 0.2 | Blur Bid: 0.1
+Profit: 0.06995 | 54.2% | Blur Bid Profit: -0.02955
+=======================
+Name: Catharsis by Dario Lanza | https://opensea.io/collection/catharsis-by-dario-lanza/analytics | https://blur.io/collection/catharsis-by-dario-lanza
+Floor: 0.2574 | Offer: 0.2291 | 7D Sales: 19 | Fee: 0.5% | Total Volume: 872.86 | Blur Floor: 0.2574 | Blur Bid: 0.2
+Profit: 0.02701 | 11.79% | Blur Bid Profit: -0.0301
+=======================
+Name: Silks Thoroughbred Racehorses | https://opensea.io/collection/silksthoroughbredracehorse/analytics | https://blur.io/collection/silksthoroughbredracehorse
+Floor: 0.1497 | Offer: 0.12001 | 7D Sales: 18 | Fee: 0.5% | Total Volume: 203.96 | Blur Floor: 0.1497 | Blur Bid: 0.09
+Profit: 0.02894 | 24.12% | Blur Bid Profit: -0.03046
+=======================
+Name: byteGANs | https://opensea.io/collection/bytegans/analytics | https://blur.io/collection/bytegans
+Floor: 1.1558 | Offer: 1.03561 | 7D Sales: 66 | Fee: 0.5% | Total Volume: 5825.48 | Blur Floor: 1.05 | Blur Bid: 1.01
+Profit: 0.11441 | 11.05% | Blur Bid Profit: -0.03066
+=======================
+Name: Alpha Traders Country Club Official | https://opensea.io/collection/atcc/analytics | https://blur.io/collection/atcc
+Floor: 0.27 | Offer: 0.1501 | 7D Sales: 5 | Fee: 0.5% | Total Volume: 84.61 | Blur Floor: 0.27 | Blur Bid: 0.12
+Profit: 0.11855 | 78.98% | Blur Bid Profit: -0.0307
+=======================
+Name: Frank Stella: Geometries | https://opensea.io/collection/frank-stella-geometries/analytics | https://blur.io/collection/frank-stella-geometries
+Floor: 0.18165 | Offer: 0.1301 | 7D Sales: 6 | Fee: 10.0% | Total Volume: 345.9 | Blur Floor: 0.18355 | Blur Bid: 0.11
+Profit: 0.03338 | 25.66% | Blur Bid Profit: -0.0311
+=======================
+Name: The Lab Grown Beasts | https://opensea.io/collection/the-lab-grown-beasts/analytics | https://blur.io/collection/the-lab-grown-beasts
+Floor: 0.325 | Offer: 0.29 | 7D Sales: 21 | Fee: 0.5% | Total Volume: 291.79 | Blur Floor: 0.325 | Blur Bid: 0.26
+Profit: 0.03338 | 11.51% | Blur Bid Profit: -0.0313
+=======================
+Name: Valhalla | https://opensea.io/collection/valhalla/analytics | https://blur.io/collection/valhalla
+Floor: 0.67 | Offer: 0.63 | 7D Sales: 424 | Fee: 5.0% | Total Volume: 23921.06 | Blur Floor: 0.658 | Blur Bid: 0.63
+Profit: 0.0065 | 1.03% | Blur Bid Profit: -0.0315
+=======================
+Name: Cheers UP Period | https://opensea.io/collection/cheers-up-period/analytics | https://blur.io/collection/cheers-up-period
+Floor: 0.4099 | Offer: 0.35 | 7D Sales: 6 | Fee: 0.5% | Total Volume: 2085.77 | Blur Floor: 0.4099 | Blur Bid: 0.32
+Profit: 0.05785 | 16.53% | Blur Bid Profit: -0.0316
+=======================
+Name: Diesel x Hape: Antidote to the Status Quo | https://opensea.io/collection/diesel-x-hape-2023/analytics | https://blur.io/collection/diesel-x-hape-2023
+Floor: 0.126 | Offer: 0.08901 | 7D Sales: 16 | Fee: 5.0% | Total Volume: 143.46 | Blur Floor: 0.126 | Blur Bid: 0.06
+Profit: 0.03069 | 34.48% | Blur Bid Profit: -0.03201
+=======================
+Name: 10KTF Combat Crates | https://opensea.io/collection/combat-crates/analytics | https://blur.io/collection/combat-crates
+Floor: 0.6375 | Offer: 0.5 | 7D Sales: 6 | Fee: 0.5% | Total Volume: 1426.51 | Blur Floor: 0.5576 | Blur Bid: 0.47
+Profit: 0.13431 | 26.86% | Blur Bid Profit: -0.03235
+=======================
+Name: VOX Collectibles: Mirandus | https://opensea.io/collection/collectvoxmirandus/analytics | https://blur.io/collection/collectvoxmirandus
+Floor: 0.3749 | Offer: 0.31131 | 7D Sales: 21 | Fee: 0.5% | Total Volume: 9470.15 | Blur Floor: 0.358 | Blur Bid: 0.28
+Profit: 0.06172 | 19.82% | Blur Bid Profit: -0.03271
+=======================
+Name: Golden Token | Bright Moments | https://opensea.io/collection/golden-token-bright-moments/analytics | https://blur.io/collection/golden-token-bright-moments
+Floor: 0.54 | Offer: 0.45 | 7D Sales: 7 | Fee: 7.5% | Total Volume: 88.67 | Blur Floor: 0.54 | Blur Bid: 0.45
+Profit: 0.0495 | 11.0% | Blur Bid Profit: -0.03375
+=======================
+Name: "MOAR" by Joan Cornella | https://opensea.io/collection/official-moar-by-joan-cornella/analytics | https://blur.io/collection/official-moar-by-joan-cornella
+Floor: 0.2474 | Offer: 0.18391 | 7D Sales: 24 | Fee: 0.5% | Total Volume: 12974.61 | Blur Floor: 0.09 | Blur Bid: 0.15
+Profit: 0.06225 | 33.85% | Blur Bid Profit: -0.03466
+=======================
+Name: Non-Fungible Films Studio | https://opensea.io/collection/nff-studio/analytics | https://blur.io/collection/nff-studio
+Floor: 0.1789 | Offer: 0.1352 | 7D Sales: 5 | Fee: 0.5% | Total Volume: 1413.29 | Blur Floor: 0.1789 | Blur Bid: 0.1
+Profit: 0.04281 | 31.66% | Blur Bid Profit: -0.0357
+=======================
+Name: Anime Metaverse: Soulmates | https://opensea.io/collection/anime-metaverse-soulmates/analytics | https://blur.io/collection/anime-metaverse-soulmates
+Floor: 0.2789 | Offer: 0.2151 | 7D Sales: 49 | Fee: 0.5% | Total Volume: 1196.16 | Blur Floor: 0.2789 | Blur Bid: 0.18
+Profit: 0.06241 | 29.01% | Blur Bid Profit: -0.036
+=======================
+Name: On the Edge of Oblivion by Nullish | https://opensea.io/collection/on-the-edge-of-oblivion/analytics | https://blur.io/collection/on-the-edge-of-oblivion
+Floor: 0.46 | Offer: 0.37 | 7D Sales: 29 | Fee: 5.0% | Total Volume: 1399.19 | Blur Floor: 0.46 | Blur Bid: 0.35
+Profit: 0.067 | 18.11% | Blur Bid Profit: -0.0375
+=======================
+Name: Never Fear Truth  by Johnny Depp | https://opensea.io/collection/never-fear-truth-by-jd/analytics | https://blur.io/collection/never-fear-truth-by-jd
+Floor: 0.098 | Offer: 0.0679 | 7D Sales: 15 | Fee: 0.5% | Total Volume: 1802.68 | Blur Floor: 0.0485 | Blur Bid: 0.03
+Profit: 0.02961 | 43.61% | Blur Bid Profit: -0.03805
+=======================
+Name: OnChainKevin | https://opensea.io/collection/onchainkevin/analytics | https://blur.io/collection/onchainkevin
+Floor: 0.11 | Offer: 0.1 | 7D Sales: 8 | Fee: 0.5% | Total Volume: 247.81 | Blur Floor: 0.1005 | Blur Bid: 0.06
+Profit: 0.00945 | 9.45% | Blur Bid Profit: -0.0403
+=======================
+Name: Everdome Genesis Collection | https://opensea.io/collection/everdome-genesis-collection/analytics | https://blur.io/collection/everdome-genesis-collection
+Floor: 0.13 | Offer: 0.1201 | 7D Sales: 18 | Fee: 0.5% | Total Volume: 958.65 | Blur Floor: 0.12 | Blur Bid: 0.08
+Profit: 0.00925 | 7.7% | Blur Bid Profit: -0.0405
+=======================
+Name: Cryptomights Unrevealed | https://opensea.io/collection/cryptomights-unrevealed/analytics | https://blur.io/collection/cryptomights-unrevealed
+Floor: 0.9 | Offer: 0.2 | 7D Sales: 6 | Fee: 0.5% | Total Volume: 72.57 | Blur Floor: 0.62 | Blur Bid: 0.16
+Profit: 0.6955 | 347.75% | Blur Bid Profit: -0.0408
+=======================
+Name: Rags to  Richie by Alec Monopoly | https://opensea.io/collection/rags-to-richie-by-alec-monopoly/analytics | https://blur.io/collection/rags-to-richie-by-alec-monopoly
+Floor: 0.148565 | Offer: 0.12281 | 7D Sales: 32 | Fee: 0.5% | Total Volume: 1914.13 | Blur Floor: 0.125 | Blur Bid: 0.08
+Profit: 0.02501 | 20.37% | Blur Bid Profit: -0.04321
+=======================
+Name: MetaZoo Games Tokens | https://opensea.io/collection/metazoo-games-tokens/analytics | https://blur.io/collection/metazoo-games-tokens
+Floor: 0.129 | Offer: 0.1032 | 7D Sales: 7 | Fee: 0.5% | Total Volume: 900.41 | Blur Floor: 0.13 | Blur Bid: 0.06
+Profit: 0.02515 | 24.37% | Blur Bid Profit: -0.0435
+=======================
+Name: VOX Collectibles: DreamWorks Trolls | https://opensea.io/collection/collectvoxtrolls/analytics | https://blur.io/collection/collectvoxtrolls
+Not WETH offer: 0x15D4c048F83bd7e37d49eA4C83a07267Ec4203dA
+Floor: 0.282875 | Offer: 0.17336545312784163 | 7D Sales: 7 | Fee: 0.5% | Total Volume: 140.28 | Blur Floor: 0.348 | Blur Bid: 0.13
+Profit: 0.1081 | 62.35% | Blur Bid Profit: -0.04402
+=======================
+Name: Bones by Jarritos | https://opensea.io/collection/bonesbyjarritos/analytics | https://blur.io/collection/bonesbyjarritos
+Floor: 0.2998 | Offer: 0.22351 | 7D Sales: 14 | Fee: 0.5% | Total Volume: 558.46 | Blur Floor: 0.2998 | Blur Bid: 0.18
+Profit: 0.07479 | 33.46% | Blur Bid Profit: -0.04441
+=======================
+Name: Ethereum Towers | https://opensea.io/collection/ethereum-towers/analytics | https://blur.io/collection/ethereum-towers
+Floor: 0.105 | Offer: 0.08791 | 7D Sales: 7 | Fee: 0.5% | Total Volume: 844.75 | Blur Floor: 0.0898 | Blur Bid: 0.04
+Profit: 0.01656 | 18.84% | Blur Bid Profit: -0.04811
+=======================
+Name: Bit Bears by Berachain | https://opensea.io/collection/berachain-bit-bears/analytics | https://blur.io/collection/berachain-bit-bears
+Floor: 2.069 | Offer: 1.81924 | 7D Sales: 182 | Fee: 0.5% | Total Volume: 1926.43 | Blur Floor: 2.02 | Blur Bid: 1.78
+Profit: 0.23941 | 13.16% | Blur Bid Profit: -0.04814
+=======================
+Name: NEOSTACKEY | https://opensea.io/collection/neostackey/analytics | https://blur.io/collection/neostackey
+Floor: 0.95 | Offer: 0.78632 | 7D Sales: 40 | Fee: 10.0% | Total Volume: 879.7 | Blur Floor: 0.95 | Blur Bid: 0.82
+Profit: 0.06868 | 8.73% | Blur Bid Profit: -0.04832
+=======================
+Name: Cel Mates Crime Reports | https://opensea.io/collection/cel-mates-crime-reports/analytics | https://blur.io/collection/cel-mates-crime-reports
+Floor: 0.1999 | Offer: 0.188 | 7D Sales: 37 | Fee: 0.5% | Total Volume: 2224.46 | Blur Floor: 0.1999 | Blur Bid: 0.14
+Profit: 0.0109 | 5.8% | Blur Bid Profit: -0.0487
+=======================
+Name: Neo Tokyo Punks NFT | https://opensea.io/collection/neo-tokyo-punks-nft/analytics | https://blur.io/collection/neo-tokyo-punks-nft
+Floor: 0.689 | Offer: 0.5071099 | 7D Sales: 16 | Fee: 0.5% | Total Volume: 1937.95 | Blur Floor: 0.5499 | Blur Bid: 0.46
+Profit: 0.17845 | 35.19% | Blur Bid Profit: -0.04941
+=======================
+Name: a KID called BEAST | https://opensea.io/collection/akidcalledbeast/analytics | https://blur.io/collection/akidcalledbeast
+Floor: 0.7895 | Offer: 0.69871 | 7D Sales: 498 | Fee: 5.0% | Total Volume: 17078.38 | Blur Floor: 0.77 | Blur Bid: 0.68
+Profit: 0.05131 | 7.34% | Blur Bid Profit: -0.05271
+=======================
+Name: Unordinals | https://opensea.io/collection/unordinals/analytics | https://blur.io/collection/unordinals
+Floor: 0.5999 | Offer: 0.55 | 7D Sales: 63 | Fee: 5.0% | Total Volume: 1502.45 | Blur Floor: 0.5999 | Blur Bid: 0.52
+Profit: 0.0199 | 3.62% | Blur Bid Profit: -0.056
+=======================
+Name: Creepz by OVERLORD | https://opensea.io/collection/genesis-creepz/analytics | https://blur.io/collection/genesis-creepz
+Floor: 1.3989 | Offer: 1.2511 | 7D Sales: 49 | Fee: 7.5% | Total Volume: 35917.38 | Blur Floor: 1.3989 | Blur Bid: 1.29
+Profit: 0.04288 | 3.43% | Blur Bid Profit: -0.05785
+=======================
+Name: AltLayer OG Badge NFT | https://opensea.io/collection/altlayer-og-badge-nft/analytics | https://blur.io/collection/altlayer-og-badge-nft
+Floor: 2.2499 | Offer: 1.85 | 7D Sales: 5 | Fee: 0.5% | Total Volume: 242.68 | Blur Floor: 2.2499 | Blur Bid: 1.8
+Profit: 0.38865 | 21.01% | Blur Bid Profit: -0.059
+=======================
+Name: Armin's All-Access | https://opensea.io/collection/armins-all-access/analytics | https://blur.io/collection/armins-all-access
+Floor: 0.125 | Offer: 0.088 | 7D Sales: 6 | Fee: 7.5% | Total Volume: 27.96 | Blur Floor: 0.12 | Blur Bid: 0.03
+Profit: 0.02763 | 31.39% | Blur Bid Profit: -0.06025
+=======================
+Name: SHIB YARD | https://opensea.io/collection/shibyard/analytics | https://blur.io/collection/shibyard
+Floor: 0.10717 | Offer: 0.0902 | 7D Sales: 149 | Fee: 0.5% | Total Volume: 1039.7 | Blur Floor: 0.043 | Blur Bid: 0.03
+Profit: 0.01643 | 18.22% | Blur Bid Profit: -0.06035
+=======================
+Name: Citizen Capital | https://opensea.io/collection/citizen-capital/analytics | https://blur.io/collection/citizen-capital
+Floor: 0.51 | Offer: 0.17 | 7D Sales: 6 | Fee: 0.5% | Total Volume: 121.02 | Blur Floor: 0.51 | Blur Bid: 0.11
+Profit: 0.33745 | 198.5% | Blur Bid Profit: -0.06055
+=======================
+Name: edo2022 | https://opensea.io/collection/edo2022/analytics | https://blur.io/collection/edo2022
+Floor: 0.1384 | Offer: 0.1205 | 7D Sales: 19 | Fee: 0.5% | Total Volume: 1035.11 | Blur Floor: 0.1153 | Blur Bid: 0.06
+Profit: 0.01721 | 14.28% | Blur Bid Profit: -0.0608
+=======================
+Name: Welly NFT | https://opensea.io/collection/wellyfriends-nft/analytics | https://blur.io/collection/wellyfriends-nft
+Floor: 0.1447 | Offer: 0.12101 | 7D Sales: 65 | Fee: 0.5% | Total Volume: 649.18 | Blur Floor: 0.0889 | Blur Bid: 0.06
+Profit: 0.02297 | 18.98% | Blur Bid Profit: -0.06131
+=======================
+Name: Dolce&Gabbana: DGFamily Glass Box | https://opensea.io/collection/dolce-gabbana-dgfamily-glass/analytics | https://blur.io/collection/dolce-gabbana-dgfamily-glass
+Floor: 0.295 | Offer: 0.2307 | 7D Sales: 6 | Fee: 0.5% | Total Volume: 3838.59 | Blur Floor: 0.24 | Blur Bid: 0.17
+Profit: 0.06282 | 27.23% | Blur Bid Profit: -0.06155
+=======================
+Name: Sports Rollbots | https://opensea.io/collection/sportsbots/analytics | https://blur.io/collection/sportsbots
+Floor: 0.39 | Offer: 0.351 | 7D Sales: 6 | Fee: 0.5% | Total Volume: 644.07 | Blur Floor: 0.39 | Blur Bid: 0.29
+Profit: 0.03705 | 10.56% | Blur Bid Profit: -0.06245
+=======================
+Name: Castaways - Genesis | https://opensea.io/collection/castaways-genesis/analytics | https://blur.io/collection/castaways-genesis
+Floor: 1.5 | Offer: 0.91269 | 7D Sales: 24 | Fee: 10.0% | Total Volume: 1069.43 | Blur Floor: 1.25 | Blur Bid: 0.94
+Profit: 0.43731 | 47.91% | Blur Bid Profit: -0.06669
+=======================
+Name: Across the Face by Osinachi | https://opensea.io/collection/across-the-face/analytics | https://blur.io/collection/across-the-face
+Floor: 0.168499 | Offer: 0.077777 | 7D Sales: 6 | Fee: 0.5% | Total Volume: 97.14 | Blur Floor: 0.1684 | Blur Bid: 0.01
+Profit: 0.08988 | 115.56% | Blur Bid Profit: -0.06783
+=======================
+Name: Arties Mint Pass | https://opensea.io/collection/arties-mint-pass/analytics | https://blur.io/collection/arties-mint-pass
+Floor: 0.276 | Offer: 0.23 | 7D Sales: 8 | Fee: 0.5% | Total Volume: 129.11 | Blur Floor: 0.26 | Blur Bid: 0.16
+Profit: 0.04462 | 19.4% | Blur Bid Profit: -0.0708
+=======================
+Name: THE SHIBOSHIS | https://opensea.io/collection/theshiboshis/analytics | https://blur.io/collection/theshiboshis
+Floor: 0.348 | Offer: 0.32 | 7D Sales: 163 | Fee: 0.5% | Total Volume: 14888.73 | Blur Floor: 0.2412 | Blur Bid: 0.25
+Profit: 0.02626 | 8.21% | Blur Bid Profit: -0.07125
+=======================
+Name: IO: Imaginary Ones | https://opensea.io/collection/io-imaginary-ones/analytics | https://blur.io/collection/io-imaginary-ones
+Floor: 0.9025 | Offer: 0.86 | 7D Sales: 155 | Fee: 0.5% | Total Volume: 14580.97 | Blur Floor: 0.839 | Blur Bid: 0.79
+Profit: 0.03799 | 4.42% | Blur Bid Profit: -0.07395
+=======================
+Name: Admit One | https://opensea.io/collection/admit-one/analytics | https://blur.io/collection/admit-one
+Floor: 1.795 | Offer: 1.5 | 7D Sales: 18 | Fee: 0.5% | Total Volume: 7151.73 | Blur Floor: 1.72 | Blur Bid: 1.43
+Profit: 0.28602 | 19.07% | Blur Bid Profit: -0.07715
+=======================
+Name: MetaKozo Official | https://opensea.io/collection/metakozo-official/analytics | https://blur.io/collection/metakozo-official
+Floor: 0.2492 | Offer: 0.201 | 7D Sales: 17 | Fee: 7.5% | Total Volume: 373.39 | Blur Floor: 0.2493 | Blur Bid: 0.12
+Profit: 0.02951 | 14.68% | Blur Bid Profit: -0.09
+=======================
+Name: VeeFriends Iconics | https://opensea.io/collection/veefriends-iconics/analytics | https://blur.io/collection/veefriends-iconics
+Floor: 0.3898 | Offer: 0.2451 | 7D Sales: 12 | Fee: 0.5% | Total Volume: 329.32 | Blur Floor: 0.3898 | Blur Bid: 0.15
+Profit: 0.14275 | 58.24% | Blur Bid Profit: -0.09585
+=======================
+Name: META KONGZ OFFICIAL | https://opensea.io/collection/meta-kongz-official/analytics | https://blur.io/collection/meta-kongz-official
+Floor: 0.94 | Offer: 0.80781 | 7D Sales: 169 | Fee: 0.5% | Total Volume: 4097.83 | Blur Floor: 0.94 | Blur Bid: 0.71
+Profit: 0.12749 | 15.78% | Blur Bid Profit: -0.10136
+=======================
+Name: DeBox Guardians Penguin | https://opensea.io/collection/debox-guardians-penguin/analytics | https://blur.io/collection/debox-guardians-penguin
+Floor: 1.21 | Offer: 1.1 | 7D Sales: 17 | Fee: 0.5% | Total Volume: 542.62 | Blur Floor: 1.21 | Blur Bid: 1
+Profit: 0.10395 | 9.45% | Blur Bid Profit: -0.105
+=======================
+Name: Nippy: Magnet for Mischief | https://opensea.io/collection/nippy-official/analytics | https://blur.io/collection/nippy-official
+Floor: 0.1739 | Offer: 0.1291 | 7D Sales: 26 | Fee: 0.5% | Total Volume: 473.8 | Blur Floor: 0.1679 | Blur Bid: 0.02
+Profit: 0.04393 | 34.03% | Blur Bid Profit: -0.1092
+=======================
+Name: SKY MEADOW by Andrew Mitchell | https://opensea.io/collection/sky-meadow-by-andrew-mitchell/analytics | https://blur.io/collection/sky-meadow-by-andrew-mitchell
+Floor: 0.2544 | Offer: 0.13 | 7D Sales: 5 | Fee: 0.5% | Total Volume: 105.19 | Blur Floor: 0.2505 | Blur Bid: 0.02
+Profit: 0.12313 | 94.71% | Blur Bid Profit: -0.1101
+=======================
+Name: DRIP DROP  BY DAVE KRUGMAN | https://opensea.io/collection/drip-drop-by-dave-krugman/analytics | https://blur.io/collection/drip-drop-by-dave-krugman
+Floor: 0.4499 | Offer: 0.29979 | 7D Sales: 12 | Fee: 0.5% | Total Volume: 325.59 | Blur Floor: 0.31 | Blur Bid: 0.19
+Profit: 0.14786 | 49.32% | Blur Bid Profit: -0.11074
+=======================
+Name: PixelMap | https://opensea.io/collection/pixelmap/analytics | https://blur.io/collection/pixelmap
+Floor: 0.6269 | Offer: 0.4004 | 7D Sales: 12 | Fee: 0.5% | Total Volume: 3367.43 | Blur Floor: 0.57 | Blur Bid: 0.29
+Profit: 0.22337 | 55.79% | Blur Bid Profit: -0.11185
+=======================
+Name: DenDekaDen Genesis Omikuji | https://opensea.io/collection/dendekaden/analytics | https://blur.io/collection/dendekaden
+Floor: 1.5499 | Offer: 1.23023 | 7D Sales: 70 | Fee: 0.5% | Total Volume: 4604.01 | Blur Floor: 1.29 | Blur Bid: 1.12
+Profit: 0.31192 | 25.35% | Blur Bid Profit: -0.11583
+=======================
+Name: Nippy & Frens Founders Pass | https://opensea.io/collection/nippy-and-frens-founders-pass/analytics | https://blur.io/collection/nippy-and-frens-founders-pass
+Floor: 0.39895 | Offer: 0.22467 | 7D Sales: 17 | Fee: 0.5% | Total Volume: 85.72 | Blur Floor: 0.395 | Blur Bid: 0.1
+Profit: 0.17229 | 76.68% | Blur Bid Profit: -0.12517
+=======================
+Name: Block Queens by Jeremy Cowart | https://opensea.io/collection/block-queens-by-jeremy-cowart/analytics | https://blur.io/collection/block-queens-by-jeremy-cowart
+Floor: 0.3 | Offer: 0.21 | 7D Sales: 10 | Fee: 0.5% | Total Volume: 496.2 | Blur Floor: 0.3 | Blur Bid: 0.08
+Profit: 0.0885 | 42.14% | Blur Bid Profit: -0.1304
+=======================
+Name: Alpha Wolves DAO | https://opensea.io/collection/alpha-wolves-dao/analytics | https://blur.io/collection/alpha-wolves-dao
+Floor: 0.598 | Offer: 0.5 | 7D Sales: 11 | Fee: 0.5% | Total Volume: 182.64 | Blur Floor: 0.598 | Blur Bid: 0.37
+Profit: 0.09501 | 19.0% | Blur Bid Profit: -0.13185
+=======================
+Name: SOL - 365 | https://opensea.io/collection/sol-365/analytics | https://blur.io/collection/sol-365
+Floor: 0.695 | Offer: 0.45 | 7D Sales: 5 | Fee: 0.5% | Total Volume: 262.84 | Blur Floor: 0.695 | Blur Bid: 0.31
+Profit: 0.24152 | 53.67% | Blur Bid Profit: -0.14155
+=======================
+Name: SuperCreators Origins | https://opensea.io/collection/supercreatorsorigins/analytics | https://blur.io/collection/supercreatorsorigins
+Floor: 0.39135 | Offer: 0.25202 | 7D Sales: 13 | Fee: 0.5% | Total Volume: 2554.28 | Blur Floor: 0.198 | Blur Bid: 0.1
+Profit: 0.13737 | 54.51% | Blur Bid Profit: -0.15252
+=======================
+Name: The Kiss NFT - Gustav Klimt by Belvedere Museum | https://opensea.io/collection/belvedere-arteq-the-kiss-by-gustav-klimt/analytics | https://blur.io/collection/belvedere-arteq-the-kiss-by-gustav-klimt
+Floor: 0.48 | Offer: 0.25 | 7D Sales: 7 | Fee: 0.5% | Total Volume: 130.23 | Blur Floor: 0.29 | Blur Bid: 0.09
+Profit: 0.2276 | 91.04% | Blur Bid Profit: -0.16045
+=======================
+Name: web3wallet NFT | https://opensea.io/collection/web3wallet-nft/analytics | https://blur.io/collection/web3wallet-nft
+Floor: 0.78 | Offer: 0.40011 | 7D Sales: 8 | Fee: 0.5% | Total Volume: 251.74 | Blur Floor: 0.5128 | Blur Bid: 0.23
+Profit: 0.37599 | 93.97% | Blur Bid Profit: -0.17126
+=======================
+Name: TradFiLines (Each of these hold a claim to a sub4k ordinal inscription!) | https://opensea.io/collection/tradfilines/analytics | https://blur.io/collection/tradfilines
+Floor: 1.8 | Offer: 1.421 | 7D Sales: 15 | Fee: 0.5% | Total Volume: 1501.93 | Blur Floor: 1.8 | Blur Bid: 1.25
+Profit: 0.37 | 26.04% | Blur Bid Profit: -0.17725
+=======================
+Name: Dark Labs Membership | https://opensea.io/collection/darklabs/analytics | https://blur.io/collection/darklabs
+Floor: 0.75 | Offer: 0.55 | 7D Sales: 9 | Fee: 10.0% | Total Volume: 172.14 | Blur Floor: 0.75 | Blur Bid: 0.41
+Profit: 0.125 | 22.73% | Blur Bid Profit: -0.181
+=======================
+Name: ASM AIFA Genesis | https://opensea.io/collection/asm-aifa-genesis/analytics | https://blur.io/collection/asm-aifa-genesis
+Floor: 0.81995 | Offer: 0.5232 | 7D Sales: 6 | Fee: 0.5% | Total Volume: 10317.27 | Blur Floor: 0.819 | Blur Bid: 0.33
+Profit: 0.29265 | 55.93% | Blur Bid Profit: -0.19485
+=======================
+Name: Prometheus by XBorg | https://opensea.io/collection/xborg-prometheus/analytics | https://blur.io/collection/xborg-prometheus
+Floor: 0.666 | Offer: 0.401 | 7D Sales: 5 | Fee: 0.5% | Total Volume: 192.26 | Blur Floor: 0.666 | Blur Bid: 0.18
+Profit: 0.26167 | 65.25% | Blur Bid Profit: -0.2219
+=======================
+Name: Gay Aliens Society (Gen 1) | https://opensea.io/collection/gay-aliens-society-gen-1/analytics | https://blur.io/collection/gay-aliens-society-gen-1
+Floor: 1.8995999999999997 | Offer: 0.68559 | 7D Sales: 8 | Fee: 0.5% | Total Volume: 246.11 | Blur Floor: 0.8629 | Blur Bid: 0.42
+Profit: 1.20451 | 175.69% | Blur Bid Profit: -0.26769
+=======================
+Name: MoreKudasai | https://opensea.io/collection/morekudasai/analytics | https://blur.io/collection/morekudasai
+Floor: 1.5 | Offer: 1.3 | 7D Sales: 8 | Fee: 0.5% | Total Volume: 162.36 | Blur Floor: 1.5 | Blur Bid: 0.9
+Profit: 0.1925 | 14.81% | Blur Bid Profit: -0.4045
+=======================
+Name: tomi Pioneers Governance Club | https://opensea.io/collection/tomi-pioneers/analytics | https://blur.io/collection/tomi-pioneers
+Floor: 2.85 | Offer: 0.8 | 7D Sales: 9 | Fee: 5.0% | Total Volume: 67.96 | No Blur
+Profit: 1.9075 | 238.44%
+=======================
+Name: Realms of Ether | https://opensea.io/collection/realms-of-ether-1/analytics | https://blur.io/collection/realms-of-ether-1
+Floor: 1.96 | Offer: 1.26 | 7D Sales: 6 | Fee: 0.5% | Total Volume: 1573.14 | No Blur
+Profit: 0.6902 | 54.78%
+=======================
+Name: Quantum Memories - Noise | https://opensea.io/collection/quantum-memories-noise-abc/analytics | https://blur.io/collection/quantum-memories-noise-abc
+Floor: 0.678 | Offer: 0.2212 | 7D Sales: 7 | Fee: 0.5% | Total Volume: 49.91 | No Blur
+Profit: 0.45341 | 204.98%
+=======================
+Name: Bad Dogs Company (Genesis) | https://opensea.io/collection/baddogscompany/analytics | https://blur.io/collection/baddogscompany
+Floor: 0.5789 | Offer: 0.26 | 7D Sales: 22 | Fee: 0.5% | Total Volume: 370.42 | No Blur
+Profit: 0.31601 | 121.54%
+=======================
+Name: Live Like A Cat -neko no youni ikiru- | https://opensea.io/collection/live-like-a-cat-nekonoyouniikiru/analytics | https://blur.io/collection/live-like-a-cat-nekonoyouniikiru
+Floor: 1.35 | Offer: 1.01101 | 7D Sales: 33 | Fee: 10.0% | Total Volume: 1589.24 | Blur Floor: 1.35 | Blur Bid: 0
+Profit: 0.20399 | 20.18%
+=======================
+Name: OG Portal NFT | https://opensea.io/collection/og-portal-nft/analytics | https://blur.io/collection/og-portal-nft
+Floor: 0.414 | Offer: 0.21001 | 7D Sales: 5 | Fee: 0.5% | Total Volume: 424.47 | No Blur
+Profit: 0.20192 | 96.15%
+=======================
+Name: Meta Bounty Hunters | https://opensea.io/collection/metabountyhunters/analytics | https://blur.io/collection/metabountyhunters
+Floor: 0.444 | Offer: 0.25004 | 7D Sales: 26 | Fee: 0.5% | Total Volume: 3977.34 | No Blur
+Profit: 0.19174 | 76.68%
+=======================
+Name: WAGMI Game Genesis Collection | https://opensea.io/collection/wagmi-genesis-collection/analytics | https://blur.io/collection/wagmi-genesis-collection
+Floor: 0.78 | Offer: 0.61126 | 7D Sales: 15 | Fee: 0.5% | Total Volume: 842.86 | No Blur
+Profit: 0.16484 | 26.97%
+=======================
+Name: Social BEES University | https://opensea.io/collection/social-bees-university/analytics | https://blur.io/collection/social-bees-university
+Floor: 0.32605 | Offer: 0.18443 | 7D Sales: 36 | Fee: 0.5% | Total Volume: 1448.0 | No Blur
+Profit: 0.13999 | 75.9%
+=======================
+Name: Neo Tokyo Outer Item Caches | https://opensea.io/collection/neo-tokyo-outer-item-caches/analytics | https://blur.io/collection/neo-tokyo-outer-item-caches
+Floor: 0.21495 | Offer: 0.08531 | 7D Sales: 9 | Fee: 0.5% | Total Volume: 1363.56 | No Blur
+Profit: 0.12857 | 150.7%
+=======================
+Name: Gutter Cat Gang | https://opensea.io/collection/guttercatgang/analytics | https://blur.io/collection/guttercatgang
+Floor: 1.109 | Offer: 0.98516852620168 | 7D Sales: 34 | Fee: 0.5% | Total Volume: 26450.93 | No Blur
+Profit: 0.11829 | 12.01%
+=======================
+Name: Hydro Whales Mining Club Official | https://opensea.io/collection/hydro-whales-mining-club-official/analytics | https://blur.io/collection/hydro-whales-mining-club-official
+Floor: 0.8882298 | Offer: 0.76896 | 7D Sales: 14 | Fee: 0.5% | Total Volume: 2218.87 | No Blur
+Profit: 0.11483 | 14.93%
+=======================
+Name: Neo Tokyo Outer Lands | https://opensea.io/collection/neo-tokyo-outer-lands/analytics | https://blur.io/collection/neo-tokyo-outer-lands
+Floor: 0.24935 | Offer: 0.1336 | 7D Sales: 7 | Fee: 0.5% | Total Volume: 692.32 | No Blur
+Profit: 0.1145 | 85.71%
+=======================
+Name: Tokyo Mongz Hills Club OFFICIAL | https://opensea.io/collection/tmhc/analytics | https://blur.io/collection/tmhc
+Floor: 0.2 | Offer: 0.1002099 | 7D Sales: 16 | Fee: 0.5% | Total Volume: 47.5 | No Blur
+Profit: 0.09879 | 98.58%
+=======================
+Name: Asterfi | https://opensea.io/collection/asterfi/analytics | https://blur.io/collection/asterfi
+Floor: 0.3508 | Offer: 0.2556 | 7D Sales: 6 | Fee: 0.5% | Total Volume: 170.48 | No Blur
+Profit: 0.09345 | 36.56%
+=======================
+Name: METAOASIS_OFFICIAL | https://opensea.io/collection/metaoasis-official/analytics | https://blur.io/collection/metaoasis-official
+Floor: 0.1 | Offer: 0.0100236598756 | 7D Sales: 6 | Fee: 0.5% | Total Volume: 69.78 | Blur Floor: 0.1 | Blur Bid: 0
+Profit: 0.08948 | 892.65%
+=======================
+Name: Voxels (formerly Cryptovoxels) | https://opensea.io/collection/cryptovoxels/analytics | https://blur.io/collection/cryptovoxels
+Floor: 0.3543 | Offer: 0.26375 | 7D Sales: 12 | Fee: 0.5% | Total Volume: 25491.01 | No Blur
+Profit: 0.08878 | 33.66%
+=======================
+Name: Looki | https://opensea.io/collection/looki/analytics | https://blur.io/collection/looki
+Floor: 0.4199 | Offer: 0.33752 | 7D Sales: 16 | Fee: 0.5% | Total Volume: 3991.38 | No Blur
+Profit: 0.08028 | 23.79%
+=======================
+Name: Maya Masks | https://opensea.io/collection/mayamasks/analytics | https://blur.io/collection/mayamasks
+Floor: 0.1315 | Offer: 0.05655 | 7D Sales: 17 | Fee: 0.5% | Total Volume: 39.11 | No Blur
+Profit: 0.07429 | 131.37%
+=======================
+Name: The Plague NFT | https://opensea.io/collection/the-plague/analytics | https://blur.io/collection/the-plague
+Floor: 0.2796 | Offer: 0.1856 | 7D Sales: 115 | Fee: 7.5% | Total Volume: 4447.66 | Blur Floor: 0.018 | Blur Bid: 0
+Profit: 0.07303 | 39.35%
+=======================
+Name: PokerGO Genesis NFT Collection | https://opensea.io/collection/pokergo-genesis-nft-collection/analytics | https://blur.io/collection/pokergo-genesis-nft-collection
+Floor: 0.15 | Offer: 0.0801 | 7D Sales: 6 | Fee: 0.5% | Total Volume: 44.6 | No Blur
+Profit: 0.06915 | 86.33%
+=======================
+Name: Victoria VR Lands | https://opensea.io/collection/victoria-vr-lands/analytics | https://blur.io/collection/victoria-vr-lands
+Floor: 0.14 | Offer: 0.07657 | 7D Sales: 17 | Fee: 0.5% | Total Volume: 544.75 | No Blur
+Profit: 0.06273 | 81.93%
+=======================
+Name: Ekta Portal | https://opensea.io/collection/ekta-portal/analytics | https://blur.io/collection/ekta-portal
+Floor: 0.11779900000000001 | Offer: 0.055 | 7D Sales: 31 | Fee: 0.5% | Total Volume: 47.18 | No Blur
+Profit: 0.06221 | 113.11%
+=======================
+Name: Trillionaire Thugs | https://opensea.io/collection/trillionaire-thugs/analytics | https://blur.io/collection/trillionaire-thugs
+Floor: 0.1888 | Offer: 0.12591 | 7D Sales: 23 | Fee: 0.5% | Total Volume: 4170.81 | No Blur
+Profit: 0.06195 | 49.2%
+=======================
+Name: Mournbirds | https://opensea.io/collection/mournbirds/analytics | https://blur.io/collection/mournbirds
+Floor: 0.09 | Offer: 0.033 | 7D Sales: 6 | Fee: 0.5% | Total Volume: 24.97 | Blur Floor: 0.07 | Blur Bid: 0
+Profit: 0.05655 | 171.36%
+=======================
+Name: Women Unite - 10k Assemble | https://opensea.io/collection/women-unite-10k-assemble/analytics | https://blur.io/collection/women-unite-10k-assemble
+Floor: 0.1899 | Offer: 0.13338 | 7D Sales: 81 | Fee: 0.5% | Total Volume: 1142.47 | No Blur
+Profit: 0.05557 | 41.66%
+=======================
+Name: JUNK FOOD PARTY -by JUNKeeeeS- | https://opensea.io/collection/junk-food-party/analytics | https://blur.io/collection/junk-food-party
+Floor: 0.185 | Offer: 0.12891 | 7D Sales: 7 | Fee: 0.5% | Total Volume: 138.93 | No Blur
+Profit: 0.05516 | 42.79%
+=======================
+Name: Tunney Munney | https://opensea.io/collection/tunney-munney/analytics | https://blur.io/collection/tunney-munney
+Floor: 0.1262 | Offer: 0.0709 | 7D Sales: 5 | Fee: 0.5% | Total Volume: 170.67 | No Blur
+Profit: 0.05467 | 77.11%
+=======================
+Name: ApeLiquid | https://opensea.io/collection/apeliquid/analytics | https://blur.io/collection/apeliquid
+Floor: 0.1419 | Offer: 0.09114 | 7D Sales: 13 | Fee: 0.5% | Total Volume: 415.47 | No Blur
+Profit: 0.05005 | 54.92%
+=======================
+Name: Aopanda Party | https://opensea.io/collection/aopanda-party/analytics | https://blur.io/collection/aopanda-party
+Floor: 0.3998 | Offer: 0.3101 | 7D Sales: 66 | Fee: 10.0% | Total Volume: 2284.5 | Blur Floor: 0.3998 | Blur Bid: 0
+Profit: 0.04972 | 16.03%
+=======================
+Name: Gutter Rats | https://opensea.io/collection/gutterrats/analytics | https://blur.io/collection/gutterrats
+Floor: 0.18 | Offer: 0.1317 | 7D Sales: 26 | Fee: 0.5% | Total Volume: 7402.64 | No Blur
+Profit: 0.0474 | 35.99%
+=======================
+Name: Hiroshima Dragonflies NFT | https://opensea.io/collection/dragonflies-hiroshima/analytics | https://blur.io/collection/dragonflies-hiroshima
+Floor: 0.1824 | Offer: 0.13501 | 7D Sales: 69 | Fee: 0.5% | Total Volume: 154.35 | No Blur
+Profit: 0.04648 | 34.43%
+=======================
+Name: Skybrook | https://opensea.io/collection/skybrook/analytics | https://blur.io/collection/skybrook
+Floor: 0.1998 | Offer: 0.15 | 7D Sales: 7 | Fee: 2.5% | Total Volume: 306.4 | Blur Floor: 0.18 | Blur Bid: 0
+Profit: 0.04481 | 29.87%
+=======================
+Name: Elongevity Enigma | https://opensea.io/collection/elongevity-enigma/analytics | https://blur.io/collection/elongevity-enigma
+Floor: 0.105 | Offer: 0.06491 | 7D Sales: 19 | Fee: 0.5% | Total Volume: 154.14 | No Blur
+Profit: 0.03957 | 60.95%
+=======================
+Name: Elysium Code | https://opensea.io/collection/e-code/analytics | https://blur.io/collection/e-code
+Floor: 0.107 | Offer: 0.0701 | 7D Sales: 38 | Fee: 0.5% | Total Volume: 2768.27 | No Blur
+Profit: 0.03637 | 51.88%
+=======================
+Name: Silks Sky Falls Land Parcels | https://opensea.io/collection/silks-sky-falls/analytics | https://blur.io/collection/silks-sky-falls
+Floor: 0.2894 | Offer: 0.2516 | 7D Sales: 23 | Fee: 0.5% | Total Volume: 327.31 | No Blur
+Profit: 0.03635 | 14.45%
+=======================
+Name: Tribe Quokka - Genesis | https://opensea.io/collection/tribequokkagenesis/analytics | https://blur.io/collection/tribequokkagenesis
+Floor: 0.0838 | Offer: 0.0475 | 7D Sales: 10 | Fee: 0.5% | Total Volume: 620.99 | No Blur
+Profit: 0.03588 | 75.54%
+=======================
+Name: HELIX - 1959 ARCHIPELAGO CRUISEMASTER | https://opensea.io/collection/1959-archipelago-cruisemaster/analytics | https://blur.io/collection/1959-archipelago-cruisemaster
+Floor: 0.0899 | Offer: 0.0542 | 7D Sales: 7 | Fee: 0.5% | Total Volume: 48.26 | No Blur
+Profit: 0.03525 | 65.04%
+=======================
+Name: Everdome Lands | https://opensea.io/collection/everdome-lands/analytics | https://blur.io/collection/everdome-lands
+Floor: 0.1391 | Offer: 0.10711 | 7D Sales: 14 | Fee: 0.5% | Total Volume: 146.73 | No Blur
+Profit: 0.03129 | 29.22%
+=======================
+Name: 77-Bit | https://opensea.io/collection/77bit/analytics | https://blur.io/collection/77bit
+Floor: 0.17489 | Offer: 0.14456 | 7D Sales: 61 | Fee: 0.5% | Total Volume: 20178.3 | No Blur
+Profit: 0.02946 | 20.38%
+=======================
+Name: Mob Ties by Michael Franzese | https://opensea.io/collection/mobtiesfamily/analytics | https://blur.io/collection/mobtiesfamily
+Floor: 0.0999 | Offer: 0.065 | 7D Sales: 25 | Fee: 5.5% | Total Volume: 229.4 | No Blur
+Profit: 0.02941 | 45.24%
+=======================
+Name: XANA:  LAND | https://opensea.io/collection/xanaland/analytics | https://blur.io/collection/xanaland
+Floor: 0.2291 | Offer: 0.20001 | 7D Sales: 12 | Fee: 0.5% | Total Volume: 508.15 | No Blur
+Profit: 0.02794 | 13.97%
+=======================
+Name: Enigma Economy NFT | https://opensea.io/collection/theenigmav4/analytics | https://blur.io/collection/theenigmav4
+Floor: 0.11 | Offer: 0.08169 | 7D Sales: 13 | Fee: 0.5% | Total Volume: 146.97 | No Blur
+Profit: 0.02776 | 33.98%
+=======================
+Name: The F8 Club | https://opensea.io/collection/the-f8-club-original-nft/analytics | https://blur.io/collection/the-f8-club-original-nft
+Floor: 0.0819 | Offer: 0.05825 | 7D Sales: 31 | Fee: 0.5% | Total Volume: 475.11 | No Blur
+Profit: 0.02324 | 39.9%
+=======================
+Name: Art Blocks Explorations | https://opensea.io/collection/friendship-bracelets-by-alexis-andre/analytics | https://blur.io/collection/friendship-bracelets-by-alexis-andre
+Floor: 0.199 | Offer: 0.17500000000000002 | 7D Sales: 240 | Fee: 0.5% | Total Volume: 17054.91 | Blur Floor: 0.1944 | Blur Bid: 0
+Profit: 0.023 | 13.15%
+=======================
+Name: oFriends | https://opensea.io/collection/ofriends/analytics | https://blur.io/collection/ofriends
+Floor: 0.1368 | Offer: 0.11729 | 7D Sales: 83 | Fee: 0.5% | Total Volume: 257.89 | Blur Floor: 0.1368 | Blur Bid: 0
+Profit: 0.01883 | 16.05%
+=======================
+Name: Mutant Hounds | https://opensea.io/collection/mutant-hounds/analytics | https://blur.io/collection/mutant-hounds
+Floor: 0.23 | Offer: 0.20001 | 7D Sales: 295 | Fee: 5.0% | Total Volume: 5012.49 | Blur Floor: 0.22 | Blur Bid: 0
+Profit: 0.01849 | 9.24%
+=======================
+Name: PridePunks 2018 | https://opensea.io/collection/pridepunks2018/analytics | https://blur.io/collection/pridepunks2018
+Floor: 0.08 | Offer: 0.0653 | 7D Sales: 66 | Fee: 0.5% | Total Volume: 1232.56 | No Blur
+Profit: 0.0143 | 21.9%
+=======================
+Name: eduworlds | https://opensea.io/collection/eduworlds/analytics | https://blur.io/collection/eduworlds
+Floor: 0.1475 | Offer: 0.135 | 7D Sales: 16 | Fee: 0.5% | Total Volume: 92.37 | No Blur
+Profit: 0.01176 | 8.71%
+=======================
+Name: Murakami Lucky Cat Coin Bank | https://opensea.io/collection/murakami-lucky-cat-coin-bank/analytics | https://blur.io/collection/murakami-lucky-cat-coin-bank
+Floor: 0.1019 | Offer: 0.09 | 7D Sales: 22 | Fee: 0.5% | Total Volume: 2269.9 | No Blur
+Profit: 0.01139 | 12.66%
+=======================
+Name: The Walking Dead Official | https://opensea.io/collection/thewalkingdeadofficial/analytics | https://blur.io/collection/thewalkingdeadofficial
+Floor: 0.111 | Offer: 0.09937 | 7D Sales: 38 | Fee: 0.5% | Total Volume: 3662.86 | No Blur
+Profit: 0.01108 | 11.15%
+=======================
+Name: League of Kingdoms Drago | https://opensea.io/collection/lokdrago/analytics | https://blur.io/collection/lokdrago
+Floor: 0.0891 | Offer: 0.07931 | 7D Sales: 64 | Fee: 0.5% | Total Volume: 228.72 | No Blur
+Profit: 0.00934 | 11.78%
+=======================
+Name: The Sad Times NFT | https://opensea.io/collection/thesadtimesbirthcertificate/analytics | https://blur.io/collection/thesadtimesbirthcertificate
+Floor: 0.1242 | Offer: 0.11 | 7D Sales: 44 | Fee: 7.5% | Total Volume: 434.93 | No Blur
+Profit: 0.00489 | 4.44%
+=======================
+You already bidding on: ultiverse-electric-sheep
+You already bidding on: metaverse-access-card
+You already bidding on: goda-mint-pass
+You already bidding on: bitaverse-v2
+You already bidding on: link3-mystery-box
+You already bidding on: lasercat-nft
+You already bidding on: gm-token
+You already bidding on: tom-sachs-rockets
+You already bidding on: the-anata-nft
+You already bidding on: gosleep-nightscaper-edition
+You already bidding on: wilderbeasts-wolf
+You already bidding on: grailers-dao
+You already bidding on: the-shards
+You already bidding on: 3gm-genesis-pass
+You already bidding on: lootproject
+You already bidding on: earlybirdsgenesis
+You already bidding on: hedz-by-matt-furie
+You already bidding on: inhabitants-generative
+You already bidding on: cryptocitizensofficial
+You already bidding on: matr1x-2061-1
+You already bidding on: mind-the-gap-by-mountvitruvius
+You already bidding on: wanghai-village-series
+You already bidding on: night-vision-series
+You already bidding on: shatteredeon-pirates
+You already bidding on: renga-black-box
+You already bidding on: fusionist-quartan-primes
+You already bidding on: digidaigakuheroes
+You already bidding on: the-blitnauts
